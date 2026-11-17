@@ -1,0 +1,2158 @@
+{
+  "site": {
+    "name": "مؤسسة خوشي الخيرية",
+    "shortName": "مؤسسة خوشي الخيرية",
+    "legalName": "مؤسسة القارئ خوشي محمد الأزهري للرعاية الاجتماعية",
+    "tagline": "الرحمة تتجسد في العطاء",
+    "description": "مؤسسة إنسانية مسجلة تخدم الفئات الأشد احتياجًا، مستلهمةً إرث القارئ خوشي محمد الأزهري رحمه الله.",
+    "founderName": "القارئ خوشي محمد الأزهري",
+    "founderHonorific": "رحمه الله",
+    "founderDisplayName": "القارئ خوشي محمد الأزهري رحمه الله",
+    "founderRelationship": "أُنشئت المؤسسة تخليدًا لذكراه؛ ولا يحدد الموقع الإلكتروني المقدم الشخص الذي أسس المؤسسة قانونيًا.",
+    "logo": "logo.png",
+    "registration": [
+      {
+        "act": "قانون المؤسسات الاستئمانية 2020",
+        "number": "044/46/TRUST/DLR"
+      },
+      {
+        "act": "قانون الجمعيات الخيرية 2018",
+        "number": "PB-6590311132347324"
+      }
+    ],
+    "registrationAuthority": "حكومة البنجاب",
+    "legalStatement": "مرخصة قانونيًا لتلقي التبرعات والأموال.",
+    "contact": {
+      "address": "تشاك 16 جي دي، أوكارا، البنجاب، باكستان",
+      "email": "thekhushitrust@gmail.com",
+      "phone": "+92 306 5352149",
+      "whatsapp": "+92 306 5352149",
+      "whatsappUrl": "https://wa.me/923065352149",
+      "whatsappCtaUrl": "https://wa.me/923065352149?text=Hello!%20I%27m%20interested%20in%20learning%20more%20about%20The%20Khushi%20Trust%20and%20how%20I%20can%20help.",
+      "whatsappMessage": "مرحبًا! أود معرفة المزيد عن مؤسسة خوشي الخيرية وكيف يمكنني المساعدة.",
+      "people": [
+        {
+          "name": "منشا راي",
+          "role": "رئيس مجلس خوشي للتواصل",
+          "phone": "+92 300 7952838"
+        },
+        {
+          "name": "أزهر بشير",
+          "role": "أمين الشؤون المالية",
+          "phone": "+92 306 5352149"
+        }
+      ],
+      "mapUrl": null
+    },
+    "social": [
+      {
+        "name": "فيسبوك",
+        "url": "https://www.facebook.com/share/1CgoNVLLaG/"
+      },
+      {
+        "name": "إنستغرام",
+        "url": "https://www.instagram.com/khushitrust16?igsh=YTI3Nm4xbjg3cDN5"
+      },
+      {
+        "name": "واتساب",
+        "url": "https://wa.me/923065352149"
+      }
+    ],
+    "footer": {
+      "copyrightYear": 2026,
+      "copyright": "© 2026 مؤسسة خوشي الخيرية. جميع الحقوق محفوظة.",
+      "registrationText": "مسجلة بموجب قانون المؤسسات الاستئمانية 2020 — رقم التسجيل: 044/46/TRUST/DLR | قانون الجمعيات الخيرية 2018 — رقم التسجيل: PB-6590311132347324",
+      "quickLinkKeys": [
+        "home",
+        "about",
+        "qariKhushi",
+        "programs",
+        "team",
+        "impact",
+        "donate",
+        "contact"
+      ],
+      "featuredProgramSlugs": [
+        "education-support",
+        "women-empowerment",
+        "healthcare",
+        "clean-water",
+        "sports",
+        "tree-plantation"
+      ]
+    }
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "programs": "البرامج",
+    "impact": "أثرنا",
+    "team": "الفريق",
+    "articles": "المقالات",
+    "contact": "تواصل معنا",
+    "donate": "تبرع",
+    "volunteer": "تطوع",
+    "qariKhushi": "القارئ خوشي",
+    "menu": "القائمة",
+    "language": "اللغة",
+    "english": "الإنجليزية",
+    "urdu": "الأردية"
+  },
+  "ui": {
+    "donateNow": "تبرع الآن",
+    "learnMore": "اعرف المزيد",
+    "readMore": "اقرأ المزيد",
+    "seeAllPrograms": "استعرض جميع البرامج",
+    "backToPrograms": "العودة إلى البرامج",
+    "allPrograms": "جميع البرامج",
+    "quickLinks": "روابط سريعة",
+    "ourPrograms": "برامجنا",
+    "contactUs": "تواصل معنا",
+    "rights": "جميع الحقوق محفوظة.",
+    "whatsappCta": "تواصل معنا عبر واتساب",
+    "send": "إرسال الرسالة",
+    "name": "الاسم",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "message": "الرسالة",
+    "subject": "الموضوع",
+    "city": "المدينة",
+    "areaOfInterest": "مجال الاهتمام",
+    "selectArea": "اختر مجالًا",
+    "submitApplication": "إرسال الطلب",
+    "required": "مطلوب",
+    "location": "الموقع",
+    "registration": "التسجيل",
+    "findUs": "موقعنا",
+    "ourTeam": "فريقنا",
+    "contactInformation": "معلومات التواصل",
+    "sendUsMessage": "أرسل إلينا رسالة",
+    "programOverview": "نبذة عن البرنامج",
+    "keyAchievement": "أبرز إنجاز",
+    "keyAchievements": "أبرز الإنجازات",
+    "target2026": "هدف 2026–27",
+    "targets2026": "أهداف 2026–27",
+    "supportProgram": "ادعم هذا البرنامج",
+    "sponsorCause": "اكفل مبادرة",
+    "sponsorThis": "اكفل هذه المبادرة",
+    "bankTransferDetails": "تفاصيل التحويل البنكي",
+    "accountTitle": "اسم الحساب",
+    "accountNumber": "رقم الحساب",
+    "iban": "رقم الحساب المصرفي الدولي (IBAN)",
+    "branchCode": "رمز الفرع",
+    "bank": "البنك",
+    "donationAmount": "مبلغ التبرع",
+    "customAmount": "مبلغ آخر",
+    "currency": "PKR",
+    "chairman": "الرئيس",
+    "members": "الأعضاء",
+    "latestArticles": "أحدث المقالات",
+    "year": "السنة",
+    "rationBags": "طرود المواد الغذائية",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "backToArticles": "العودة إلى المقالات",
+    "volunteer": "تطوع",
+    "viewImpact": "اطلع على أثرنا"
+  },
+  "assets": {
+    "imageMap": [
+      {
+        "source": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+        "filename": "unsplash_photo-1488521787991-ed7bbaae773c.jpg",
+        "alt": "خدمة المجتمع والعمل الإنساني",
+        "usage": "الصورة الرئيسية في الصفحة الرئيسية؛ صورة أرشيفية توضيحية"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=1920&q=80",
+        "filename": "unsplash_photo-1509099836639-18ba1795216d.jpg",
+        "alt": "الأثر المجتمعي والدعم",
+        "usage": "قسم الدعوة إلى تقديم الدعم في الصفحة الرئيسية؛ صورة أرشيفية توضيحية"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&q=80",
+        "filename": "unsplash_photo-1511632765486-a01980e01a18.jpg",
+        "alt": "الأثر المجتمعي",
+        "usage": "قسم الدعوة الثانوي في الصفحة الرئيسية؛ صورة أرشيفية توضيحية"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1600&q=80",
+        "filename": "unsplash_photo-1515378791036-0648a3ef77b2.jpg",
+        "alt": "المدونة",
+        "usage": "فهرس المقالات؛ صورة أرشيفية توضيحية"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80",
+        "filename": "unsplash_photo-1532629345422-7515f3d16bb6.jpg",
+        "alt": "صورة إنسانية توضيحية",
+        "usage": "صورة رئيسية عامة متكررة في المصدر؛ أُبقيت ضمن قائمة الصور، ولم تُكرر في الأقسام الرئيسية للصفحات المعاد بناؤها"
+      },
+      {
+        "source": "/images/logo.png",
+        "filename": "logo.png",
+        "alt": "مؤسسة خوشي الخيرية"
+      },
+      {
+        "source": "/images/qari-khushi-2.png",
+        "filename": "qari-khushi-2.png",
+        "alt": "القارئ خوشي محمد الأزهري رحمه الله"
+      },
+      {
+        "source": "/images/girls-school.jpeg",
+        "filename": "girls-school.jpeg",
+        "alt": "الرؤية والرسالة — خدمة المجتمع والارتقاء بالإنسان"
+      },
+      {
+        "source": "/images/WhatsApp Image 2026-03-15 at 9.36.22 PM.jpeg",
+        "filename": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+        "alt": "التعريف بمؤسسة خوشي الخيرية"
+      },
+      {
+        "source": "/images/programs/clean-water.jpg",
+        "filename": "clean-water.jpg",
+        "alt": "برنامج المياه النظيفة"
+      },
+      {
+        "source": "/images/programs/easy-marriage.jpg",
+        "filename": "easy-marriage.jpg",
+        "alt": "برنامج تيسير الزواج"
+      },
+      {
+        "source": "/images/programs/education-support.jpg",
+        "filename": "education-support.jpg",
+        "alt": "تمكين المرأة",
+        "usage": "استُخدمت في صفحة تمكين المرأة في المصدر؛ يحتاج موضوع الصورة واسم ملفها إلى مراجعة"
+      },
+      {
+        "source": "/images/programs/women-empowerment.jpg  g",
+        "filename": null,
+        "replacementFilename": "girls-school.jpeg",
+        "usage": "مرجع صورة غير سليم في صفحة دعم التعليم؛ لم يُقدم ملف باسم women-empowerment.jpg"
+      },
+      {
+        "source": "/images/programs/emergency-relief.jpg",
+        "filename": "emergency-relief.jpg",
+        "alt": "المساعدة الطارئة والإغاثية"
+      },
+      {
+        "source": "/images/programs/food-assistance.jpg",
+        "filename": "food-assistance.jpg",
+        "alt": "برنامج المساعدات الغذائية"
+      },
+      {
+        "source": "/images/programs/funeral-support.jpg",
+        "filename": "funeral-support.jpg",
+        "alt": "دعم تكاليف الجنائز"
+      },
+      {
+        "source": "/images/programs/healthcare.jpg",
+        "filename": "healthcare.jpg",
+        "alt": "دعم الرعاية الصحية"
+      },
+      {
+        "source": "/images/programs/infrastructure.jpg",
+        "filename": "infrastructure.jpg",
+        "alt": "إعادة تأهيل البنية التحتية"
+      },
+      {
+        "source": "/images/programs/interest-free-loans.jpg",
+        "filename": "interest-free-loans.jpg",
+        "alt": "برنامج القروض الحسنة"
+      },
+      {
+        "source": "/images/programs/sports.jpg",
+        "filename": "sports.jpg",
+        "alt": "الرياضة والملاعب"
+      },
+      {
+        "source": "/images/programs/tree-plantation.jpg",
+        "filename": "tree-plantation.jpg",
+        "alt": "حملة غرس الأشجار"
+      }
+    ],
+    "stockPhotographyNotice": "الصور الأرشيفية توضيحية، ولا ينبغي عرضها بوصفها صورًا توثيقية للمستفيدين من المؤسسة أو لمشروعاتها.",
+    "sharedContent": {
+      "programCards": "استخدم programs[].title وsummary وslug لعرض قوائم البرامج المتطابقة في الصفحة الرئيسية وصفحة البرامج.",
+      "articleCards": "استخدم articles[].title وexcerpt وimage وslug لعرض قوائم المقالات في الصفحة الرئيسية وصفحة المقالات.",
+      "qariKhushiPage": "استخدم النص الكامل المترجم لمتن المقال qari-khushi-urdu في pages.qariKhushi. تكرر صفحة المصدر هذه السيرة دون العنوان الفرعي التمهيدي للمقال."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "نغير حياة الناس بعمل خيري تلو الآخر",
+      "title": "الرحمة تتجسد في العطاء",
+      "subtitle": "مؤسسة إنسانية مسجلة تخدم الفئات الأشد احتياجًا، مستلهمةً إرث القارئ خوشي محمد الأزهري رحمه الله.",
+      "image": "unsplash_photo-1488521787991-ed7bbaae773c.jpg",
+      "primaryCta": {
+        "label": "تبرع الآن",
+        "href": "/donate"
+      },
+      "secondaryCta": {
+        "label": "برامجنا",
+        "href": "/programs"
+      }
+    },
+    "stats": [],
+    "serviceHighlights": [
+      {
+        "label": "دعم الطلاب",
+        "text": "زي مدرسي وكتب وقرطاسية للطلاب المستحقين.",
+        "programSlug": "education-support"
+      },
+      {
+        "label": "تدريب النساء",
+        "text": "تنمية المهارات في الخياطة والتطريز والأعمال اليدوية.",
+        "programSlug": "women-empowerment"
+      },
+      {
+        "label": "المساعدات الغذائية",
+        "text": "طرود مواد غذائية للأسر الأشد احتياجًا.",
+        "programSlug": "food-assistance"
+      },
+      {
+        "label": "غرس الأشجار",
+        "text": "غرس أشجار محلية في المدارس والمقابر وعلى جوانب الطرق.",
+        "programSlug": "tree-plantation"
+      },
+      {
+        "label": "دعم الرعاية الصحية",
+        "text": "مساعدات طبية وأدوية أساسية.",
+        "programSlug": "healthcare"
+      },
+      {
+        "label": "المياه النظيفة",
+        "text": "محطات لتنقية المياه لخدمة المجتمعات المحلية.",
+        "programSlug": "clean-water"
+      }
+    ],
+    "intro": {
+      "title": "مؤسسة خوشي الخيرية",
+      "body": [
+        "أُنشئت مؤسسة خوشي الخيرية تخليدًا لذكرى القارئ خوشي محمد الأزهري رحمه الله، وهي مؤسسة إنسانية مسجلة. رسالتنا هي خدمة الفئات الأشد احتياجًا، مستلهمين التواضع والمحبة والتعاطف التي اتسمت بها حياته.",
+        "بجهود فريق مخلص من المتطوعين المفعمين بالتعاطف والحماس والالتزام، حققت مؤسسة خوشي الخيرية إنجازات مهمة خلال فترة وجيزة. ورغم أنها لا تزال في بداياتها، فإنها تتطلع إلى أهداف طموحة، وتلتزم بعزم راسخ ببذل المزيد في المستقبل."
+      ],
+      "image": "logo.png",
+      "link": {
+        "label": "اعرف المزيد",
+        "href": "/about"
+      }
+    },
+    "pillars": {
+      "title": "12 ركيزة للعطاء",
+      "subtitle": "نؤمن في مؤسسة خوشي الخيرية ببناء مقومات الحياة الكريمة من أساسها. ويقوم عملنا على 12 ركيزة، تلبي كل منها حاجة أساسية.",
+      "programSlugs": [
+        "education-support",
+        "women-empowerment",
+        "healthcare",
+        "clean-water",
+        "sports",
+        "tree-plantation",
+        "funeral-support",
+        "easy-marriage",
+        "infrastructure",
+        "food-assistance",
+        "interest-free-loans",
+        "emergency-relief"
+      ]
+    },
+    "visionMissionImage": "girls-school.jpeg",
+    "vision": {
+      "title": "رؤيتنا",
+      "body": "مجتمع تتاح فيه للجميع الكرامة والفرص والتراحم."
+    },
+    "mission": {
+      "title": "رسالتنا",
+      "body": "الوفاء لإرث القارئ خوشي محمد الأزهري رحمه الله، بالارتقاء بالإنسان عبر أعمال ملموسة من الإحسان والرحمة وخدمة المجتمع."
+    },
+    "cta": {
+      "eyebrow": "شاركنا رسالتنا",
+      "title": "دعمك يغير حياة الناس",
+      "body": "كل مساهمة تفتح آفاقًا لتغيير إيجابي يمتد أثره. معًا، نستطيع النهوض بالمجتمعات والارتقاء بحياة الناس.",
+      "badges": [
+        "الشفافية في استخدام الأموال",
+        "حلول نابعة من المجتمع"
+      ],
+      "image": "unsplash_photo-1509099836639-18ba1795216d.jpg",
+      "links": [
+        {
+          "label": "تبرع الآن",
+          "href": "/donate"
+        },
+        {
+          "label": "تطوع",
+          "href": "/volunteer"
+        }
+      ]
+    },
+    "secondaryCta": {
+      "eyebrow": "شاركنا رسالتنا",
+      "title": "نصنع فرقًا",
+      "body": "يساعدنا دعمك على الوصول إلى مزيد من المجتمعات وإحداث تغيير إيجابي مستدام.",
+      "image": "unsplash_photo-1511632765486-a01980e01a18.jpg"
+    },
+    "articles": {
+      "title": "أحدث المقالات",
+      "subtitle": "قصص ومستجدات من مؤسسة خوشي الخيرية. سنضيف المزيد من المقالات قريبًا.",
+      "articleSlugs": [
+        "qari-khushi-urdu",
+        "qari-khushi-english",
+        "the-kushi-trust-introduction"
+      ]
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "من نحن",
+      "subtitle": "أُنشئت تخليدًا لذكرى القارئ خوشي محمد الأزهري رحمه الله، لخدمة الفئات الأشد احتياجًا برحمة وإخلاص.",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "inspiration",
+          "heading": "مصدر إلهامنا",
+          "image": "qari-khushi-2.png",
+          "body": [
+            "كان القارئ خوشي محمد الأزهري رحمه الله صوتًا حرك مشاعر الأمم، وروحًا نذرت نفسها للقرآن الكريم؛ فرققت تلاواته القلوب، وأيقظت الإيمان، ومدت جسور التواصل بين الشعوب. وُلد في أوكارا بباكستان، وبلغ شهرة عالمية، آسرًا قلوب الملايين بإتقانه الفريد للتجويد وروحه المتواضعة.",
+            "من الأوسمة والجوائز التي نالها:",
+            "وظل حتى آخر أنفاسه عبدًا مخلصًا لله وخادمًا للإنسانية."
+          ],
+          "bullets": [
+            "جائزة رئيس الجمهورية لحسن الأداء (1980)",
+            "وسام الامتياز",
+            "جائزة دولية من مصر"
+          ],
+          "renderOrder": [
+            "body.0",
+            "body.1",
+            "bullets",
+            "body.2"
+          ]
+        },
+        {
+          "id": "who-we-are",
+          "heading": "من نحن",
+          "body": [
+            "أُنشئت مؤسسة خوشي الخيرية تخليدًا لذكرى القارئ خوشي محمد الأزهري رحمه الله، وهي مؤسسة إنسانية مسجلة. وبجهود فريق مخلص من المتطوعين المفعمين بالتعاطف والحماس والالتزام، حققت المؤسسة إنجازات مهمة خلال فترة وجيزة. ورغم أنها لا تزال في بداياتها، فإنها تتطلع إلى أهداف طموحة، وتلتزم بعزم راسخ ببذل المزيد في المستقبل."
+          ]
+        },
+        {
+          "id": "commitments",
+          "heading": "نلتزم بما يلي",
+          "body": [],
+          "bullets": [
+            "التعاطف والرحمة في جميع أعمالنا",
+            "الشفافية في استخدام الأموال",
+            "صون كرامة جميع المستفيدين واحترامهم",
+            "حلول نابعة من المجتمع",
+            "أثر مستدام من خلال برامج طويلة الأمد",
+            "التعليم سبيلًا إلى التمكين",
+            "إتاحة الرعاية الصحية للجميع",
+            "رعاية البيئة من خلال غرس الأشجار",
+            "الاستجابة للطوارئ والإغاثة في الكوارث",
+            "تمكين المرأة وتنمية المهارات",
+            "تطوير البنية التحتية من أجل مجتمعات أفضل",
+            "دعم مالي للأسر دون فوائد"
+          ]
+        },
+        {
+          "id": "vision",
+          "heading": "رؤيتنا",
+          "image": "girls-school.jpeg",
+          "body": [
+            "مجتمع تتاح فيه للجميع الكرامة والفرص والتراحم."
+          ]
+        },
+        {
+          "id": "mission",
+          "heading": "رسالتنا",
+          "body": [
+            "الوفاء لإرث القارئ خوشي محمد الأزهري رحمه الله، بالارتقاء بالإنسان عبر أعمال ملموسة من الإحسان والرحمة وخدمة المجتمع."
+          ]
+        },
+        {
+          "id": "where-we-serve",
+          "heading": "أين نعمل",
+          "body": [
+            "انطلاقًا من قرية تشاك رقم 16-GD في أوكارا، مسقط رأس القارئ خوشي محمد، تتوسع مؤسسة خوشي الخيرية في عملها لتشمل القرى المجاورة، وتطمح على المدى الطويل إلى إحداث أثر في المجتمعات على مستوى المنطقة والإقليم.",
+            "تشاك رقم 16-GD قرية نائية تضم أسرًا زراعية فقيرة، وتقع على بعد نحو 130 كيلومترًا من لاهور، عاصمة إقليم البنجاب. وهي تجسد البدايات المتواضعة لرسالتنا."
+          ],
+          "mapUrl": null
+        },
+        {
+          "id": "legal-status",
+          "heading": "الوضع القانوني",
+          "body": [
+            "مؤسسة خوشي الخيرية جهة مسجلة قانونيًا لدى حكومة البنجاب بموجب:",
+            "مرخصة قانونيًا لتلقي التبرعات والأموال."
+          ],
+          "items": [
+            {
+              "title": "قانون المؤسسات الاستئمانية 2020",
+              "text": "رقم التسجيل: 044/46/TRUST/DLR"
+            },
+            {
+              "title": "قانون الجمعيات الخيرية 2018",
+              "text": "رقم التسجيل: PB-6590311132347324"
+            }
+          ],
+          "renderOrder": [
+            "body.0",
+            "items",
+            "body.1"
+          ]
+        }
+      ]
+    },
+    "impact": {
+      "title": "الأموال المحصلة والمستخدمة",
+      "subtitle": "",
+      "heroImage": null,
+      "stats": [
+        {
+          "value": 12,
+          "suffix": "",
+          "label": "إجمالي البرامج النشطة"
+        },
+        {
+          "value": 250,
+          "suffix": "+",
+          "label": "إجمالي الطلاب"
+        },
+        {
+          "value": 6.8,
+          "prefix": "PKR ",
+          "suffix": "M+",
+          "label": "إجمالي أموال الرعاية الصحية"
+        }
+      ],
+      "sections": [
+        {
+          "id": "ration-distribution",
+          "heading": "توزيع طرود المواد الغذائية حسب السنة",
+          "body": [],
+          "table": {
+            "columns": [
+              "السنة",
+              "طرود المواد الغذائية (PKR 10,000 للطرد)"
+            ],
+            "rows": [
+              [
+                "2023–24",
+                "200 طرد"
+              ],
+              [
+                "2024–25",
+                "250 طردًا"
+              ],
+              [
+                "2025–26",
+                "300 طرد"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "fund-utilization",
+          "heading": "استخدام الأموال حسب البرنامج",
+          "body": [],
+          "items": [
+            {
+              "title": "دعم التعليم",
+              "text": "استثمار PKR 300,000 خلال (2023–24)",
+              "programSlug": "education-support"
+            },
+            {
+              "title": "تمكين المرأة",
+              "text": "إمكانية تحقيق دخل قدره PKR 30,000 شهريًا",
+              "programSlug": "women-empowerment"
+            },
+            {
+              "title": "دعم الرعاية الصحية",
+              "text": "إنفاق ما مجموعه PKR 6.8M+ على الرعاية الصحية",
+              "programSlug": "healthcare"
+            },
+            {
+              "title": "برنامج المياه النظيفة",
+              "text": "خدمة 1,000+ أسرة",
+              "programSlug": "clean-water"
+            },
+            {
+              "title": "الرياضة والملاعب",
+              "text": "إجمالي استثمارات بقيمة PKR 6M+",
+              "programSlug": "sports"
+            },
+            {
+              "title": "حملة غرس الأشجار",
+              "text": "غرس 1,000+ شجرة",
+              "programSlug": "tree-plantation"
+            },
+            {
+              "title": "دعم تكاليف الجنائز",
+              "text": "إجمالي إنفاق بقيمة PKR 483,000+",
+              "programSlug": "funeral-support"
+            },
+            {
+              "title": "برنامج تيسير الزواج",
+              "text": "إجمالي إنفاق بقيمة PKR 1.1M+",
+              "programSlug": "easy-marriage"
+            },
+            {
+              "title": "إعادة تأهيل البنية التحتية",
+              "text": "استثمار PKR 500,000",
+              "programSlug": "infrastructure"
+            },
+            {
+              "title": "برنامج المساعدات الغذائية",
+              "text": "توزيع 750+ طردًا من المواد الغذائية",
+              "programSlug": "food-assistance"
+            },
+            {
+              "title": "برنامج القروض الحسنة",
+              "text": "صرف PKR 3M+",
+              "programSlug": "interest-free-loans"
+            },
+            {
+              "title": "المساعدة الطارئة والإغاثية",
+              "text": "إنفاق PKR 2.4M+",
+              "programSlug": "emergency-relief"
+            }
+          ]
+        },
+        {
+          "id": "targets",
+          "heading": "أهداف 2026–27",
+          "body": [],
+          "items": [
+            {
+              "title": "دعم التعليم",
+              "text": "دعم 300 طالب مستحق.",
+              "programSlug": "education-support"
+            },
+            {
+              "title": "تمكين المرأة",
+              "text": "توسيع التدريب ليشمل القرى المجاورة وزيادة نطاق الوصول عمومًا؛ وتدريب 50+ امرأة إضافية.",
+              "programSlug": "women-empowerment"
+            },
+            {
+              "title": "دعم الرعاية الصحية",
+              "text": "توسيع مساعدات الرعاية الصحية بميزانية مستهدفة قدرها PKR 5 مليون.",
+              "programSlug": "healthcare"
+            },
+            {
+              "title": "برنامج المياه النظيفة",
+              "text": "توسيع إتاحة المياه النظيفة لتشمل 5,000 أسرة والتجمعات الريفية المجاورة.",
+              "programSlug": "clean-water"
+            },
+            {
+              "title": "الرياضة والملاعب",
+              "text": "مواصلة تشجيع الرياضة بين الشباب وتركيب أضواء كاشفة لملاعب الكريكيت وكرة القدم.",
+              "programSlug": "sports"
+            },
+            {
+              "title": "حملة غرس الأشجار",
+              "text": "غرس 1,000 شجرة ظليلة وملائمة للبيئة؛ والتوسع على امتداد الطرق الرئيسية والممرات.",
+              "programSlug": "tree-plantation"
+            },
+            {
+              "title": "دعم تكاليف الجنائز",
+              "text": "توسيع دعم تكاليف الجنائز ليشمل مجتمعات أكبر وأقل حصولًا على الخدمات.",
+              "programSlug": "funeral-support"
+            },
+            {
+              "title": "برنامج تيسير الزواج",
+              "text": "تقديم دعم بقيمة PKR 0.5 مليون للأيتام والفتيات من الأسر الأشد استحقاقًا، بعد التحقق الدقيق من أوضاعها.",
+              "programSlug": "easy-marriage"
+            },
+            {
+              "title": "إعادة تأهيل البنية التحتية",
+              "text": "مواصلة تطوير البنية التحتية للقرى من أجل مجتمعات أكثر أمانًا وصحة.",
+              "programSlug": "infrastructure"
+            },
+            {
+              "title": "برنامج المساعدات الغذائية",
+              "text": "توزيع 300 طرد من المواد الغذائية لتعزيز المساعدة الغذائية للأسر الأشد احتياجًا.",
+              "programSlug": "food-assistance"
+            },
+            {
+              "title": "برنامج القروض الحسنة",
+              "text": "توسيع البرنامج بميزانية قدرها PKR 5 مليون.",
+              "programSlug": "interest-free-loans"
+            },
+            {
+              "title": "المساعدة الطارئة والإغاثية",
+              "text": "توسيع المساعدة الطارئة والإغاثية بميزانية قدرها PKR 5 مليون.",
+              "programSlug": "emergency-relief"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "تواصل معنا",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "team-contacts",
+          "heading": "فريقنا",
+          "body": [],
+          "items": [
+            {
+              "title": "منشا راي",
+              "text": "رئيس مجلس خوشي للتواصل",
+              "phone": "+92 300 7952838"
+            },
+            {
+              "title": "أزهر بشير",
+              "text": "أمين الشؤون المالية",
+              "phone": "+92 306 5352149"
+            }
+          ]
+        },
+        {
+          "id": "contact-information",
+          "heading": "معلومات التواصل",
+          "body": [],
+          "items": [
+            {
+              "title": "الموقع",
+              "text": "تشاك 16 جي دي، أوكارا، البنجاب، باكستان"
+            },
+            {
+              "title": "البريد الإلكتروني",
+              "text": "thekhushitrust@gmail.com",
+              "href": "mailto:thekhushitrust@gmail.com"
+            },
+            {
+              "title": "التسجيل",
+              "text": "044/46/TRUST/DLR"
+            }
+          ]
+        },
+        {
+          "id": "find-us",
+          "heading": "موقعنا",
+          "body": [
+            "تشاك 16 جي دي، أوكارا، البنجاب، باكستان"
+          ],
+          "mapUrl": null
+        },
+        {
+          "id": "message",
+          "heading": "أرسل إلينا رسالة",
+          "body": []
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "name",
+            "label": "الاسم",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "البريد الإلكتروني",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "الهاتف",
+            "type": "tel",
+            "required": false
+          },
+          {
+            "name": "message",
+            "label": "الرسالة",
+            "type": "textarea",
+            "required": true
+          }
+        ],
+        "submitLabel": "إرسال الرسالة",
+        "submissionEndpoint": null
+      }
+    },
+    "donate": {
+      "title": "تبرع بثقة",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "why-donate",
+          "heading": "لماذا تتبرع؟",
+          "body": [],
+          "items": [
+            {
+              "title": "التعليم",
+              "text": "ادعم الطلاب بتوفير الزي المدرسي والكتب والقرطاسية."
+            },
+            {
+              "title": "الرعاية الصحية",
+              "text": "ساهم في تقديم المساعدة الطبية والأدوية الأساسية."
+            },
+            {
+              "title": "المياه النظيفة",
+              "text": "ساهم في إنشاء محطات لتنقية المياه لخدمة المجتمعات المحلية."
+            },
+            {
+              "title": "المساعدات الغذائية",
+              "text": "وفر طرود المواد الغذائية للأسر الأشد احتياجًا."
+            }
+          ]
+        },
+        {
+          "id": "donation-method",
+          "heading": "تفاصيل التحويل البنكي",
+          "body": [
+            "يرجى استخدام تفاصيل التحويل البنكي لإتمام تبرعك.",
+            "بعد إجراء التحويل، يرجى التواصل معنا عبر thekhushitrust@gmail.com أو الاتصال بنا لتأكيد تبرعك."
+          ],
+          "accountsRef": "donate.accounts"
+        },
+        {
+          "id": "sponsor-a-cause",
+          "heading": "اكفل مبادرة",
+          "body": [],
+          "items": [
+            {
+              "title": "دعم التعليم",
+              "text": "التعليم هو الخطوة الأولى نحو التمكين. نحرص على ألا يُحرم أي طفل من فرصته في التعلم.",
+              "programSlug": "education-support",
+              "cta": "اكفل هذه المبادرة",
+              "href": "/donate"
+            },
+            {
+              "title": "تمكين المرأة",
+              "text": "المرأة المتمكنة تجلب الرخاء والكرامة والتغيير المستدام لأسرتها ومجتمعها.",
+              "programSlug": "women-empowerment",
+              "cta": "اكفل هذه المبادرة",
+              "href": "/donate"
+            },
+            {
+              "title": "دعم الرعاية الصحية",
+              "text": "نساند الأسر التي تواجه المرض، مع صون كرامتها والتعاطف معها والالتزام بدعمها، لضمان بقاء المساعدة الطبية الضرورية في متناولها.",
+              "programSlug": "healthcare",
+              "cta": "اكفل هذه المبادرة",
+              "href": "/donate"
+            },
+            {
+              "title": "برنامج المياه النظيفة",
+              "text": "المياه النظيفة تنقذ الأرواح؛ فكل كوب يحمل صحة وأملًا وحياة.",
+              "programSlug": "clean-water",
+              "cta": "اكفل هذه المبادرة",
+              "href": "/donate"
+            },
+            {
+              "title": "الرياضة والملاعب",
+              "text": "تعلم الرياضة الانضباط والتآلف والثقة بالنفس. نستثمر في أبطال الغد.",
+              "programSlug": "sports",
+              "cta": "اكفل هذه المبادرة",
+              "href": "/donate"
+            },
+            {
+              "title": "حملة غرس الأشجار",
+              "text": "كل شجرة نغرسها هي بذرة أمل للمستقبل.",
+              "programSlug": "tree-plantation",
+              "cta": "اكفل هذه المبادرة",
+              "href": "/donate"
+            }
+          ]
+        },
+        {
+          "id": "confidence",
+          "heading": "تبرع بثقة",
+          "body": [
+            "مؤسسة خوشي الخيرية مسجلة قانونيًا بموجب قانون المؤسسات الاستئمانية 2020 (رقم التسجيل: 044/46/TRUST/DLR) وقانون الجمعيات الخيرية 2018 (رقم التسجيل: PB-6590311132347324)، ومرخصة قانونيًا لتلقي التبرعات والأموال.",
+            "تُستخدم جميع التبرعات بشفافية في البرامج المبينة في صفحة أثرنا. ونحتفظ بسجلات مفصلة ونقدم إيصالات عند الطلب."
+          ],
+          "quote": "في كل حياة نلامسها، وكل دعاء نكون سببًا في استجابته، وكل ابتسامة نرسمها، نكرم الإرث الباقي للقارئ خوشي محمد الأزهري رحمه الله."
+        }
+      ]
+    },
+    "volunteer": {
+      "title": "شاركنا رسالتنا",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "why-volunteer",
+          "heading": "لماذا تتطوع؟",
+          "body": [],
+          "items": [
+            {
+              "title": "أحدث أثرًا حقيقيًا",
+              "text": "ساهم مباشرة في تحسين حياة الناس في المجتمعات الريفية."
+            },
+            {
+              "title": "طور مهاراتك",
+              "text": "اكتسب خبرة قيمة في خدمة المجتمع والقيادة."
+            },
+            {
+              "title": "انضم إلى مجتمع متعاون",
+              "text": "تواصل مع أشخاص يشاركونك الاهتمام ويلتزمون بإحداث تغيير إيجابي."
+            }
+          ]
+        },
+        {
+          "id": "application",
+          "heading": "نموذج طلب التطوع",
+          "body": []
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "fullName",
+            "label": "الاسم الكامل",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "البريد الإلكتروني",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "الهاتف",
+            "type": "tel",
+            "required": true
+          },
+          {
+            "name": "city",
+            "label": "المدينة",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "areaOfInterest",
+            "label": "مجال الاهتمام",
+            "type": "select",
+            "required": true,
+            "placeholder": "اختر مجالًا",
+            "options": [
+              "التعليم",
+              "الرعاية الصحية",
+              "تنمية المجتمع",
+              "الإدارة",
+              "أخرى"
+            ]
+          },
+          {
+            "name": "message",
+            "label": "الرسالة",
+            "type": "textarea",
+            "required": false
+          }
+        ],
+        "submitLabel": "إرسال الطلب",
+        "submissionEndpoint": null
+      }
+    },
+    "qariKhushi": {
+      "title": "التعريف بالقارئ خوشي محمد الأزهري رحمه الله",
+      "subtitle": "",
+      "heroImage": "qari-khushi-2.png",
+      "originalLang": "ur",
+      "sections": [],
+      "bodyArticleSlug": "qari-khushi-urdu",
+      "bodyField": "body",
+      "sourceTextArticleSlug": "qari-khushi-urdu",
+      "sourceTextField": "sourceText",
+      "renderArticleSubtitle": false,
+      "contentNote": "متن الصفحة الكامل مطابق للسيرة المحفوظة في المقال qari-khushi-urdu، بدءًا من أول عنوان h2. اعرض ذلك المتن كاملًا هنا دون اختصار."
+    },
+    "programsIndex": {
+      "title": "12 ركيزة للعطاء",
+      "subtitle": "نؤمن في مؤسسة خوشي الخيرية ببناء مقومات الحياة الكريمة من أساسها. ويقوم عملنا على 12 ركيزة، تلبي كل منها حاجة أساسية.",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "programs",
+          "heading": "12 ركيزة للعطاء",
+          "body": [],
+          "programSlugs": [
+            "education-support",
+            "women-empowerment",
+            "healthcare",
+            "clean-water",
+            "sports",
+            "tree-plantation",
+            "funeral-support",
+            "easy-marriage",
+            "infrastructure",
+            "food-assistance",
+            "interest-free-loans",
+            "emergency-relief"
+          ]
+        }
+      ]
+    },
+    "articlesIndex": {
+      "title": "المدونة",
+      "subtitle": "قصص ومستجدات وأثر مجتمعي من مؤسسة خوشي الخيرية.",
+      "heroImage": "unsplash_photo-1515378791036-0648a3ef77b2.jpg",
+      "sections": [
+        {
+          "id": "latest-articles",
+          "heading": "أحدث المقالات",
+          "body": [
+            "قصص ومستجدات من مؤسسة خوشي الخيرية. سنضيف المزيد من المقالات قريبًا."
+          ],
+          "articleSlugs": [
+            "qari-khushi-urdu",
+            "qari-khushi-english",
+            "the-kushi-trust-introduction"
+          ]
+        }
+      ]
+    },
+    "team": {
+      "title": "الفريق",
+      "subtitle": "مؤسسة خوشي الخيرية – مجلس التواصل",
+      "heroImage": null,
+      "sections": [],
+      "contentRef": "team"
+    }
+  },
+  "donate": {
+    "accounts": [
+      {
+        "bank": "بنك البنجاب",
+        "title": "مؤسسة القارئ خوشي محمد الأزهري للرعاية الاجتماعية — مؤسسة خوشي الخيرية",
+        "accountNo": "5010 3650 3890 0011",
+        "iban": "PK16 BPUN 5010 3650 3890 0011",
+        "branch": "الفرع الرئيسي، طريق بينظير، أوكارا",
+        "branchCode": "0018",
+        "bankDisplay": "بنك البنجاب، الفرع الرئيسي، طريق بينظير، أوكارا"
+      }
+    ],
+    "methods": [
+      {
+        "id": "bank-transfer",
+        "title": "التحويل البنكي",
+        "text": "يرجى استخدام تفاصيل التحويل البنكي لإتمام تبرعك.",
+        "confirmation": "بعد إجراء التحويل، يرجى التواصل معنا عبر thekhushitrust@gmail.com أو الاتصال بنا لتأكيد تبرعك.",
+        "email": "thekhushitrust@gmail.com",
+        "phone": "+92 306 5352149"
+      }
+    ],
+    "currency": "PKR",
+    "suggestedAmounts": [
+      1000,
+      5000,
+      10000
+    ],
+    "suggestedAmountsHeading": "مبلغ التبرع",
+    "onlinePaymentsAvailable": false,
+    "amountSelectionNote": "يرجى استخدام تفاصيل التحويل البنكي لإتمام تبرعك.",
+    "receipts": "نحتفظ بسجلات مفصلة ونقدم إيصالات عند الطلب."
+  },
+  "programs": [
+    {
+      "slug": "education-support",
+      "title": "دعم التعليم",
+      "summary": "التعليم هو الخطوة الأولى نحو التمكين. نحرص على ألا يُحرم أي طفل من فرصته في التعلم.",
+      "image": "girls-school.jpeg",
+      "icon": "GraduationCap",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نؤمن بأن التعليم أساس التمكين. ويضمن برنامج دعم التعليم ألا يُحرم أي طفل من فرصته في التعلم، من خلال توفير المستلزمات التعليمية الأساسية للطلاب المستحقين."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "2023–24: دعم 250 طالبًا بالزي المدرسي والكتب والقرطاسية، باستثمار قدره PKR 300,000."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "دعم 300 طالب مستحق."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 300,000",
+        "label": "المبلغ المستثمر (2023–24)"
+      },
+      "previousSlug": null,
+      "nextSlug": "women-empowerment",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "women-empowerment",
+      "title": "تمكين المرأة",
+      "summary": "المرأة المتمكنة تجلب الرخاء والكرامة والتغيير المستدام لأسرتها ومجتمعها.",
+      "image": "education-support.jpg",
+      "icon": "Scissors",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "يركز برنامج تمكين المرأة على تنمية المهارات، من خلال تدريب النساء على الخياطة والتطريز والأعمال اليدوية لتوفير دخل مستدام لأسرهن."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "إطلاق برنامج لتنمية المهارات وتدريب النساء على الخياطة والتطريز والأعمال اليدوية.",
+            "تعمل 150 امرأة سبق تدريبهن من منازلهن، ويوفرن دخلًا لأسرهن.",
+            "تدريب 50+ امرأة خلال 2024–25 من خلال جلسات عملية وإرشاد مهني.",
+            "أصبحت نساء المجتمع المحلي يكسبن ما يصل إلى PKR 30,000 شهريًا من خلال سبل عيش مستدامة قائمة على المهارات."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توسيع التدريب ليشمل القرى المجاورة وزيادة نطاق الوصول عمومًا؛ وتدريب 50+ امرأة إضافية."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 30,000/شهر",
+        "label": "الدخل الممكن تحقيقه"
+      },
+      "previousSlug": "education-support",
+      "nextSlug": "healthcare",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "healthcare",
+      "title": "دعم الرعاية الصحية",
+      "summary": "نساند الأسر التي تواجه المرض، مع صون كرامتها والتعاطف معها والالتزام بدعمها، لضمان بقاء المساعدة الطبية الضرورية في متناولها.",
+      "image": "healthcare.jpg",
+      "icon": "HeartPulse",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نقدم دعمًا طبيًا ضروريًا للأسر المحتاجة، لضمان إتاحة الرعاية الصحية بتكلفة ميسورة لأشد أفراد مجتمعنا احتياجًا."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "إنفاق PKR 120,000 على المساعدات الطارئة للمرضى والأدوية والنقل خلال 2023–24.",
+            "إنفاق PKR 6.7 مليون لتوفير إيزي شفا ميديسن وأجهزة التصوير بالموجات فوق الصوتية والأدوية الأساسية خلال 2024–25.",
+            "توسيع الدعم الصحي ليشمل مبادرات الرعاية الصحية الوقائية وحملات التوعية."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توسيع مساعدات الرعاية الصحية بميزانية مستهدفة قدرها PKR 5 مليون."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 6.8M+",
+        "label": "إجمالي الأموال المنفقة على الرعاية الصحية"
+      },
+      "previousSlug": "women-empowerment",
+      "nextSlug": "clean-water",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "clean-water",
+      "title": "برنامج المياه النظيفة",
+      "summary": "المياه النظيفة تنقذ الأرواح؛ فكل كوب يحمل صحة وأملًا وحياة.",
+      "image": "clean-water.jpg",
+      "icon": "Droplets",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "الحصول على المياه النظيفة حق أساسي من حقوق الإنسان. ويعمل برنامج المياه النظيفة على إنشاء محطات تنقية لتوفير مياه شرب آمنة للمجتمعات المحلية."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "إنشاء محطات لتنقية المياه تخدم 1,000 أسرة مستفيدة.",
+            "إنجاز المسوحات اللازمة لإنشاء 10 محطات جديدة لتنقية المياه."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توسيع إتاحة المياه النظيفة لتشمل 5,000 أسرة والتجمعات الريفية المجاورة."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "1,000+",
+        "label": "الأسر المستفيدة"
+      },
+      "previousSlug": "healthcare",
+      "nextSlug": "sports",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "sports",
+      "title": "الرياضة والملاعب",
+      "summary": "تعلم الرياضة الانضباط والتآلف والثقة بالنفس. نستثمر في أبطال الغد.",
+      "image": "sports.jpg",
+      "icon": "Trophy",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نستثمر في تنمية الشباب عبر توفير البنية التحتية الرياضية والدعم، بما يسهم في بناء الشخصية وتعزيز روح المجتمع."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "تطوير مجمع تشاك 16-GD الرياضي باستثمار رأسمالي قدره PKR 2.5 مليون.",
+            "إنفاق PKR 0.5 مليون على المعدات والملابس الرياضية خلال 2023–24.",
+            "تقديم دعم بقيمة PKR 3 مليون للاعبي الكرة الطائرة والكريكيت وكرة القدم والريشة الطائرة خلال 2024–25."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "مواصلة تشجيع الرياضة بين الشباب وتركيب أضواء كاشفة لملاعب الكريكيت وكرة القدم."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 6M+",
+        "label": "إجمالي الاستثمار"
+      },
+      "previousSlug": "clean-water",
+      "nextSlug": "tree-plantation",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "tree-plantation",
+      "title": "حملة غرس الأشجار",
+      "summary": "كل شجرة نغرسها هي بذرة أمل للمستقبل.",
+      "image": "tree-plantation.jpg",
+      "icon": "TreePine",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "تسهم حملة غرس الأشجار في إيجاد بيئة أكثر خضرة وصحة للأجيال القادمة، إلى جانب مواجهة تغير المناخ."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "غرس 1,000 شجرة محلية في المدارس والمقابر وعلى جوانب الطرق.",
+            "نمت الأشجار لتوفر ممرات ظليلة وقرى أكثر خضرة."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "غرس 1,000 شجرة ظليلة وملائمة للبيئة؛ والتوسع على امتداد الطرق الرئيسية والممرات."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "1,000+",
+        "label": "الأشجار المغروسة"
+      },
+      "previousSlug": "sports",
+      "nextSlug": "funeral-support",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "funeral-support",
+      "title": "دعم تكاليف الجنائز",
+      "summary": "كل نفس تستحق التكريم؛ نقف إلى جانب الأسر المكلومة لتخفيف أعبائها.",
+      "image": "funeral-support.jpg",
+      "icon": "HandHeart",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نقدم دعمًا رحيمًا للأسر في أصعب أوقاتها، لضمان تجهيز جنائز كريمة للمحتاجين."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "المساهمة في تكاليف جنائز 20 شخصًا من المحتاجين.",
+            "إنفاق PKR 200,000+ خلال 2023–24.",
+            "إنفاق PKR 283,000 خلال 2024–25."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توسيع دعم تكاليف الجنائز ليشمل مجتمعات أكبر وأقل حصولًا على الخدمات."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 483,000+",
+        "label": "إجمالي الإنفاق"
+      },
+      "previousSlug": "tree-plantation",
+      "nextSlug": "easy-marriage",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "easy-marriage",
+      "title": "برنامج تيسير الزواج",
+      "summary": "نحيي السنة النبوية بتيسير الزواج وصون الكرامة.",
+      "image": "easy-marriage.jpg",
+      "icon": "HeartHandshake",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نساعد الأسر المستحقة على إتمام الزواج، لتكون هذه المحطة المهمة في الحياة ميسرة وكريمة."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "دعم 8 زيجات بتكلفة قدرها PKR 0.6 مليون خلال 2023–24.",
+            "إنفاق PKR 0.5 مليون خلال 2024–25."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "تقديم دعم بقيمة PKR 0.5 مليون للأيتام والفتيات من الأسر الأشد استحقاقًا، بعد التحقق الدقيق من أوضاعها."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 1.1M+",
+        "label": "إجمالي الإنفاق"
+      },
+      "previousSlug": "funeral-support",
+      "nextSlug": "infrastructure",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "infrastructure",
+      "title": "إعادة تأهيل البنية التحتية",
+      "summary": "البنية التحتية الأقوى تبني مجتمعات أكثر تماسكًا.",
+      "image": "infrastructure.jpg",
+      "icon": "Construction",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نعمل على تحسين البنية التحتية المجتمعية، بما في ذلك الطرق والصرف الصحي والأماكن العامة، لتوفير بيئات معيشية أكثر أمانًا وصحة."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "إصلاح طرق القرية وإعادة تأهيل الطرق الرابطة.",
+            "تنفيذ نظام للصرف الصحي يغطي المجتمع المحلي.",
+            "تطوير مقبرة نموذجية بقبور منظمة وقسم للأطفال و100+ شجرة ظليلة.",
+            "تحسين الأماكن العامة، بما يشمل الممرات وتصريف المياه وغرس الأشجار.",
+            "استثمار PKR 500,000 حتى الآن."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "مواصلة تطوير البنية التحتية للقرى من أجل مجتمعات أكثر أمانًا وصحة."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 500,000",
+        "label": "المبلغ المستثمر"
+      },
+      "previousSlug": "easy-marriage",
+      "nextSlug": "food-assistance",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "food-assistance",
+      "title": "برنامج المساعدات الغذائية",
+      "summary": "توفير المواد الغذائية الأساسية الضرورية للحياة فورًا للأسر الأشد احتياجًا.",
+      "image": "food-assistance.jpg",
+      "icon": "ShoppingBasket",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نوفر المواد الغذائية الأساسية للأسر الأشد احتياجًا، لضمان حصولها على وجبات مغذية وتخفيف نفقاتها المنزلية."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "توفير الأرز والدقيق والزيت والسكر والبقول للأسر الأشد احتياجًا.",
+            "مكافحة سوء التغذية بضمان إمداد منتظم ومتوازن من المجموعات الغذائية الأساسية.",
+            "تخفيف النفقات المنزلية، بما يتيح للأسر تخصيص أموال للرعاية الصحية والتعليم.",
+            "توزيع طرود مواد غذائية بقيمة PKR 10,000 لكل طرد: 2023–24: 200 طرد؛ 2024–25: 250 طردًا؛ 2025–26: 300 طرد."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توزيع 300 طرد من المواد الغذائية لتعزيز المساعدة الغذائية للأسر الأشد احتياجًا."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "750+",
+        "label": "طرود المواد الغذائية الموزعة"
+      },
+      "previousSlug": "infrastructure",
+      "nextSlug": "interest-free-loans",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "interest-free-loans",
+      "title": "برنامج القروض الحسنة",
+      "summary": "ندعم الأسر بتقديم قروض دون فوائد وبأقساط ميسرة، لتمكينها من كسب عيش كريم.",
+      "image": "interest-free-loans.jpg",
+      "icon": "Wallet",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نقدم قروضًا دون فوائد لمساعدة الأسر على إعادة بناء سبل عيشها وتحسينها دون تحمل أعباء الفوائد."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "صرف PKR 3 مليون لمساعدة الأسر على إصلاح منازلها المتضررة من الفيضانات والأمطار."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توسيع البرنامج بميزانية قدرها PKR 5 مليون."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 3M+",
+        "label": "المبالغ المصروفة"
+      },
+      "previousSlug": "food-assistance",
+      "nextSlug": "emergency-relief",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "emergency-relief",
+      "title": "المساعدة الطارئة والإغاثية",
+      "summary": "على أهبة الاستعداد عند وقوع الكوارث.",
+      "image": "emergency-relief.jpg",
+      "icon": "Siren",
+      "sections": [
+        {
+          "heading": "نبذة عن البرنامج",
+          "body": [
+            "نوفر استجابة سريعة ومساعدات إغاثية أثناء حالات الطوارئ والكوارث الطبيعية، لضمان حصول المجتمعات على الدعم الفوري."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "أبرز الإنجازات",
+          "body": [],
+          "bullets": [
+            "إجراء تقييمات لأضرار الفيضانات ومسوحات مجتمعية في المناطق المتضررة ضمن منطقة أوكارا.",
+            "تدعيم حواجز مجاري تصريف مياه الأمطار الموسمية بالتعاون مع المجتمعات المحلية، للحد من مخاطر الحوادث والفيضانات.",
+            "إنفاق أكثر من PKR 2.4 مليون خلال عامين على الاستجابة للطوارئ وتنظيف مجاري التصريف وتدعيم ضفاف القنوات وتلبية الاحتياجات المجتمعية العاجلة."
+          ]
+        },
+        {
+          "heading": "هدف 2026–27",
+          "body": [
+            "توسيع المساعدة الطارئة والإغاثية بميزانية قدرها PKR 5 مليون."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 2.4M+",
+        "label": "المبلغ المنفق"
+      },
+      "previousSlug": "interest-free-loans",
+      "nextSlug": null,
+      "supportHref": "/donate"
+    }
+  ],
+  "team": {
+    "title": "الفريق",
+    "subtitle": "مؤسسة خوشي الخيرية – مجلس التواصل",
+    "intro": "لتعزيز التنسيق بين المجتمع والمبادرات الخيرية لمؤسسة خوشي الخيرية (مؤسسة القارئ خوشي محمد الأزهري للرعاية الاجتماعية)، أُنشئ مجلس مختص بالتواصل. ويعمل المجلس بوصفه فرعًا مساندًا للمؤسسة، ويساعد في تنظيم الأنشطة والإشراف على اللجان وتيسير برامج الرعاية المجتمعية.",
+    "leadershipTitle": "الهيئة الاستشارية والقيادة الأساسية",
+    "leadership": [
+      {
+        "role": "المستشار القانوني",
+        "name": "راي إعجاز الحق",
+        "note": "محامٍ لدى المحكمة العليا"
+      },
+      {
+        "role": "رئيس مجلس التواصل",
+        "name": "محمد منشا راي",
+        "note": ""
+      },
+      {
+        "role": "الأمين العام لمجلس التواصل",
+        "name": "المحامي محسن",
+        "note": ""
+      },
+      {
+        "role": "أمين الشؤون المالية والإعلام – مؤسسة خوشي الخيرية",
+        "name": "أزهر بشير",
+        "note": ""
+      }
+    ],
+    "committeesTitle": "لجان مجلس التواصل",
+    "committees": [
+      {
+        "name": "اللجنة الصحية",
+        "chair": "الحافظ غلام مصطفى",
+        "members": [
+          "أصغر جهانغير",
+          "مظهر ذو الفقار"
+        ],
+        "description": "تساعد اللجنة الصحية المؤسسة في تيسير دعم الرعاية الصحية وتنسيق المبادرات الخيرية المتعلقة بالصحة."
+      },
+      {
+        "name": "اللجنة الرياضية",
+        "chair": "مظهر ذو الفقار",
+        "members": [
+          "قادة جميع الفرق الرياضية"
+        ],
+        "description": "تشجع هذه اللجنة الأنشطة الصحية بين الشباب، وتدعم تنظيم الفعاليات الرياضية وتوفير المرافق الرياضية داخل المجتمع."
+      },
+      {
+        "name": "برنامج خوشي لتيسير النكاح",
+        "chair": "ذو الفقار علي نمبردار",
+        "members": [
+          "ذو الفقار محمد علي",
+          "الحافظ غلام مصطفى",
+          "أزهر بشير"
+        ],
+        "description": "يدعم برنامج تيسير النكاح الزواج البسيط الكريم، ويقدم المساعدة للأسر المحتاجة."
+      },
+      {
+        "name": "لجنة التعليم",
+        "chair": "المعلم مشتاق",
+        "members": [
+          "مديرو جميع المدارس المحلية"
+        ],
+        "description": "تعمل لجنة التعليم على تعزيز فرص التعلم وتقديم الدعم التعليمي داخل المجتمع."
+      },
+      {
+        "name": "لجنة رعاية المقبرة",
+        "chair": "مظهر ذو الفقار",
+        "members": [
+          "تشودري عبد الجبار",
+          "الحافظ علي مصطفى",
+          "صفدر جهانغير"
+        ],
+        "description": "تشرف هذه اللجنة على صيانة المقبرة المحلية ونظافتها وإدارتها بما يصون حرمتها."
+      },
+      {
+        "name": "لجنة خوشي للقروض الحسنة",
+        "chair": "القارئ مظهر إقبال عابد",
+        "members": [
+          "ذو الفقار محمد علي",
+          "صفدر جهانغير"
+        ],
+        "description": "تدير هذه اللجنة برنامج القروض الحسنة لدعم المحتاجين ماليًا ومساعدتهم على الاعتماد على أنفسهم."
+      },
+      {
+        "name": "برنامج خوشي الغذائي",
+        "chair": "المعلم لياقت علي",
+        "members": [
+          "الحافظ يعقوب",
+          "المعلم غلام محمد",
+          "جاويد حامد"
+        ],
+        "description": "يهدف برنامج خوشي الغذائي إلى تقديم المساعدات الغذائية للأسر المستحقة ودعم مبادرات الرعاية المجتمعية."
+      }
+    ],
+    "closing": "تواصل مؤسسة خوشي الخيرية، من خلال مجلس التواصل ولجانه، رسالتها في خدمة المجتمع بصورة منظمة، مع ضمان تنفيذ الأنشطة الخيرية بشفافية ومسؤولية ومشاركة جماعية."
+  },
+  "articles": [
+    {
+      "slug": "qari-khushi-urdu",
+      "title": "سيرة القارئ خوشي محمد الأزهري",
+      "subtitle": "مرشد روحي ومؤسس حركة خيرية",
+      "excerpt": "سيرة القارئ خوشي محمد الأزهري، وخدماته للقرآن الكريم، وبدايات مؤسسة خوشي الخيرية.",
+      "image": "qari-khushi-2.png",
+      "inlineImages": [
+        {
+          "filename": "qari-khushi-2.png",
+          "afterHeading": "جذور في الأرض: النشأة في 16 جي دي مادوكا",
+          "alt": "القارئ خوشي محمد الأزهري"
+        }
+      ],
+      "date": null,
+      "originalLang": "ur",
+      "body": [
+        {
+          "type": "h2",
+          "text": "الصوت السماوي: حياة القارئ خوشي محمد الأزهري وإرثه العلمي والوطني (1943–1998)"
+        },
+        {
+          "type": "p",
+          "text": "يزدان تاريخ باكستان الروحي والثقافي بكثير من الأصوات العظيمة، لكن قلة منها امتلكت ما امتلكه القارئ خوشي محمد الأزهري من صفاء وهيبة وحضور باقٍ. ومن خلال برنامج التلفزيون الباكستاني الشهير \"اقرأ\"، أصبح حاضرًا في كل بيت. لم يكن مجرد قارئ، بل كان جسرًا علميًا وروحيًا يصل بين حقول البنجاب المغمورة وجامعة الأزهر، صرح العلم العظيم في مصر."
+        },
+        {
+          "type": "h2",
+          "text": "جذور في الأرض: النشأة في 16 جي دي مادوكا"
+        },
+        {
+          "type": "p",
+          "text": "وُلد القارئ خوشي محمد عام 1943 في قرية 16 جي دي (مادوكا) بأوكارا. وكان ينتمي إلى أسرة محترمة من قبيلة خَرَل الراجبوتية. عرفه العالم بانضباطه ومواهبه التي وهبه الله إياها، لكنه كان في طفولته فتى قرويًا مفعمًا بالحيوية."
+        },
+        {
+          "type": "p",
+          "text": "وبحسب أخيه الأصغر الحاج محمد علي، كان القارئ شديد الذكاء منذ طفولته، كما كان مولعًا بالرياضة، ولا سيما الكرة الطائرة. وكان والده يستاء أحيانًا من هذه الأنشطة، إذ أراد لابنه أن يتفرغ تمامًا للعلم والدين."
+        },
+        {
+          "type": "h2",
+          "text": "فراسة المعلم"
+        },
+        {
+          "type": "p",
+          "text": "جاء تحول كبير في حياته عندما تدخل معلمه الأول، السيد جماعت علي شاه من مادوكا. فلما علم أن والد القارئ يعامله بشدة بسبب ميله إلى اللعب، استدعى الأب ووجه إليه تحذيرًا ينم عن بصيرة:"
+        },
+        {
+          "type": "quote",
+          "text": "لا ترفع يدك عليه مرة أخرى. إنك لا تعرف من تضرب، ولا على من تغضب."
+        },
+        {
+          "type": "p",
+          "text": "كان شاه قد رأى في جبين الطفل \"نورًا\" سيخدم القرآن الكريم يومًا ما في أنحاء العالم. ومنذ ذلك اليوم، تحددت وجهته."
+        },
+        {
+          "type": "h2",
+          "text": "طلب العلم والرحلة إلى الأزهر"
+        },
+        {
+          "type": "p",
+          "text": "بدأ تعليمه المنهجي في الجامعة القاسمية الشهيرة بكراتشي. غير أن تعطشه للعلم قاده إلى جامعة الأزهر في مصر، إحدى أعظم مؤسسات العلم في العالم الإسلامي. وعند عودته، أصبح لقب \"الأزهري\" جزءًا من اسمه، دلالة على أنه كان من الباكستانيين القلائل في ذلك العصر الذين أتقنوا المدرسة المصرية في تلاوة القرآن إتقانًا تامًا."
+        },
+        {
+          "type": "h2",
+          "text": "صوت الدولة: تكريمات تاريخية"
+        },
+        {
+          "type": "p",
+          "text": "سرعان ما حظيت قدرات القارئ خوشي محمد الاستثنائية بتقدير رسمي، فحقق عددًا من السوابق التاريخية:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "الأمم المتحدة: تميز بكونه أول قارئ يتلو القرآن في مؤتمر للأمم المتحدة، حيث رافق رئيس باكستان آنذاك، الجنرال ضياء الحق.",
+            "المجلس الأعلى (مجلس الشيوخ): عُين في عهد الرئيس أيوب خان أول قارئ دائم لمجلس الشيوخ الباكستاني.",
+            "رئاسة الجمهورية: خدم فترة طويلة إمامًا وقارئًا في القصر الرئاسي الباكستاني.",
+            "معلم للأمة: علم جيلًا كاملًا من الباكستانيين التجويد وتلاوة القرآن عبر برنامج التلفزيون الباكستاني \"اقرأ\"."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "التكريمات والمناصب الدولية"
+        },
+        {
+          "type": "p",
+          "text": "نال لقاء خدمته للقرآن الكريم أوسمة وتكريمات عديدة داخل باكستان وخارجها."
+        },
+        {
+          "type": "h2",
+          "text": "أبرز الجوائز"
+        },
+        {
+          "type": "list",
+          "items": [
+            "وسام الامتياز (باكستان)",
+            "نيشان الامتياز (مصر)",
+            "الميدالية الذهبية (المغرب)",
+            "التاج الذهبي، مقدم من داتا دربار في لاهور",
+            "جوائز التلفزيون الباكستاني في 5 مناسبات تقديرًا لخدماته الإعلامية المتميزة"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "المناصب الدولية"
+        },
+        {
+          "type": "list",
+          "items": [
+            "رئيس الحلقة العالمية للقرآن، المملكة العربية السعودية.",
+            "رئيس مجلس القراءات الباكستاني للإذاعة والتلفزيون.",
+            "الرئيس المنتخب للاتحاد الإسلامي الدولي للقراء والحفاظ.",
+            "مؤسس الأكاديمية الدولية للقرآن في راولبندي ورئيسها.",
+            "مثل باكستان في مؤتمرات قمة منظمة التعاون الإسلامي."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "خدمة الإنسانية والإرث: مؤسسة خوشي الخيرية"
+        },
+        {
+          "type": "p",
+          "text": "لا يقتصر إرثه الحقيقي على الأوسمة والتكريمات، بل يظل حيًا من خلال المؤسسات التي أنشأها: الأكاديمية الدولية للقراءات ومؤسسة تعليم القرآن في راولبندي. ويواصل ابناه، القارئ نجم مصطفى ومحمد محمود، حمل رسالته بإخلاص."
+        },
+        {
+          "type": "p",
+          "text": "تسير مؤسسة خوشي الخيرية، التي تحمل اسمه تكريمًا له، على فلسفة أن \"خدمة الإنسانية عبادة\". وتعمل المؤسسة ميدانيًا لخدمة المعذبين والمحتاجين، ليأخذ إرثه الروحي صورة خدمة اجتماعية."
+        },
+        {
+          "type": "h2",
+          "text": "خاتمة"
+        },
+        {
+          "type": "p",
+          "text": "على الرغم من شهرته الدولية وتميزه بلقب \"الأزهري\"، كان القارئ رجلًا عميق الإخلاص، ظل وثيق الصلة بجذوره. وفي ذكريات أخيه الحاج محمد علي، لا يزال ذلك الابن الوفي لقبيلة خَرَل الذي لم ينسَ أرضه، قرية 16 جي دي."
+        },
+        {
+          "type": "p",
+          "text": "رحل القارئ خوشي محمد الأزهري عن الدنيا عام 1998، لكن صوته الآسر ما زال حيًا في قلوب محبي القرآن. وتبين رحلته من قرية صغيرة في أوكارا إلى مآذن القاهرة وقاعات الأمم المتحدة أن الذكاء الفطري، حين يقترن بصدق النية ودعوات المعلم، يبلغ بصاحبه أعلى الآفاق."
+        },
+        {
+          "type": "p",
+          "text": "البحث والتقديم: راي محمد ياسين / قناة يوتيوب: فاني راي."
+        }
+      ]
+    },
+    {
+      "slug": "qari-khushi-english",
+      "title": "القارئ خوشي محمد الأزهري رحمه الله — سيرة ذاتية",
+      "excerpt": "حياة القارئ خوشي محمد الأزهري وإرثه (1943–1998)، من 16 جي دي مادوكا إلى الأزهر، وخدماته الوطنية والدولية، والعمل الإنساني المتواصل تكريمًا لذكراه.",
+      "image": "qari-khushi-2.png",
+      "inlineImages": [
+        {
+          "filename": "qari-khushi-2.png",
+          "afterHeading": "جذور في الأرض: السنوات الأولى في 16 جي دي مادوكا",
+          "alt": "القارئ خوشي محمد الأزهري رحمه الله"
+        }
+      ],
+      "date": null,
+      "originalLang": "en",
+      "body": [
+        {
+          "type": "h2",
+          "text": "صوت من السماء: حياة القارئ خوشي محمد الأزهري وإرثه (1943–1998)"
+        },
+        {
+          "type": "p",
+          "text": "يزدان التاريخ الروحي لباكستان بأصوات كثيرة، لكن قلة منها ترددت بمثل ما اتسم به صوت القارئ خوشي محمد الأزهري من صفاء وهيبة وجمال باقٍ. وقد ذاع اسمه في بيوت البلاد جميعًا، ولم يكن مجرد متقن للتلاوة، بل كان جسرًا ثقافيًا وروحيًا يصل بين حقول البنجاب البسيطة وأروقة الأزهر العريقة المرموقة في القاهرة."
+        },
+        {
+          "type": "h2",
+          "text": "جذور في الأرض: السنوات الأولى في 16 جي دي مادوكا"
+        },
+        {
+          "type": "p",
+          "text": "وُلد خوشي محمد عام 1943 في قرية 16 جي دي (مادوكا) بأوكارا، ونشأ في قبيلة خَرَل الراجبوتية العريقة. ومع أن العالم سيعرفه لاحقًا بانضباطه الصارم وموهبته الربانية، فقد كان في طفولته فتى قرويًا مفعمًا بالحيوية والنشاط."
+        },
+        {
+          "type": "h2",
+          "text": "فراسة المعلم"
+        },
+        {
+          "type": "p",
+          "text": "وقعت لحظة حاسمة في حياته على يد معلمه الأول في 16 جي دي، السيد جماعت علي شاه. فعندما علم أن والد خوشي قد قسا على الفتى بسبب ميله إلى اللعب، استدعى الأب ووجه إليه تحذيرًا عميقًا ينم عن فراسة:"
+        },
+        {
+          "type": "quote",
+          "text": "لا تضربه مرة أخرى. إنك لا تعرف من تضرب، ولا على من تغضب."
+        },
+        {
+          "type": "p",
+          "text": "أدرك السيد جماعت علي شاه نورًا فريدًا في الفتى، واستشعر له مستقبلًا في خدمة القرآن الكريم على مستوى العالم لم يكن الآخرون قد أبصروه بعد. ومنذ ذلك اليوم، تهيأ له طريق العظمة بالرعاية والتوفيق."
+        },
+        {
+          "type": "h2",
+          "text": "التميز العلمي والرحلة إلى الأزهر"
+        },
+        {
+          "type": "p",
+          "text": "بدأت رحلته المنهجية في فن القراءات في الجامعة القاسمية بكراتشي. غير أن تعطشه للإتقان قاده إلى مصر، موطن جامعة الأزهر، أعرق المؤسسات الإسلامية وأرفعها مكانة في العالم."
+        },
+        {
+          "type": "h2",
+          "text": "صوت للدولة: سوابق تاريخية"
+        },
+        {
+          "type": "p",
+          "text": "سرعان ما حظيت موهبة القارئ خوشي محمد الاستثنائية بتقدير أعلى مستويات الحكومة الباكستانية، فحقق محطات تاريخية عدة:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "الأمم المتحدة: نال شرف كونه أول قارئ يتلو القرآن الكريم في مؤتمر للأمم المتحدة، إلى جانب رئيس باكستان آنذاك، الجنرال ضياء الحق.",
+            "مجلس الشيوخ الباكستاني: عُين في عهد الرئيس أيوب خان أول قارئ رسمي للمجلس.",
+            "رئاسة الجمهورية: شغل منصب الإمام والقارئ الرسمي في القصر الرئاسي (إيوان الصدر) بإسلام آباد.",
+            "معلم للأمة: أصبح من خلال برنامج التلفزيون الباكستاني الشهير \"اقرأ\" المعلم الأساسي للتجويد، أي قواعد النطق الصحيح، لجيل كامل من الباكستانيين."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "تكريم دولي وريادة عالمية"
+        },
+        {
+          "type": "p",
+          "text": "أكسبته خدماته للقرآن الكريم وللدولة مجموعة استثنائية من الأوسمة والمسؤوليات:"
+        },
+        {
+          "type": "h2",
+          "text": "جوائز مرموقة"
+        },
+        {
+          "type": "list",
+          "items": [
+            "وسام الامتياز (باكستان)",
+            "نيشان الامتياز (مصر)",
+            "الميدالية الذهبية (المغرب)",
+            "التاج الذهبي، مقدم في داتا دربار بلاهور",
+            "الفوز بجائزة التلفزيون الباكستاني خمس مرات للتميز في العمل الإعلامي"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "المناصب القيادية والرسمية"
+        },
+        {
+          "type": "list",
+          "items": [
+            "رئيس الحلقة العالمية للقرآن (المملكة العربية السعودية).",
+            "رئيس مجلس القراءات الباكستاني (للإذاعة والتلفزيون).",
+            "الرئيس المنتخب للاتحاد الإسلامي الدولي للقراء والحفاظ.",
+            "مؤسس الأكاديمية الدولية للقرآن في راولبندي ورئيسها."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "إرث من العطاء: مؤسسة خوشي الخيرية"
+        },
+        {
+          "type": "p",
+          "text": "بعيدًا عن الجوائز والألقاب، يتجلى إرثه الحقيقي في المؤسسات التي تركها. واليوم، يواصل ابناه، القارئ نجم مصطفى ومحمد محمود، حمل رسالته من خلال الأكاديمية الدولية للقراءات ومؤسسة تعليم القرآن في راولبندي."
+        },
+        {
+          "type": "p",
+          "text": "تعمل مؤسسة خوشي الخيرية، التي تحمل اسمه تكريمًا له، انطلاقًا من فلسفة روحية عميقة: \"خدمة الإنسانية عبادة\". وتسعى المؤسسة دون كلل إلى تقديم العون العملي وتخفيف معاناة المحتاجين، محولةً إرثه الروحي إلى عمل إنساني ملموس."
+        },
+        {
+          "type": "h2",
+          "text": "خاتمة"
+        },
+        {
+          "type": "p",
+          "text": "على الرغم من شهرته العالمية ولقب \"الأزهري\"، يذكره أقرب الناس إليه رجلًا عظيم الوفاء. فقد ظل معتزًا بانتمائه إلى قبيلة خَرَل، ولم يفقد صلته بقرية 16 جي دي التي احتضنت نشأته."
+        },
+        {
+          "type": "p",
+          "text": "توفي القارئ خوشي محمد الأزهري عام 1998، لكن صوته لا يزال راسخًا في قلوب الملايين. ومن حقول أوكارا الصغيرة إلى مآذن القاهرة الشامخة وقاعات الأمم المتحدة، تبقى حياته شاهدًا على ما يمكن تحقيقه حين تهتدي الموهبة الفطرية بإخلاص العبادة ودعوات معلم بعيد النظر."
+        },
+        {
+          "type": "h2",
+          "text": "استنادًا إلى أبحاث"
+        },
+        {
+          "type": "p",
+          "text": "راي محمد ياسين (قناة يوتيوب: فاني راي)"
+        }
+      ]
+    },
+    {
+      "slug": "the-kushi-trust-introduction",
+      "title": "مؤسسة خوشي الخيرية — نبذة تعريفية",
+      "excerpt": "أهمية المؤسسات الخيرية في باكستان، وتعريف بمؤسسة القارئ خوشي محمد الأزهري للرعاية الاجتماعية.",
+      "image": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+      "inlineImages": [
+        {
+          "filename": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+          "afterHeading": "شخصيته وخدماته",
+          "alt": "التعريف بمؤسسة خوشي الخيرية"
+        }
+      ],
+      "date": null,
+      "originalLang": "ur",
+      "body": [
+        {
+          "type": "h2",
+          "text": "مقدمة"
+        },
+        {
+          "type": "p",
+          "text": "تعمل في باكستان منظمات غير حكومية لا حصر لها، كل في مجالها، لخدمة الإنسانية المعذبة والقضاء على الفقر في البلاد. وتشكل مؤسسات الرعاية الاجتماعية العمود الفقري للمجتمع، وهذه المؤسسات الخيرية زينة له."
+        },
+        {
+          "type": "p",
+          "text": "وتأتي مؤسسة القارئ خوشي محمد الأزهري للرعاية الاجتماعية (مؤسسة خوشي الخيرية) إضافة طيبة أخرى. فقد أُنشئت باسم قارئ القرآن ذي الشهرة العالمية، الحاصل على وسام الامتياز، والشيخ الموقر في العالمين العربي وغير العربي، \"فضيلة القارئ خوشي محمد الأزهري رحمه الله\"."
+        },
+        {
+          "type": "h2",
+          "text": "شخصيته وخدماته"
+        },
+        {
+          "type": "p",
+          "text": "يبرز اسم القارئ خوشي محمد الأزهري بين أهل الوقار والصلاح. واسمه غني عن التعريف؛ فبصفته خادمًا مخلصًا للقرآن الكريم، يحتل مكانة مميزة في راولبندي، وهو نفسه أحد أسباب شهرة المدينة."
+        },
+        {
+          "type": "p",
+          "text": "لا يزال صوته الجميل محفورًا في ذاكرة جيل من الباكستانيين. ففي برنامج التلفزيون الباكستاني \"اقرأ\"، علم الأطفال من الحروف الأولى إلى التجويد الكامل للقرآن الكريم، ولا يزال أداؤه لقصيدة البردة متداولًا ومحفوظًا على نطاق واسع."
+        },
+        {
+          "type": "p",
+          "text": "كان محسنًا ومربيًا، حنونًا رحيمًا، ومعلمًا موقرًا، وقارئ باكستان ذائع الصيت عالميًا، وملكًا غير متوج في عالم التلاوة الشجية. وكان خطيبًا سابقًا للقصر الرئاسي في إسلام آباد، وقارئًا مشهورًا في إذاعة باكستان وتلفزيونها، والقارئ المفضل والأحب إلى الرئيس الأسبق الجنرال محمد ضياء الحق وملايين محبي النبي؛ فكان اسمًا شامخًا في عالم التلاوة. نال جوائز وأوسمة وطنية ودولية لا تحصى، منها جائزة رئاسية وجائزة حكومة باكستان لحسن الأداء. وقد جعل منه تعبيره المميز وأداؤه الآسر، المفعم بالمشاعر والرقة والصوت الجميل الأخاذ ذي الشجن الداودي، سفيرًا للإسلام وباكستان وناصرًا عظيمًا للأمة الإسلامية. كان محبوبًا آسرًا، حسن الهيئة رشيق الحضور، مهيبًا وقورًا، ومن أكثر شخصيات عصره تأثيرًا وتميزًا؛ نبض قلوب الملايين من محبي النبي، ومحبوب أهل السلوك، وتاجًا بين العلماء، وجوهرة نادرة نفيسة أغلى من الذهب والفضة والأحجار الكريمة والماس؛ شخصية وقورة لا نظير لها."
+        },
+        {
+          "type": "p",
+          "text": "كان الشيخ الجليل، موضع التقدير في العالمين العربي وغير العربي، وابن الأمة الإسلامية البار المكرم المحترم، قارئ باكستان العظيم القارئ خوشي محمد الأزهري رحمه الله، شخصية استثنائية في عصره وعلمًا ذائع الصيت في العالم."
+        },
+        {
+          "type": "h2",
+          "text": "النشأة والتعليم"
+        },
+        {
+          "type": "p",
+          "text": "وُلد القارئ خوشي محمد يوم الأربعاء، 24 فبراير 1943، الموافق 19 صفر المظفر 1362 هـ، في تشاك رقم 16 جي دي، إحدى قرى أوكارا. وكان ينتمي إلى قبيلة خَرَل الراجبوتية المعروفة بالبأس."
+        },
+        {
+          "type": "p",
+          "text": "تلقى تعليمه الأول في أوكارا، ثم أتم برنامجًا دراسيًا مدته ثلاث سنوات في التجويد والقرآن الكريم في الجامعة القاسمية بكراتشي. وكانت صلته القلبية والروحية بالقرآن عميقة إلى حد لا يرتوي معه ظمؤه للعلم، فسافر إلى جامعة الأزهر في مصر طلبًا للمزيد من المعرفة، وأتم دراسته الجامعية هناك."
+        },
+        {
+          "type": "p",
+          "text": "كان القرآن الكريم وحده هو التعريف بالقارئ خوشي محمد؛ وبعد هذا التعريف لا حاجة إلى تعريف آخر."
+        },
+        {
+          "type": "h2",
+          "text": "روحانيته ونهج حياته"
+        },
+        {
+          "type": "p",
+          "text": "كرس كل لحظة من حياته للقرآن الكريم. ولم يكن يستريح في يومه وليلته إلا ست ساعات، ولم يكن يأكل حتى الشبع، وكان يتناول الطعام مرة واحدة في اليوم."
+        },
+        {
+          "type": "p",
+          "text": "جسدت شخصيته جميع صفات الزاهد. وظل يشغله أن الحياة قصيرة جدًا، وأنه لم يؤد بعد حق خدمة القرآن. وكان غرضه الوحيد في الحياة ابتغاء مرضاة الله والاقتداء بسيرة النبي محمد صلى الله عليه وسلم."
+        },
+        {
+          "type": "h2",
+          "text": "وفاته وخدماته الدولية"
+        },
+        {
+          "type": "p",
+          "text": "قدر الله للقارئ عمرًا قصيرًا؛ فقد توفي يوم الثلاثاء، 11 أغسطس 1998."
+        },
+        {
+          "type": "p",
+          "text": "وفي تلك المدة القصيرة، أسبغ الله عليه تكريمات لا تحصى. فإلى جانب باكستان، سُجلت تلاواته للقرآن الكريم في المملكة العربية السعودية والكويت والبحرين وقطر والإمارات العربية المتحدة والمغرب."
+        },
+        {
+          "type": "p",
+          "text": "تشرف بالتلاوة في مكة المكرمة والمدينة المنورة. وفي إسبانيا، تميز بتلاوة القرآن الكريم كاملًا في 32 ساعة. كما بُثت تلاواته عبر التلفزيون السعودي وإذاعة باكستان."
+        },
+        {
+          "type": "p",
+          "text": "وفي أبوظبي، سجل تلاوة كاملة للقرآن الكريم في 85 ساعة. وتصف الرواية أثر صوته بقولها إن 25 شخصًا من غير المسلمين اعتنقوا الإسلام بعد سماع تلاوته."
+        },
+        {
+          "type": "h2",
+          "text": "التكريمات والإرث"
+        },
+        {
+          "type": "p",
+          "text": "عُين إمامًا للقصر الرئاسي في عهد بوتو، بينما عُين في عهد الجنرال أيوب خان أول قارئ للمجلس الأعلى."
+        },
+        {
+          "type": "p",
+          "text": "ينسب إليه المصدر نيل وسام مدني وطني عام 1980. ويذكر أيضًا أن ابنيه، القارئ نجم مصطفى عام 2007 ومحمد محمود عام 2015، حصلا على وسام الامتياز."
+        },
+        {
+          "type": "p",
+          "text": "يعرض المقال هذه التكريمات الوطنية الثلاثة بوصفها شهادة على حب الأسرة لباكستان وتميز أدائها في مجالات خدمتها المختلفة."
+        }
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "where": "site.founderName; articles.qari-khushi-urdu.subtitle",
+      "issue": "The requested founder field refers to the person in whose memory the Trust was established. The source does not identify the Trust's legal founder. The Urdu article's subtitle calls him a founder of a welfare movement, but the institutional pages describe the Trust as established in his memory. Preserve this distinction."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 158+ Students Supported. This differs from 250 students supported in 2023–24 on the education page and 250+ Total Students on the impact page; no reporting period is supplied for the home number. Removed from the home counters and replaced with a neutral educational-support highlight."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 126+ Women Trained. The women-empowerment page separately reports 150 already trained women working from home and 50+ women trained in 2024–25. The periods and overlap are not explained. Removed from the home counters and replaced with a neutral skills-development highlight; the detailed program figures are retained without adding them together."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 475+ Ration Bags Distributed. The food-assistance and impact pages report 750+ and list 200, 250, and 300 bags for 2023–24, 2024–25, and 2025–26. Removed from the home counters and replaced with neutral food-assistance copy."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 633+ Trees Planted. The tree-plantation and impact pages report 1,000+ trees planted, while the detailed achievement states 1,000 native trees. Removed from the home counters and replaced with neutral tree-plantation copy. Confirm reporting periods and whether the total is exact or a lower bound."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 4+ Healthcare Funds Spent. The number has no currency, scale, or reporting period and conflicts with the PKR 6.8M+ total on the healthcare and impact pages. Removed and replaced with neutral medical-assistance copy."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 633+ Families with Clean Water. The clean-water and impact pages report 1,000+ households served; the detailed achievement says 1,000 household beneficiaries. Removed from the home counters and replaced with neutral water-filtration copy. Confirm the reporting period and household/family terminology."
+    },
+    {
+      "where": "home.cta.badges",
+      "issue": "The source displays '100% Transparent' and 'Direct Impact' without explaining a measurement or an administrative-cost policy. Replaced with the source commitments 'Transparency in fund utilization' and 'Community-driven solutions'; do not interpret the original badge as a zero-overhead claim."
+    },
+    {
+      "where": "home.secondaryCta",
+      "issue": "The source says 'Join Thousands' without documenting a supporter or volunteer count. Replaced with the existing site phrase 'Join Our Mission'."
+    },
+    {
+      "where": "home.intro.link",
+      "issue": "The source 'Learn More' link beneath the organizational introduction points to /donate. It now points to /about to match the surrounding content."
+    },
+    {
+      "where": "articles.qari-khushi-english.excerpt; home.articles; pages.articlesIndex",
+      "issue": "Removed the mismatched demo excerpt: 'A brief look at how volunteers and local partners come together to support families in need. (Demo text — replace with your story.)' Replaced with a biography excerpt drawn from the actual article."
+    },
+    {
+      "where": "assets.imageMap; pages.*.heroImage; programs",
+      "issue": "The same Unsplash photo-1532629345422-7515f3d16bb6 is repeated as the hero on About, Contact, Donate, Impact, Programs, all 12 program-detail pages, all three article pages, Qari Khushi, Team, and Volunteer. It is mapped once in the asset inventory. Rebuilt text-led pages omit the repetitive hero; biographies use the supplied portrait, the introduction uses its supplied article image, and programs use their relevant local images."
+    },
+    {
+      "where": "assets.imageMap; home; pages.articlesIndex",
+      "issue": "All five supplied Unsplash files are stock images. Their original references are mapped to downloaded filenames, but they must not be represented as evidence of specific Trust projects or beneficiaries."
+    },
+    {
+      "where": "programs.education-support.image; assets.imageMap",
+      "issue": "The source Education Support page references '/images/programs/women-empowerment.jpg  g', which is malformed and has no matching downloaded file. Used the available girls-school.jpeg as a fallback. Do not invent a women-empowerment.jpg download."
+    },
+    {
+      "where": "programs.women-empowerment.image",
+      "issue": "The Women Empowerment page references /images/programs/education-support.jpg, which maps to education-support.jpg. Retained that actual source mapping rather than guessing that filenames should be swapped. Review the image visually before publication."
+    },
+    {
+      "where": "home.visionMissionImage; pages.about; articles.*.image; articles.*.inlineImages",
+      "issue": "The source intentionally reuses girls-school.jpeg for vision/mission and qari-khushi-2.png for the same biographical subject, including article cards and inline portraits. Use one canonical downloaded asset for each, not duplicate files. Avoid rendering an identical hero and inline portrait twice in the same article layout."
+    },
+    {
+      "where": "pages.about.sections.where-we-serve; pages.contact.sections.find-us",
+      "issue": "The map link is https://www.google.com/maps/undefined. Scraped map tiles include placeholder-like data and an exposed API key, and 'BESbswy' is a rendering artifact. Omitted tile requests and the artifact. Publish the real textual address until a verified map destination is supplied."
+    },
+    {
+      "where": "pages.donate; donate.suggestedAmounts",
+      "issue": "The original amount selector offers PKR 1,000, PKR 5,000, PKR 10,000, and a custom PKR field, followed by 'Note: This is a UI preview. Please use bank transfer details below to complete your donation.' Preserve the amounts only as suggestions, not a functioning checkout. Bank transfer is the only completion method supplied."
+    },
+    {
+      "where": "pages.contact.form; pages.volunteer.form",
+      "issue": "The scrape supplies form fields and submit labels but no submission endpoints or confirmed delivery behavior. No successful-submission promises or invented processing details have been added."
+    },
+    {
+      "where": "programs.tree-plantation.sections.Key Achievements",
+      "issue": "The source gives both 'Over 50% matured, creating shaded walkways and greener villages' and '50% plant survival rate in a harsh and challenging environment.' Maturity and survival are different measures, and the denominators and assessment dates are absent. Retained the exact disputed statements here and replaced the public percentage claims with the neutral source-supported statement that trees have matured to create shaded walkways and greener villages."
+    },
+    {
+      "where": "programs.healthcare.sections.Key Achievements",
+      "issue": "'Easy Shifa Medicine' is capitalized as a possible proper name in the source, but its meaning is unclear. Retained it exactly rather than guessing whether it names a facility, service, or product."
+    },
+    {
+      "where": "pages.impact.sections.fund-utilization",
+      "issue": "The original 'Program-wise Fund Utilization' section mixes spending totals, income potential, and beneficiary/output counts. All entries are retained, but PKR 30,000/month income potential, households served, trees planted, and ration bags distributed are not fund-utilization amounts. Do not sum these entries."
+    },
+    {
+      "where": "programs; pages.impact",
+      "issue": "Totals marked '+' sometimes match exact amounts in the detailed achievements: sports components total PKR 6 million; marriage components total PKR 1.1 million; loans detail PKR 3 million; ration rows total 750 bags. Source display totals and detailed entries are both retained without inventing additional spending or output."
+    },
+    {
+      "where": "pages.impact; programs",
+      "issue": "The 2026–27 figures are targets, not completed results. Financial and beneficiary figures have been carried over from the source and are not independently audited or verified by this content pack."
+    },
+    {
+      "where": "site.contact.people; team.leadership",
+      "issue": "The contact page names 'Mansha Rai'; the team page names 'Muhammad Mansha Rai'. Azhar Bashir is 'Secretary Finance' on Contact and 'Finance & Media Secretary – Khushi Trust' on Team. Both source forms are preserved exactly; confirm preferred public naming and role labels."
+    },
+    {
+      "where": "articles.*.date",
+      "issue": "No publication dates are supplied for any article. Dates are null; neither image filenames nor biographical dates have been used as publication dates."
+    },
+    {
+      "where": "pages.qariKhushi",
+      "issue": "The Qari Khushi page repeats the full Urdu biography article body. It is explicitly linked to the complete translated article body and original sourceText to prevent inconsistent duplicate editing. Its page title is retained separately, and the article-only subtitle is not rendered."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.slug",
+      "issue": "The original URL spells the path 'the-kushi-trust-introduction'. Retained this slug for URL continuity while correcting the visible title to 'The Khushi Trust — Introduction'."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Death and International Services",
+      "issue": "The source states: '11 August 1998, corresponding to 18 Rabi al-Thani 1413 AH, Tuesday, at only 56 years of age.' The stated age conflicts with the article's birth date of 24 February 1943, and the Gregorian/Hijri death-date pairing requires correction. The public translation retains the Gregorian date and weekday but omits the disputed Hijri date and age. All original details remain verbatim in sourceText; no replacement age or Hijri date has been invented."
+    },
+    {
+      "where": "pages.about.sections.inspiration; articles.the-kushi-trust-introduction.body.Honors and Legacy",
+      "issue": "The About page identifies Presidential Pride of Performance (1980) separately from Tamgha-e-Imtiaz. The introduction article instead says he received Tamgha-e-Imtiaz in 1980. Its original statement is preserved in sourceText; the translated closing paragraph uses 'a national civil honor in 1980' pending documentary confirmation."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Honors and Legacy",
+      "issue": "The source claims this is Pakistan's only family with three Tamgha-e-Imtiaz awards, naming Qari Khushi Muhammad and his sons Qari Najam Mustafa (2007) and Muhammad Mahmood (2015). The uniqueness claim is unsupported and the father's award identification conflicts with About. Replaced the exclusivity statement with neutral copy about the three honors and service, while preserving the full original claim in sourceText."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Death and International Services",
+      "issue": "The source claims a complete recitation in Spain in 32 hours, an Abu Dhabi recording in 85 hours, and 25 non-Muslims embracing Islam after hearing his recitation. These figures are preserved, with the conversion statement attributed to the account. Obtain supporting biographical references before presenting them as independently verified facts."
+    },
+    {
+      "where": "articles.qari-khushi-english; articles.qari-khushi-urdu; pages.qariKhushi; articles.the-kushi-trust-introduction",
+      "issue": "Historical firsts and appointments, including a first Senate Qari appointment during President Ayub Khan's era, the UN conference first, and President House roles, are source claims requiring documentary verification. They have not been silently reconciled or expanded with invented dates."
+    },
+    {
+      "where": "articles.qari-khushi-english; articles.qari-khushi-urdu; articles.the-kushi-trust-introduction",
+      "issue": "The source alternates between 'International Quran Academy' and 'International Qira'at Academy'. Both names are retained in their original contexts rather than assumed to be the same legal institution."
+    },
+    {
+      "where": "articles.qari-khushi-urdu.sourceText; articles.the-kushi-trust-introduction.sourceText",
+      "issue": "Original Urdu prose, headings, paragraph-internal line breaks, and escaped source list markers are preserved in sourceText. Image markup is represented separately through mapped inlineImages rather than treated as an Urdu prose paragraph."
+    }
+  ]
+}

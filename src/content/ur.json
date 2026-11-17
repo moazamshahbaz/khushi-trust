@@ -1,0 +1,2158 @@
+{
+  "site": {
+    "name": "خوشی ٹرسٹ",
+    "shortName": "خوشی ٹرسٹ",
+    "legalName": "قاری خوشی محمد الازہری ویلفیئر ٹرسٹ",
+    "tagline": "جذبۂ ہمدردی، عملی خدمت",
+    "description": "ایک رجسٹرڈ انسانی فلاحی ادارہ جو قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی وراثت سے رہنمائی لیتے ہوئے معاشرے کے سب سے زیادہ ضرورت مند افراد کی خدمت کر رہا ہے۔",
+    "founderName": "قاری خوشی محمد الازہری",
+    "founderHonorific": "رحمۃ اللہ علیہ",
+    "founderDisplayName": "قاری خوشی محمد الازہری رحمۃ اللہ علیہ",
+    "founderRelationship": "ٹرسٹ ان کی یاد میں قائم کیا گیا؛ فراہم کردہ ویب سائٹ میں ٹرسٹ کے قانونی بانی کی شناخت درج نہیں ہے۔",
+    "logo": "logo.png",
+    "registration": [
+      {
+        "act": "ٹرسٹ ایکٹ 2020",
+        "number": "044/46/TRUST/DLR"
+      },
+      {
+        "act": "چیریٹی ایکٹ 2018",
+        "number": "PB-6590311132347324"
+      }
+    ],
+    "registrationAuthority": "حکومتِ پنجاب",
+    "legalStatement": "عطیات اور رقوم وصول کرنے کا قانونی اختیار حاصل ہے۔",
+    "contact": {
+      "address": "چک 16 جی ڈی، اوکاڑہ، پنجاب، پاکستان",
+      "email": "thekhushitrust@gmail.com",
+      "phone": "+92 306 5352149",
+      "whatsapp": "+92 306 5352149",
+      "whatsappUrl": "https://wa.me/923065352149",
+      "whatsappCtaUrl": "https://wa.me/923065352149?text=Hello!%20I%27m%20interested%20in%20learning%20more%20about%20The%20Khushi%20Trust%20and%20how%20I%20can%20help.",
+      "whatsappMessage": "السلام علیکم! مجھے خوشی ٹرسٹ اور اس کے ساتھ تعاون کے طریقوں کے بارے میں مزید معلومات درکار ہیں۔",
+      "people": [
+        {
+          "name": "منشا رائے",
+          "role": "چیئرمین، خوشی رابطہ کونسل",
+          "phone": "+92 300 7952838"
+        },
+        {
+          "name": "اظہر بشیر",
+          "role": "سیکرٹری مالیات",
+          "phone": "+92 306 5352149"
+        }
+      ],
+      "mapUrl": null
+    },
+    "social": [
+      {
+        "name": "فیس بک",
+        "url": "https://www.facebook.com/share/1CgoNVLLaG/"
+      },
+      {
+        "name": "انسٹاگرام",
+        "url": "https://www.instagram.com/khushitrust16?igsh=YTI3Nm4xbjg3cDN5"
+      },
+      {
+        "name": "واٹس ایپ",
+        "url": "https://wa.me/923065352149"
+      }
+    ],
+    "footer": {
+      "copyrightYear": 2026,
+      "copyright": "© 2026 خوشی ٹرسٹ۔ جملہ حقوق محفوظ ہیں۔",
+      "registrationText": "ٹرسٹ ایکٹ 2020 کے تحت رجسٹرڈ — رجسٹریشن نمبر: 044/46/TRUST/DLR | چیریٹی ایکٹ 2018 — رجسٹریشن نمبر: PB-6590311132347324",
+      "quickLinkKeys": [
+        "home",
+        "about",
+        "qariKhushi",
+        "programs",
+        "team",
+        "impact",
+        "donate",
+        "contact"
+      ],
+      "featuredProgramSlugs": [
+        "education-support",
+        "women-empowerment",
+        "healthcare",
+        "clean-water",
+        "sports",
+        "tree-plantation"
+      ]
+    }
+  },
+  "nav": {
+    "home": "صفحۂ اول",
+    "about": "ہمارا تعارف",
+    "programs": "فلاحی پروگرام",
+    "impact": "خدمات کے ثمرات",
+    "team": "ہماری ٹیم",
+    "articles": "مضامین",
+    "contact": "رابطہ",
+    "donate": "عطیہ دیں",
+    "volunteer": "رضاکار بنیں",
+    "qariKhushi": "قاری خوشی صاحب",
+    "menu": "مینو",
+    "language": "زبان",
+    "english": "انگریزی",
+    "urdu": "اردو"
+  },
+  "ui": {
+    "donateNow": "ابھی عطیہ دیں",
+    "learnMore": "مزید جانیے",
+    "readMore": "مزید پڑھیے",
+    "seeAllPrograms": "تمام پروگرام دیکھیے",
+    "backToPrograms": "پروگراموں پر واپس جائیں",
+    "allPrograms": "تمام پروگرام",
+    "quickLinks": "اہم روابط",
+    "ourPrograms": "ہمارے فلاحی پروگرام",
+    "contactUs": "ہم سے رابطہ کریں",
+    "rights": "جملہ حقوق محفوظ ہیں۔",
+    "whatsappCta": "واٹس ایپ پر ہم سے رابطہ کریں",
+    "send": "پیغام بھیجیں",
+    "name": "نام",
+    "fullName": "مکمل نام",
+    "email": "ای میل",
+    "phone": "فون نمبر",
+    "message": "پیغام",
+    "subject": "موضوع",
+    "city": "شہر",
+    "areaOfInterest": "دلچسپی کا شعبہ",
+    "selectArea": "شعبہ منتخب کریں",
+    "submitApplication": "درخواست جمع کرائیں",
+    "required": "لازمی",
+    "location": "مقام",
+    "registration": "رجسٹریشن",
+    "findUs": "ہمارا پتا",
+    "ourTeam": "ہماری ٹیم",
+    "contactInformation": "رابطے کی معلومات",
+    "sendUsMessage": "ہمیں پیغام بھیجیں",
+    "programOverview": "پروگرام کا تعارف",
+    "keyAchievement": "نمایاں کامیابی",
+    "keyAchievements": "نمایاں کامیابیاں",
+    "target2026": "2026–27 کا ہدف",
+    "targets2026": "2026–27 کے اہداف",
+    "supportProgram": "اس پروگرام میں تعاون کریں",
+    "sponsorCause": "کسی فلاحی کام کی کفالت کریں",
+    "sponsorThis": "اس کی کفالت کریں",
+    "bankTransferDetails": "بینک کے ذریعے رقم کی منتقلی کی تفصیلات",
+    "accountTitle": "اکاؤنٹ کا عنوان",
+    "accountNumber": "اکاؤنٹ نمبر",
+    "iban": "آئی بین",
+    "branchCode": "برانچ کوڈ",
+    "bank": "بینک",
+    "donationAmount": "عطیے کی رقم",
+    "customAmount": "اپنی مرضی کی رقم",
+    "currency": "PKR",
+    "chairman": "چیئرمین",
+    "members": "اراکین",
+    "latestArticles": "تازہ ترین مضامین",
+    "year": "سال",
+    "rationBags": "راشن بیگ",
+    "openMenu": "مینو کھولیں",
+    "closeMenu": "مینو بند کریں",
+    "backToArticles": "مضامین پر واپس جائیں",
+    "volunteer": "رضاکار بنیں",
+    "viewImpact": "خدمات کے ثمرات دیکھیے"
+  },
+  "assets": {
+    "imageMap": [
+      {
+        "source": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+        "filename": "unsplash_photo-1488521787991-ed7bbaae773c.jpg",
+        "alt": "معاشرتی خدمت اور انسانی فلاح کا کام",
+        "usage": "صفحۂ اول کی مرکزی تصویر؛ وضاحتی اسٹاک تصویر"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=1920&q=80",
+        "filename": "unsplash_photo-1509099836639-18ba1795216d.jpg",
+        "alt": "معاشرتی بہبود اور تعاون",
+        "usage": "صفحۂ اول پر تعاون کی دعوت؛ وضاحتی اسٹاک تصویر"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&q=80",
+        "filename": "unsplash_photo-1511632765486-a01980e01a18.jpg",
+        "alt": "معاشرتی خدمات کے ثمرات",
+        "usage": "صفحۂ اول پر شرکت کی ثانوی دعوت؛ وضاحتی اسٹاک تصویر"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1600&q=80",
+        "filename": "unsplash_photo-1515378791036-0648a3ef77b2.jpg",
+        "alt": "بلاگ",
+        "usage": "مضامین کی فہرست؛ وضاحتی اسٹاک تصویر"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80",
+        "filename": "unsplash_photo-1532629345422-7515f3d16bb6.jpg",
+        "alt": "انسانی فلاح کی وضاحتی تصویر",
+        "usage": "اصل ویب سائٹ میں بار بار استعمال ہونے والی عمومی مرکزی تصویر؛ تصویری اثاثوں کی فہرست میں محفوظ ہے، مگر ازسرنو تیار کردہ صفحات پر مرکزی تصویر کے طور پر دہرائی نہیں گئی"
+      },
+      {
+        "source": "/images/logo.png",
+        "filename": "logo.png",
+        "alt": "خوشی ٹرسٹ"
+      },
+      {
+        "source": "/images/qari-khushi-2.png",
+        "filename": "qari-khushi-2.png",
+        "alt": "قاری خوشی محمد الازہری رحمۃ اللہ علیہ"
+      },
+      {
+        "source": "/images/girls-school.jpeg",
+        "filename": "girls-school.jpeg",
+        "alt": "ہمارا نصب العین اور مقصد — معاشرتی خدمت اور انسانیت کی فلاح"
+      },
+      {
+        "source": "/images/WhatsApp Image 2026-03-15 at 9.36.22 PM.jpeg",
+        "filename": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+        "alt": "خوشی ٹرسٹ کا تعارف"
+      },
+      {
+        "source": "/images/programs/clean-water.jpg",
+        "filename": "clean-water.jpg",
+        "alt": "صاف پانی پروگرام"
+      },
+      {
+        "source": "/images/programs/easy-marriage.jpg",
+        "filename": "easy-marriage.jpg",
+        "alt": "آسان نکاح پروگرام"
+      },
+      {
+        "source": "/images/programs/education-support.jpg",
+        "filename": "education-support.jpg",
+        "alt": "خواتین کو بااختیار بنانا",
+        "usage": "اصل ویب سائٹ میں خواتین کو بااختیار بنانے کے صفحے پر استعمال ہوئی ہے؛ تصویر کے موضوع اور فائل کے نام کا جائزہ درکار ہے"
+      },
+      {
+        "source": "/images/programs/women-empowerment.jpg  g",
+        "filename": null,
+        "replacementFilename": "girls-school.jpeg",
+        "usage": "تعلیمی معاونت کے صفحے پر تصویر کا حوالہ درست نہیں؛ women-empowerment.jpg نام کی کوئی فائل فراہم نہیں کی گئی"
+      },
+      {
+        "source": "/images/programs/emergency-relief.jpg",
+        "filename": "emergency-relief.jpg",
+        "alt": "ہنگامی امداد اور ریلیف"
+      },
+      {
+        "source": "/images/programs/food-assistance.jpg",
+        "filename": "food-assistance.jpg",
+        "alt": "غذائی امداد پروگرام"
+      },
+      {
+        "source": "/images/programs/funeral-support.jpg",
+        "filename": "funeral-support.jpg",
+        "alt": "تجہیز و تکفین میں معاونت"
+      },
+      {
+        "source": "/images/programs/healthcare.jpg",
+        "filename": "healthcare.jpg",
+        "alt": "طبی معاونت"
+      },
+      {
+        "source": "/images/programs/infrastructure.jpg",
+        "filename": "infrastructure.jpg",
+        "alt": "بنیادی ڈھانچے کی بحالی"
+      },
+      {
+        "source": "/images/programs/interest-free-loans.jpg",
+        "filename": "interest-free-loans.jpg",
+        "alt": "بلاسود قرض پروگرام"
+      },
+      {
+        "source": "/images/programs/sports.jpg",
+        "filename": "sports.jpg",
+        "alt": "کھیل اور کھیل کے میدان"
+      },
+      {
+        "source": "/images/programs/tree-plantation.jpg",
+        "filename": "tree-plantation.jpg",
+        "alt": "شجرکاری مہم"
+      }
+    ],
+    "stockPhotographyNotice": "اسٹاک تصاویر محض وضاحت کے لیے ہیں؛ انہیں ٹرسٹ کے مستفید افراد یا منصوبوں کی حقیقی دستاویزی تصاویر کے طور پر پیش نہ کیا جائے۔",
+    "sharedContent": {
+      "programCards": "صفحۂ اول اور پروگراموں کے صفحات پر یکساں فہرستوں کے لیے programs[].title، summary اور slug استعمال کریں۔",
+      "articleCards": "صفحۂ اول اور مضامین کے صفحات پر مضامین کی فہرستوں کے لیے articles[].title، excerpt، image اور slug استعمال کریں۔",
+      "qariKhushiPage": "pages.qariKhushi کے لیے qari-khushi-urdu مضمون کا مکمل ترجمہ شدہ متن استعمال کریں۔ اصل صفحے پر یہی سوانح عمری مضمون کے تعارفی ذیلی عنوان کے بغیر دہرائی گئی ہے۔"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "خدمت کے ہر عمل سے زندگیوں میں بہتری",
+      "title": "جذبۂ ہمدردی، عملی خدمت",
+      "subtitle": "ایک رجسٹرڈ انسانی فلاحی ادارہ جو قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی وراثت سے رہنمائی لیتے ہوئے معاشرے کے سب سے زیادہ ضرورت مند افراد کی خدمت کر رہا ہے۔",
+      "image": "unsplash_photo-1488521787991-ed7bbaae773c.jpg",
+      "primaryCta": {
+        "label": "ابھی عطیہ دیں",
+        "href": "/donate"
+      },
+      "secondaryCta": {
+        "label": "ہمارے فلاحی پروگرام",
+        "href": "/programs"
+      }
+    },
+    "stats": [],
+    "serviceHighlights": [
+      {
+        "label": "طلبہ کی معاونت",
+        "text": "مستحق طلبہ کے لیے وردیاں، کتابیں اور تعلیمی سامان۔",
+        "programSlug": "education-support"
+      },
+      {
+        "label": "خواتین کی تربیت",
+        "text": "سلائی، کڑھائی اور دستکاری کے ہنر کی تربیت۔",
+        "programSlug": "women-empowerment"
+      },
+      {
+        "label": "غذائی امداد",
+        "text": "ضرورت مند خاندانوں کے لیے راشن بیگ۔",
+        "programSlug": "food-assistance"
+      },
+      {
+        "label": "شجرکاری",
+        "text": "اسکولوں، قبرستانوں اور سڑکوں کے کنارے مقامی درختوں کی شجرکاری۔",
+        "programSlug": "tree-plantation"
+      },
+      {
+        "label": "طبی معاونت",
+        "text": "علاج معالجے میں معاونت اور ضروری ادویات کی فراہمی۔",
+        "programSlug": "healthcare"
+      },
+      {
+        "label": "صاف پانی",
+        "text": "آبادیوں کے لیے پانی صاف کرنے کے پلانٹس۔",
+        "programSlug": "clean-water"
+      }
+    ],
+    "intro": {
+      "title": "خوشی ٹرسٹ",
+      "body": [
+        "قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی یاد میں قائم کردہ خوشی ٹرسٹ ایک رجسٹرڈ انسانی فلاحی ادارہ ہے۔ ان کی زندگی کی نمایاں صفات، عجز و انکسار، محبت اور ہمدردی سے رہنمائی لیتے ہوئے معاشرے کے سب سے زیادہ ضرورت مند افراد کی خدمت ہمارا مقصد ہے۔",
+        "ہمدردی، جذبۂ خدمت اور عزم سے سرشار مخلص رضاکاروں کی ٹیم کی کاوشوں سے خوشی ٹرسٹ نے مختصر مدت میں نمایاں کامیابیاں حاصل کی ہیں۔ اگرچہ ٹرسٹ ابھی اپنے ابتدائی مراحل میں ہے، تاہم اس کے اہداف بلند اور مستقبل میں مزید خدمت کا عزم غیر متزلزل ہے۔"
+      ],
+      "image": "logo.png",
+      "link": {
+        "label": "مزید جانیے",
+        "href": "/about"
+      }
+    },
+    "pillars": {
+      "title": "خدمت کے 12 ستون",
+      "subtitle": "خوشی ٹرسٹ میں ہم زندگیوں کی بنیادی ضروریات سے بہتری کا آغاز کرنے پر یقین رکھتے ہیں۔ ہماری خدمات 12 ستونوں پر قائم ہیں، جن میں سے ہر ایک کسی اہم ضرورت کو پورا کرتا ہے۔",
+      "programSlugs": [
+        "education-support",
+        "women-empowerment",
+        "healthcare",
+        "clean-water",
+        "sports",
+        "tree-plantation",
+        "funeral-support",
+        "easy-marriage",
+        "infrastructure",
+        "food-assistance",
+        "interest-free-loans",
+        "emergency-relief"
+      ]
+    },
+    "visionMissionImage": "girls-school.jpeg",
+    "vision": {
+      "title": "ہمارا نصب العین",
+      "body": "ایک ایسا معاشرہ جہاں عزت، مواقع اور ہمدردی سب کو میسر ہوں۔"
+    },
+    "mission": {
+      "title": "ہمارا مقصد",
+      "body": "مہربانی، ہمدردی اور معاشرتی خدمت کے عملی اقدامات کے ذریعے انسانیت کی فلاح کرتے ہوئے قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی وراثت کو آگے بڑھانا۔"
+    },
+    "cta": {
+      "eyebrow": "ہمارے مشن میں شریک ہوں",
+      "title": "آپ کا تعاون زندگیاں بدلتا ہے",
+      "body": "ہر تعاون مثبت تبدیلی کا دائرہ وسیع کرتا ہے۔ مل کر ہم بستیوں کی حالت بہتر بنا سکتے ہیں اور زندگیوں میں خوش حالی لا سکتے ہیں۔",
+      "badges": [
+        "رقوم کے استعمال میں شفافیت",
+        "مقامی آبادی کی شمولیت سے مسائل کا حل"
+      ],
+      "image": "unsplash_photo-1509099836639-18ba1795216d.jpg",
+      "links": [
+        {
+          "label": "ابھی عطیہ دیں",
+          "href": "/donate"
+        },
+        {
+          "label": "رضاکار بنیں",
+          "href": "/volunteer"
+        }
+      ]
+    },
+    "secondaryCta": {
+      "eyebrow": "ہمارے مشن میں شریک ہوں",
+      "title": "بہتری کی جانب ایک قدم",
+      "body": "آپ کا تعاون ہمیں مزید آبادیوں تک پہنچنے اور دیرپا مثبت تبدیلی لانے میں مدد دیتا ہے۔",
+      "image": "unsplash_photo-1511632765486-a01980e01a18.jpg"
+    },
+    "articles": {
+      "title": "تازہ ترین مضامین",
+      "subtitle": "خوشی ٹرسٹ کی خدمات کے احوال اور تازہ خبریں۔ مزید مضامین جلد شامل کیے جائیں گے۔",
+      "articleSlugs": [
+        "qari-khushi-urdu",
+        "qari-khushi-english",
+        "the-kushi-trust-introduction"
+      ]
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "ہمارا تعارف",
+      "subtitle": "قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی یاد میں قائم، معاشرے کے سب سے زیادہ ضرورت مند افراد کی ہمدردی اور خلوص سے خدمت۔",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "inspiration",
+          "heading": "ہمارا سرچشمۂ ترغیب",
+          "image": "qari-khushi-2.png",
+          "body": [
+            "قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی آواز قوموں کے دلوں کو چھو لیتی تھی۔ ان کی پوری زندگی قرآنِ کریم کے لیے وقف تھی؛ ان کی تلاوت دلوں کو نرم کرتی، ایمان کو تازگی بخشتی اور مختلف معاشروں کو باہم جوڑتی تھی۔ پاکستان کے شہر اوکاڑہ میں پیدا ہونے والے قاری صاحب نے تجوید میں اپنی بے مثال مہارت اور عجز و انکسار کے باعث عالمی شہرت حاصل کی اور لاکھوں دلوں کو مسحور کیا۔",
+            "انہیں عطا کیے جانے والے اعزازات:",
+            "وہ آخری سانس تک اللہ تعالیٰ اور انسانیت کے سچے خادم رہے۔"
+          ],
+          "bullets": [
+            "صدارتی تمغۂ حسنِ کارکردگی (1980)",
+            "تمغۂ امتیاز",
+            "مصر کا بین الاقوامی اعزاز"
+          ],
+          "renderOrder": [
+            "body.0",
+            "body.1",
+            "bullets",
+            "body.2"
+          ]
+        },
+        {
+          "id": "who-we-are",
+          "heading": "ہم کون ہیں",
+          "body": [
+            "قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی یاد میں قائم کردہ خوشی ٹرسٹ ایک رجسٹرڈ انسانی فلاحی ادارہ ہے۔ ہمدردی، جذبۂ خدمت اور عزم سے سرشار مخلص رضاکاروں کی ٹیم کی کاوشوں سے خوشی ٹرسٹ نے مختصر مدت میں نمایاں کامیابیاں حاصل کی ہیں۔ اگرچہ ٹرسٹ ابھی اپنے ابتدائی مراحل میں ہے، تاہم اس کے اہداف بلند اور مستقبل میں مزید خدمت کا عزم غیر متزلزل ہے۔"
+          ]
+        },
+        {
+          "id": "commitments",
+          "heading": "ہمارے عزم کی بنیادیں",
+          "body": [],
+          "bullets": [
+            "ہر عمل میں ہمدردی اور شفقت",
+            "رقوم کے استعمال میں شفافیت",
+            "تمام مستفید افراد کی عزتِ نفس اور احترام",
+            "مقامی آبادی کی شمولیت سے مسائل کا حل",
+            "طویل مدتی پروگراموں کے ذریعے دیرپا بہتری",
+            "بااختیار بنانے کے لیے تعلیم کا فروغ",
+            "سب کے لیے علاج معالجے تک رسائی",
+            "شجرکاری کے ذریعے ماحول کا تحفظ",
+            "ہنگامی حالات میں فوری مدد اور آفات سے متاثرہ افراد کی امداد",
+            "خواتین کو بااختیار بنانا اور ہنر کی تربیت",
+            "بہتر آبادیوں کے لیے بنیادی ڈھانچے کی ترقی",
+            "خاندانوں کے لیے بلاسود مالی معاونت"
+          ]
+        },
+        {
+          "id": "vision",
+          "heading": "ہمارا نصب العین",
+          "image": "girls-school.jpeg",
+          "body": [
+            "ایک ایسا معاشرہ جہاں عزت، مواقع اور ہمدردی سب کو میسر ہوں۔"
+          ]
+        },
+        {
+          "id": "mission",
+          "heading": "ہمارا مقصد",
+          "body": [
+            "مہربانی، ہمدردی اور معاشرتی خدمت کے عملی اقدامات کے ذریعے انسانیت کی فلاح کرتے ہوئے قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی وراثت کو آگے بڑھانا۔"
+          ]
+        },
+        {
+          "id": "where-we-serve",
+          "heading": "ہماری خدمات کا دائرہ",
+          "body": [
+            "قاری خوشی محمد کی جائے پیدائش چک نمبر 16-جی ڈی، اوکاڑہ سے آغاز کرتے ہوئے خوشی ٹرسٹ اپنی خدمات پڑوسی دیہات تک وسیع کر رہا ہے۔ ہمارا طویل مدتی ہدف ضلع اور صوبے بھر کی آبادیوں کی زندگیوں میں بہتری لانا ہے۔",
+            "چک نمبر 16-جی ڈی ایک دور افتادہ گاؤں ہے جہاں غریب کاشت کار خاندان آباد ہیں۔ یہ صوبۂ پنجاب کے دارالحکومت لاہور سے تقریباً 130 کلومیٹر کے فاصلے پر واقع ہے۔ یہی گاؤں ہمارے مشن کے عاجزانہ آغاز کا مرکز ہے۔"
+          ],
+          "mapUrl": null
+        },
+        {
+          "id": "legal-status",
+          "heading": "قانونی حیثیت",
+          "body": [
+            "خوشی ٹرسٹ حکومتِ پنجاب کے پاس درج ذیل قوانین کے تحت قانونی طور پر رجسٹرڈ ادارہ ہے:",
+            "عطیات اور رقوم وصول کرنے کا قانونی اختیار حاصل ہے۔"
+          ],
+          "items": [
+            {
+              "title": "ٹرسٹ ایکٹ 2020",
+              "text": "رجسٹریشن نمبر: 044/46/TRUST/DLR"
+            },
+            {
+              "title": "چیریٹی ایکٹ 2018",
+              "text": "رجسٹریشن نمبر: PB-6590311132347324"
+            }
+          ],
+          "renderOrder": [
+            "body.0",
+            "items",
+            "body.1"
+          ]
+        }
+      ]
+    },
+    "impact": {
+      "title": "جمع شدہ اور استعمال شدہ رقوم",
+      "subtitle": "",
+      "heroImage": null,
+      "stats": [
+        {
+          "value": 12,
+          "suffix": "",
+          "label": "فعال پروگراموں کی کل تعداد"
+        },
+        {
+          "value": 250,
+          "suffix": "+",
+          "label": "طلبہ کی کل تعداد"
+        },
+        {
+          "value": 6.8,
+          "prefix": "PKR ",
+          "suffix": "M+",
+          "label": "طبی معاونت کے لیے مجموعی رقوم"
+        }
+      ],
+      "sections": [
+        {
+          "id": "ration-distribution",
+          "heading": "سال وار راشن بیگ کی تقسیم",
+          "body": [],
+          "table": {
+            "columns": [
+              "سال",
+              "راشن بیگ (فی بیگ 10,000 پاکستانی روپے)"
+            ],
+            "rows": [
+              [
+                "2023–24",
+                "200 بیگ"
+              ],
+              [
+                "2024–25",
+                "250 بیگ"
+              ],
+              [
+                "2025–26",
+                "300 بیگ"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "fund-utilization",
+          "heading": "پروگرام وار رقوم کا استعمال",
+          "body": [],
+          "items": [
+            {
+              "title": "تعلیمی معاونت",
+              "text": "300,000 پاکستانی روپے صرف کیے گئے (2023–24)",
+              "programSlug": "education-support"
+            },
+            {
+              "title": "خواتین کو بااختیار بنانا",
+              "text": "ماہانہ 30,000 پاکستانی روپے آمدن کی صلاحیت",
+              "programSlug": "women-empowerment"
+            },
+            {
+              "title": "طبی معاونت",
+              "text": "طبی معاونت پر مجموعی طور پر 6.8 ملین سے زائد پاکستانی روپے خرچ کیے گئے",
+              "programSlug": "healthcare"
+            },
+            {
+              "title": "صاف پانی پروگرام",
+              "text": "1,000 سے زائد گھرانوں کو سہولت فراہم کی گئی",
+              "programSlug": "clean-water"
+            },
+            {
+              "title": "کھیل اور کھیل کے میدان",
+              "text": "مجموعی طور پر 6 ملین سے زائد پاکستانی روپے صرف کیے گئے",
+              "programSlug": "sports"
+            },
+            {
+              "title": "شجرکاری مہم",
+              "text": "1,000 سے زائد درخت لگائے گئے",
+              "programSlug": "tree-plantation"
+            },
+            {
+              "title": "تجہیز و تکفین میں معاونت",
+              "text": "مجموعی طور پر 483,000 سے زائد پاکستانی روپے خرچ کیے گئے",
+              "programSlug": "funeral-support"
+            },
+            {
+              "title": "آسان نکاح پروگرام",
+              "text": "مجموعی طور پر 1.1 ملین سے زائد پاکستانی روپے خرچ کیے گئے",
+              "programSlug": "easy-marriage"
+            },
+            {
+              "title": "بنیادی ڈھانچے کی بحالی",
+              "text": "500,000 پاکستانی روپے صرف کیے گئے",
+              "programSlug": "infrastructure"
+            },
+            {
+              "title": "غذائی امداد پروگرام",
+              "text": "750 سے زائد راشن بیگ تقسیم کیے گئے",
+              "programSlug": "food-assistance"
+            },
+            {
+              "title": "بلاسود قرض پروگرام",
+              "text": "3 ملین سے زائد پاکستانی روپے فراہم کیے گئے",
+              "programSlug": "interest-free-loans"
+            },
+            {
+              "title": "ہنگامی امداد اور ریلیف",
+              "text": "2.4 ملین سے زائد پاکستانی روپے خرچ کیے گئے",
+              "programSlug": "emergency-relief"
+            }
+          ]
+        },
+        {
+          "id": "targets",
+          "heading": "2026–27 کے اہداف",
+          "body": [],
+          "items": [
+            {
+              "title": "تعلیمی معاونت",
+              "text": "300 مستحق طلبہ کی معاونت۔",
+              "programSlug": "education-support"
+            },
+            {
+              "title": "خواتین کو بااختیار بنانا",
+              "text": "تربیت کا دائرہ پڑوسی دیہات تک بڑھانا اور مجموعی رسائی میں اضافہ؛ مزید 50 سے زائد خواتین کو تربیت دینا۔",
+              "programSlug": "women-empowerment"
+            },
+            {
+              "title": "طبی معاونت",
+              "text": "5 ملین پاکستانی روپے کے مجوزہ بجٹ سے طبی معاونت کا دائرہ وسیع کرنا۔",
+              "programSlug": "healthcare"
+            },
+            {
+              "title": "صاف پانی پروگرام",
+              "text": "صاف پانی کی رسائی 5,000 گھرانوں اور پڑوسی دیہی آبادیوں تک بڑھانا۔",
+              "programSlug": "clean-water"
+            },
+            {
+              "title": "کھیل اور کھیل کے میدان",
+              "text": "نوجوانوں میں کھیلوں کا فروغ جاری رکھنا اور کرکٹ و فٹ بال کے میدانوں میں فلڈ لائٹس نصب کرنا۔",
+              "programSlug": "sports"
+            },
+            {
+              "title": "شجرکاری مہم",
+              "text": "1,000 سایہ دار اور ماحول دوست درخت لگانا؛ مرکزی سڑکوں اور راستوں کے اطراف شجرکاری کا دائرہ وسیع کرنا۔",
+              "programSlug": "tree-plantation"
+            },
+            {
+              "title": "تجہیز و تکفین میں معاونت",
+              "text": "تجہیز و تکفین کی معاونت زیادہ بڑی اور سہولتوں سے محروم آبادیوں تک پہنچانا۔",
+              "programSlug": "funeral-support"
+            },
+            {
+              "title": "آسان نکاح پروگرام",
+              "text": "یتیم بچیوں اور مکمل جانچ پڑتال کے بعد انتہائی مستحق قرار پانے والے خاندانوں کی بچیوں کے لیے 0.5 ملین پاکستانی روپے کی معاونت فراہم کرنا۔",
+              "programSlug": "easy-marriage"
+            },
+            {
+              "title": "بنیادی ڈھانچے کی بحالی",
+              "text": "محفوظ اور صحت مند آبادیوں کے لیے دیہی بنیادی ڈھانچے کی بہتری جاری رکھنا۔",
+              "programSlug": "infrastructure"
+            },
+            {
+              "title": "غذائی امداد پروگرام",
+              "text": "ضرورت مند خاندانوں کی غذائی معاونت بڑھانے کے لیے 300 راشن بیگ تقسیم کرنا۔",
+              "programSlug": "food-assistance"
+            },
+            {
+              "title": "بلاسود قرض پروگرام",
+              "text": "5 ملین پاکستانی روپے کے بجٹ سے پروگرام کا دائرہ وسیع کرنا۔",
+              "programSlug": "interest-free-loans"
+            },
+            {
+              "title": "ہنگامی امداد اور ریلیف",
+              "text": "5 ملین پاکستانی روپے کے بجٹ سے ہنگامی امداد اور ریلیف کا دائرہ وسیع کرنا۔",
+              "programSlug": "emergency-relief"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "ہم سے رابطہ کریں",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "team-contacts",
+          "heading": "ہماری ٹیم",
+          "body": [],
+          "items": [
+            {
+              "title": "منشا رائے",
+              "text": "چیئرمین، خوشی رابطہ کونسل",
+              "phone": "+92 300 7952838"
+            },
+            {
+              "title": "اظہر بشیر",
+              "text": "سیکرٹری مالیات",
+              "phone": "+92 306 5352149"
+            }
+          ]
+        },
+        {
+          "id": "contact-information",
+          "heading": "رابطے کی معلومات",
+          "body": [],
+          "items": [
+            {
+              "title": "مقام",
+              "text": "چک 16 جی ڈی، اوکاڑہ، پنجاب، پاکستان"
+            },
+            {
+              "title": "ای میل",
+              "text": "thekhushitrust@gmail.com",
+              "href": "mailto:thekhushitrust@gmail.com"
+            },
+            {
+              "title": "رجسٹریشن",
+              "text": "044/46/TRUST/DLR"
+            }
+          ]
+        },
+        {
+          "id": "find-us",
+          "heading": "ہمارا پتا",
+          "body": [
+            "چک 16 جی ڈی، اوکاڑہ، پنجاب، پاکستان"
+          ],
+          "mapUrl": null
+        },
+        {
+          "id": "message",
+          "heading": "ہمیں پیغام بھیجیں",
+          "body": []
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "name",
+            "label": "نام",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "ای میل",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "فون نمبر",
+            "type": "tel",
+            "required": false
+          },
+          {
+            "name": "message",
+            "label": "پیغام",
+            "type": "textarea",
+            "required": true
+          }
+        ],
+        "submitLabel": "پیغام بھیجیں",
+        "submissionEndpoint": null
+      }
+    },
+    "donate": {
+      "title": "اعتماد کے ساتھ عطیہ دیں",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "why-donate",
+          "heading": "عطیہ کیوں دیں",
+          "body": [],
+          "items": [
+            {
+              "title": "تعلیم",
+              "text": "طلبہ کے لیے وردیوں، کتابوں اور تعلیمی سامان کی فراہمی میں تعاون کریں۔"
+            },
+            {
+              "title": "صحت",
+              "text": "طبی معاونت اور ضروری ادویات کی فراہمی میں حصہ ڈالیں۔"
+            },
+            {
+              "title": "صاف پانی",
+              "text": "آبادیوں کے لیے پانی صاف کرنے کے پلانٹس کی تنصیب میں تعاون کریں۔"
+            },
+            {
+              "title": "غذائی امداد",
+              "text": "ضرورت مند خاندانوں کو راشن بیگ فراہم کرنے میں حصہ لیں۔"
+            }
+          ]
+        },
+        {
+          "id": "donation-method",
+          "heading": "بینک کے ذریعے رقم کی منتقلی کی تفصیلات",
+          "body": [
+            "اپنا عطیہ بھیجنے کے لیے بینک کے ذریعے رقم کی منتقلی کی تفصیلات استعمال کریں۔",
+            "رقم منتقل کرنے کے بعد اپنے عطیے کی تصدیق کے لیے thekhushitrust@gmail.com پر رابطہ کریں یا ہمیں فون کریں۔"
+          ],
+          "accountsRef": "donate.accounts"
+        },
+        {
+          "id": "sponsor-a-cause",
+          "heading": "کسی فلاحی کام کی کفالت کریں",
+          "body": [],
+          "items": [
+            {
+              "title": "تعلیمی معاونت",
+              "text": "تعلیم بااختیار زندگی کی جانب پہلا قدم ہے۔ ہم یقینی بناتے ہیں کہ کوئی بچہ پیچھے نہ رہ جائے۔",
+              "programSlug": "education-support",
+              "cta": "اس کی کفالت کریں",
+              "href": "/donate"
+            },
+            {
+              "title": "خواتین کو بااختیار بنانا",
+              "text": "بااختیار خواتین اپنے خاندانوں اور معاشرے کے لیے خوش حالی، وقار اور دیرپا تبدیلی کا باعث بنتی ہیں۔",
+              "programSlug": "women-empowerment",
+              "cta": "اس کی کفالت کریں",
+              "href": "/donate"
+            },
+            {
+              "title": "طبی معاونت",
+              "text": "ہم بیماری سے نبرد آزما خاندانوں کی عزتِ نفس، ہمدردی اور خلوص کے ساتھ معاونت کرتے ہیں، تاکہ ضروری طبی مدد ان کی دسترس سے باہر نہ ہو۔",
+              "programSlug": "healthcare",
+              "cta": "اس کی کفالت کریں",
+              "href": "/donate"
+            },
+            {
+              "title": "صاف پانی پروگرام",
+              "text": "صاف پانی زندگی بچاتا ہے — ہر گلاس صحت، امید اور زندگی کا پیغام ہے۔",
+              "programSlug": "clean-water",
+              "cta": "اس کی کفالت کریں",
+              "href": "/donate"
+            },
+            {
+              "title": "کھیل اور کھیل کے میدان",
+              "text": "کھیل نظم و ضبط، اتحاد اور اعتماد سکھاتے ہیں۔ ہم مستقبل کے فاتحین کی صلاحیتوں کو پروان چڑھاتے ہیں۔",
+              "programSlug": "sports",
+              "cta": "اس کی کفالت کریں",
+              "href": "/donate"
+            },
+            {
+              "title": "شجرکاری مہم",
+              "text": "لگایا جانے والا ہر درخت مستقبل کے لیے امید کا پیغام ہے۔",
+              "programSlug": "tree-plantation",
+              "cta": "اس کی کفالت کریں",
+              "href": "/donate"
+            }
+          ]
+        },
+        {
+          "id": "confidence",
+          "heading": "اعتماد کے ساتھ عطیہ دیں",
+          "body": [
+            "خوشی ٹرسٹ، ٹرسٹ ایکٹ 2020 (رجسٹریشن: 044/46/TRUST/DLR) اور چیریٹی ایکٹ 2018 (رجسٹریشن: PB-6590311132347324) کے تحت قانونی طور پر رجسٹرڈ ہے اور اسے عطیات اور رقوم وصول کرنے کا قانونی اختیار حاصل ہے۔",
+            "تمام عطیات ہمارے خدمات کے ثمرات کے صفحے پر درج پروگراموں کے لیے شفاف انداز میں استعمال کیے جاتے ہیں۔ ہم تفصیلی ریکارڈ رکھتے ہیں اور درخواست پر رسیدیں فراہم کرتے ہیں۔"
+          ],
+          "quote": "ہر وہ زندگی جس میں ہم بہتری لاتے ہیں، ہر وہ دعا جس کی قبولیت کا وسیلہ بنتے ہیں، اور ہر وہ مسکراہٹ جس کا سبب بنتے ہیں — ان سب کے ذریعے ہم قاری خوشی محمد الازہری رحمۃ اللہ علیہ کی دائمی وراثت کو آگے بڑھاتے ہیں۔"
+        }
+      ]
+    },
+    "volunteer": {
+      "title": "ہمارے مشن میں شریک ہوں",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "why-volunteer",
+          "heading": "رضاکار کیوں بنیں",
+          "body": [],
+          "items": [
+            {
+              "title": "حقیقی بہتری کا حصہ بنیں",
+              "text": "دیہی آبادیوں کی زندگیوں میں بہتری لانے کے لیے براہِ راست کردار ادا کریں۔"
+            },
+            {
+              "title": "صلاحیتیں نکھاریں",
+              "text": "معاشرتی خدمت اور قیادت کا قیمتی تجربہ حاصل کریں۔"
+            },
+            {
+              "title": "ہم خیال ساتھیوں سے جڑیں",
+              "text": "مثبت تبدیلی کے لیے پُرعزم ہم خیال افراد کے ساتھ مل کر کام کریں۔"
+            }
+          ]
+        },
+        {
+          "id": "application",
+          "heading": "رضاکارانہ خدمات کے لیے درخواست فارم",
+          "body": []
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "fullName",
+            "label": "مکمل نام",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "ای میل",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "فون نمبر",
+            "type": "tel",
+            "required": true
+          },
+          {
+            "name": "city",
+            "label": "شہر",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "areaOfInterest",
+            "label": "دلچسپی کا شعبہ",
+            "type": "select",
+            "required": true,
+            "placeholder": "شعبہ منتخب کریں",
+            "options": [
+              "تعلیم",
+              "صحت",
+              "معاشرتی ترقی",
+              "انتظامی امور",
+              "دیگر"
+            ]
+          },
+          {
+            "name": "message",
+            "label": "پیغام",
+            "type": "textarea",
+            "required": false
+          }
+        ],
+        "submitLabel": "درخواست جمع کرائیں",
+        "submissionEndpoint": null
+      }
+    },
+    "qariKhushi": {
+      "title": "قاری خوشی محمد الازہری رحمۃ اللہ علیہ کا تعارف",
+      "subtitle": "",
+      "heroImage": "qari-khushi-2.png",
+      "originalLang": "ur",
+      "sections": [],
+      "bodyArticleSlug": "qari-khushi-urdu",
+      "bodyField": "body",
+      "sourceTextArticleSlug": "qari-khushi-urdu",
+      "sourceTextField": "sourceText",
+      "renderArticleSubtitle": false,
+      "contentNote": "اس صفحے کا مکمل متن qari-khushi-urdu مضمون میں محفوظ سوانح عمری کے متن کے مطابق ہے اور اس کے پہلے h2 سے شروع ہوتا ہے۔ یہاں وہ مکمل متن بغیر کسی اختصار کے دکھائیں۔"
+    },
+    "programsIndex": {
+      "title": "خدمت کے 12 ستون",
+      "subtitle": "خوشی ٹرسٹ میں ہم زندگیوں کی بنیادی ضروریات سے بہتری کا آغاز کرنے پر یقین رکھتے ہیں۔ ہماری خدمات 12 ستونوں پر قائم ہیں، جن میں سے ہر ایک کسی اہم ضرورت کو پورا کرتا ہے۔",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "programs",
+          "heading": "خدمت کے 12 ستون",
+          "body": [],
+          "programSlugs": [
+            "education-support",
+            "women-empowerment",
+            "healthcare",
+            "clean-water",
+            "sports",
+            "tree-plantation",
+            "funeral-support",
+            "easy-marriage",
+            "infrastructure",
+            "food-assistance",
+            "interest-free-loans",
+            "emergency-relief"
+          ]
+        }
+      ]
+    },
+    "articlesIndex": {
+      "title": "بلاگ",
+      "subtitle": "خوشی ٹرسٹ کی خدمات کے احوال، تازہ خبریں اور معاشرتی خدمات کے ثمرات۔",
+      "heroImage": "unsplash_photo-1515378791036-0648a3ef77b2.jpg",
+      "sections": [
+        {
+          "id": "latest-articles",
+          "heading": "تازہ ترین مضامین",
+          "body": [
+            "خوشی ٹرسٹ کی خدمات کے احوال اور تازہ خبریں۔ مزید مضامین جلد شامل کیے جائیں گے۔"
+          ],
+          "articleSlugs": [
+            "qari-khushi-urdu",
+            "qari-khushi-english",
+            "the-kushi-trust-introduction"
+          ]
+        }
+      ]
+    },
+    "team": {
+      "title": "ہماری ٹیم",
+      "subtitle": "خوشی ٹرسٹ — رابطہ کونسل",
+      "heroImage": null,
+      "sections": [],
+      "contentRef": "team"
+    }
+  },
+  "donate": {
+    "accounts": [
+      {
+        "bank": "دی بینک آف پنجاب",
+        "title": "قاری خوشی محمد الازہری ویلفیئر ٹرسٹ — خوشی ٹرسٹ",
+        "accountNo": "5010 3650 3890 0011",
+        "iban": "PK16 BPUN 5010 3650 3890 0011",
+        "branch": "مین برانچ، بے نظیر روڈ، اوکاڑہ",
+        "branchCode": "0018",
+        "bankDisplay": "دی بینک آف پنجاب، مین برانچ، بے نظیر روڈ، اوکاڑہ"
+      }
+    ],
+    "methods": [
+      {
+        "id": "bank-transfer",
+        "title": "بینک کے ذریعے رقم کی منتقلی",
+        "text": "اپنا عطیہ بھیجنے کے لیے بینک کے ذریعے رقم کی منتقلی کی تفصیلات استعمال کریں۔",
+        "confirmation": "رقم منتقل کرنے کے بعد اپنے عطیے کی تصدیق کے لیے thekhushitrust@gmail.com پر رابطہ کریں یا ہمیں فون کریں۔",
+        "email": "thekhushitrust@gmail.com",
+        "phone": "+92 306 5352149"
+      }
+    ],
+    "currency": "PKR",
+    "suggestedAmounts": [
+      1000,
+      5000,
+      10000
+    ],
+    "suggestedAmountsHeading": "عطیے کی رقم",
+    "onlinePaymentsAvailable": false,
+    "amountSelectionNote": "اپنا عطیہ بھیجنے کے لیے بینک کے ذریعے رقم کی منتقلی کی تفصیلات استعمال کریں۔",
+    "receipts": "ہم تفصیلی ریکارڈ رکھتے ہیں اور درخواست پر رسیدیں فراہم کرتے ہیں۔"
+  },
+  "programs": [
+    {
+      "slug": "education-support",
+      "title": "تعلیمی معاونت",
+      "summary": "تعلیم بااختیار زندگی کی جانب پہلا قدم ہے۔ ہم یقینی بناتے ہیں کہ کوئی بچہ پیچھے نہ رہ جائے۔",
+      "image": "girls-school.jpeg",
+      "icon": "GraduationCap",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم یقین رکھتے ہیں کہ تعلیم بااختیار زندگی کی بنیاد ہے۔ ہمارا تعلیمی معاونت پروگرام مستحق طلبہ کو ضروری تعلیمی وسائل فراہم کرکے اس بات کو یقینی بناتا ہے کہ کوئی بچہ پیچھے نہ رہ جائے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "2023–24: 250 طلبہ کو وردیاں، کتابیں اور تعلیمی سامان فراہم کیا گیا — 300,000 پاکستانی روپے صرف کیے گئے۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "300 مستحق طلبہ کی معاونت۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 300,000",
+        "label": "صرف کردہ رقم (2023–24)"
+      },
+      "previousSlug": null,
+      "nextSlug": "women-empowerment",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "women-empowerment",
+      "title": "خواتین کو بااختیار بنانا",
+      "summary": "بااختیار خواتین اپنے خاندانوں اور معاشرے کے لیے خوش حالی، وقار اور دیرپا تبدیلی کا باعث بنتی ہیں۔",
+      "image": "education-support.jpg",
+      "icon": "Scissors",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "خواتین کو بااختیار بنانے کا ہمارا پروگرام ہنر کی تربیت پر توجہ دیتا ہے۔ خواتین کو سلائی، کڑھائی اور دستکاری سکھائی جاتی ہے تاکہ وہ اپنے خاندانوں کے لیے پائیدار آمدن حاصل کر سکیں۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "ہنر کی تربیت کے پروگرام کا آغاز — خواتین کو سلائی، کڑھائی اور دستکاری کی تربیت۔",
+            "پہلے سے تربیت یافتہ 150 خواتین گھر سے کام کرکے اپنے خاندانوں کے لیے آمدن حاصل کر رہی ہیں۔",
+            "2024–25 میں عملی تربیت اور رہنمائی کے ذریعے 50 سے زائد خواتین کو تربیت دی گئی۔",
+            "مقامی خواتین اب ہنر پر مبنی پائیدار روزگار کے ذریعے ماہانہ 30,000 پاکستانی روپے تک کما رہی ہیں۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "تربیت کا دائرہ پڑوسی دیہات تک بڑھانا اور مجموعی رسائی میں اضافہ؛ مزید 50 سے زائد خواتین کو تربیت دینا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 30,000/ماہ",
+        "label": "آمدن کی صلاحیت"
+      },
+      "previousSlug": "education-support",
+      "nextSlug": "healthcare",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "healthcare",
+      "title": "طبی معاونت",
+      "summary": "ہم بیماری سے نبرد آزما خاندانوں کی عزتِ نفس، ہمدردی اور خلوص کے ساتھ معاونت کرتے ہیں، تاکہ ضروری طبی مدد ان کی دسترس سے باہر نہ ہو۔",
+      "image": "healthcare.jpg",
+      "icon": "HeartPulse",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم ضرورت مند خاندانوں کو اہم طبی معاونت فراہم کرتے ہیں تاکہ معاشرے کے سب سے زیادہ ضرورت مند افراد کے لیے علاج معالجہ قابلِ رسائی اور قابلِ برداشت ہو۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "2023–24 کے دوران مریضوں کی ہنگامی امداد، ادویات اور آمدورفت پر 120,000 پاکستانی روپے خرچ کیے گئے۔",
+            "2024–25 کے دوران ایزی شفا میڈیسن، الٹراساؤنڈ کے آلات اور ضروری ادویات کی فراہمی پر 6.7 ملین پاکستانی روپے خرچ کیے گئے۔",
+            "طبی معاونت کا دائرہ بیماریوں سے بچاؤ کے اقدامات اور آگاہی مہمات تک وسیع کیا گیا۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "5 ملین پاکستانی روپے کے مجوزہ بجٹ سے طبی معاونت کا دائرہ وسیع کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 6.8M+",
+        "label": "طبی معاونت پر مجموعی اخراجات"
+      },
+      "previousSlug": "women-empowerment",
+      "nextSlug": "clean-water",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "clean-water",
+      "title": "صاف پانی پروگرام",
+      "summary": "صاف پانی زندگی بچاتا ہے — ہر گلاس صحت، امید اور زندگی کا پیغام ہے۔",
+      "image": "clean-water.jpg",
+      "icon": "Droplets",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "صاف پانی تک رسائی ایک بنیادی انسانی حق ہے۔ ہمارا صاف پانی پروگرام آبادیوں کو پینے کا محفوظ پانی فراہم کرنے کے لیے فلٹریشن پلانٹس نصب کرتا ہے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "1,000 گھرانوں کو سہولت فراہم کرنے والے واٹر فلٹریشن پلانٹس نصب کیے گئے۔",
+            "10 نئے واٹر فلٹریشن پلانٹس کے لیے سروے پہلے ہی مکمل کیے جا چکے ہیں۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "صاف پانی کی رسائی 5,000 گھرانوں اور پڑوسی دیہی آبادیوں تک بڑھانا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "1,000+",
+        "label": "مستفید گھرانے"
+      },
+      "previousSlug": "healthcare",
+      "nextSlug": "sports",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "sports",
+      "title": "کھیل اور کھیل کے میدان",
+      "summary": "کھیل نظم و ضبط، اتحاد اور اعتماد سکھاتے ہیں۔ ہم مستقبل کے فاتحین کی صلاحیتوں کو پروان چڑھاتے ہیں۔",
+      "image": "sports.jpg",
+      "icon": "Trophy",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم کھیلوں کی سہولتوں اور معاونت کے ذریعے نوجوانوں کی تربیت و ترقی کے لیے وسائل فراہم کرتے ہیں، تاکہ ان کی کردار سازی ہو اور معاشرتی یکجہتی فروغ پائے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "چک 16-جی ڈی اسپورٹس کمپلیکس تعمیر کیا گیا — تعمیر و ترقی پر 2.5 ملین پاکستانی روپے صرف کیے گئے۔",
+            "2023–24 میں کھیلوں کے سامان اور وردیوں پر 0.5 ملین پاکستانی روپے خرچ کیے گئے۔",
+            "2024–25 کے دوران والی بال، کرکٹ، فٹ بال اور بیڈمنٹن کے کھلاڑیوں کو 3 ملین پاکستانی روپے کی معاونت فراہم کی گئی۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "نوجوانوں میں کھیلوں کا فروغ جاری رکھنا اور کرکٹ و فٹ بال کے میدانوں میں فلڈ لائٹس نصب کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 6M+",
+        "label": "مجموعی طور پر صرف کردہ رقم"
+      },
+      "previousSlug": "clean-water",
+      "nextSlug": "tree-plantation",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "tree-plantation",
+      "title": "شجرکاری مہم",
+      "summary": "لگایا جانے والا ہر درخت مستقبل کے لیے امید کا پیغام ہے۔",
+      "image": "tree-plantation.jpg",
+      "icon": "TreePine",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہماری شجرکاری مہم موسمیاتی تبدیلی کا مقابلہ کرتے ہوئے آئندہ نسلوں کے لیے زیادہ سرسبز اور صحت مند ماحول پیدا کرتی ہے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "اسکولوں، قبرستانوں اور سڑکوں کے کنارے 1,000 مقامی درخت لگائے گئے۔",
+            "درخت پروان چڑھ کر سایہ دار راستوں اور سرسبز دیہات کا باعث بنے ہیں۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "1,000 سایہ دار اور ماحول دوست درخت لگانا؛ مرکزی سڑکوں اور راستوں کے اطراف شجرکاری کا دائرہ وسیع کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "1,000+",
+        "label": "لگائے گئے درخت"
+      },
+      "previousSlug": "sports",
+      "nextSlug": "funeral-support",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "funeral-support",
+      "title": "تجہیز و تکفین میں معاونت",
+      "summary": "ہر جان احترام کی مستحق ہے — ہم سوگوار خاندانوں کا بوجھ کم کرنے کے لیے ان کے ساتھ کھڑے ہیں۔",
+      "image": "funeral-support.jpg",
+      "icon": "HandHeart",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم خاندانوں کے مشکل ترین اوقات میں ہمدردانہ معاونت فراہم کرتے ہیں، تاکہ ضرورت مند افراد کی باوقار تجہیز و تکفین یقینی بنائی جا سکے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "20 مستحق افراد کی تجہیز و تکفین کے اخراجات میں معاونت کی گئی۔",
+            "2023–24 کے دوران 200,000 سے زائد پاکستانی روپے خرچ کیے گئے۔",
+            "2024–25 کے دوران 283,000 پاکستانی روپے خرچ کیے گئے۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "تجہیز و تکفین کی معاونت زیادہ بڑی اور سہولتوں سے محروم آبادیوں تک پہنچانا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 483,000+",
+        "label": "مجموعی اخراجات"
+      },
+      "previousSlug": "tree-plantation",
+      "nextSlug": "easy-marriage",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "easy-marriage",
+      "title": "آسان نکاح پروگرام",
+      "summary": "ہم نکاح کو باوقار اور آسان بنا کر سنت کے فروغ میں حصہ لیتے ہیں۔",
+      "image": "easy-marriage.jpg",
+      "icon": "HeartHandshake",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم مستحق خاندانوں کی شادی کے سلسلے میں معاونت کرتے ہیں تاکہ زندگی کا یہ اہم مرحلہ آسانی اور وقار کے ساتھ طے ہو سکے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "2023–24 کے دوران 0.6 ملین پاکستانی روپے کی لاگت سے 8 شادیوں میں معاونت کی گئی۔",
+            "2024–25 کے دوران 0.5 ملین پاکستانی روپے خرچ کیے گئے۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "یتیم بچیوں اور مکمل جانچ پڑتال کے بعد انتہائی مستحق قرار پانے والے خاندانوں کی بچیوں کے لیے 0.5 ملین پاکستانی روپے کی معاونت فراہم کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 1.1M+",
+        "label": "مجموعی اخراجات"
+      },
+      "previousSlug": "funeral-support",
+      "nextSlug": "infrastructure",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "infrastructure",
+      "title": "بنیادی ڈھانچے کی بحالی",
+      "summary": "مضبوط بنیادی ڈھانچہ، مضبوط معاشرے کی بنیاد ہے۔",
+      "image": "infrastructure.jpg",
+      "icon": "Construction",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم محفوظ اور صحت مند رہائشی ماحول کی تشکیل کے لیے سڑکوں، صفائی و نکاسی اور عوامی مقامات سمیت مقامی بنیادی ڈھانچے کو بہتر بناتے ہیں۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "گاؤں کی سڑکوں کی مرمت اور رابطہ سڑکوں کی بحالی کی گئی۔",
+            "پوری آبادی کے لیے صفائی و نکاسی کا نظام قائم کیا گیا۔",
+            "منظم قبروں، بچوں کے حصے اور 100 سے زائد سایہ دار درختوں پر مشتمل ماڈل قبرستان تیار کیا گیا۔",
+            "راستوں، نکاسیٔ آب اور شجرکاری سمیت عوامی مقامات میں بہتری لائی گئی۔",
+            "اب تک 500,000 پاکستانی روپے صرف کیے گئے۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "محفوظ اور صحت مند آبادیوں کے لیے دیہی بنیادی ڈھانچے کی بہتری جاری رکھنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 500,000",
+        "label": "صرف کردہ رقم"
+      },
+      "previousSlug": "easy-marriage",
+      "nextSlug": "food-assistance",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "food-assistance",
+      "title": "غذائی امداد پروگرام",
+      "summary": "ضرورت مند خاندانوں کو زندگی کے لیے ضروری بنیادی غذائی اشیا کی فوری فراہمی۔",
+      "image": "food-assistance.jpg",
+      "icon": "ShoppingBasket",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم ضرورت مند خاندانوں کو بنیادی غذائی اشیا فراہم کرتے ہیں تاکہ انہیں غذائیت سے بھرپور خوراک میسر ہو اور گھریلو اخراجات کا بوجھ کم ہو۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "ضرورت مند خاندانوں کو چاول، آٹا، تیل، چینی اور دالیں فراہم کی جاتی ہیں۔",
+            "متوازن بنیادی غذائی اجزا کی مسلسل فراہمی یقینی بنا کر غذائی قلت کا مقابلہ کیا جاتا ہے۔",
+            "گھریلو اخراجات میں کمی سے خاندان صحت اور تعلیم کے لیے رقوم مختص کر سکتے ہیں۔",
+            "تقسیم کردہ راشن بیگ، فی بیگ مالیت 10,000 پاکستانی روپے: 2023–24: 200 بیگ؛ 2024–25: 250 بیگ؛ 2025–26: 300 بیگ۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "ضرورت مند خاندانوں کی غذائی معاونت بڑھانے کے لیے 300 راشن بیگ تقسیم کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "750+",
+        "label": "تقسیم کردہ راشن بیگ"
+      },
+      "previousSlug": "infrastructure",
+      "nextSlug": "interest-free-loans",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "interest-free-loans",
+      "title": "بلاسود قرض پروگرام",
+      "summary": "ہم آسان اقساط پر بلاسود قرض فراہم کرکے خاندانوں کو باعزت روزگار کے قابل بناتے ہیں۔",
+      "image": "interest-free-loans.jpg",
+      "icon": "Wallet",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم خاندانوں کو سود کے بوجھ کے بغیر اپنے روزگار کی بحالی اور بہتری کے لیے بلاسود قرض فراہم کرتے ہیں۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "سیلاب اور بارشوں سے متاثرہ گھروں کی مرمت میں خاندانوں کی مدد کے لیے 3 ملین پاکستانی روپے صرف کیے گئے۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "5 ملین پاکستانی روپے کے بجٹ سے پروگرام کا دائرہ وسیع کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 3M+",
+        "label": "فراہم کردہ رقم"
+      },
+      "previousSlug": "food-assistance",
+      "nextSlug": "emergency-relief",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "emergency-relief",
+      "title": "ہنگامی امداد اور ریلیف",
+      "summary": "آفت کے وقت مدد کے لیے تیار۔",
+      "image": "emergency-relief.jpg",
+      "icon": "Siren",
+      "sections": [
+        {
+          "heading": "پروگرام کا تعارف",
+          "body": [
+            "ہم ہنگامی حالات اور قدرتی آفات کے دوران فوری کارروائی اور امداد فراہم کرتے ہیں تاکہ متاثرہ آبادیوں کو بروقت مدد مل سکے۔"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "نمایاں کامیابیاں",
+          "body": [],
+          "bullets": [
+            "ضلع اوکاڑہ کے متاثرہ علاقوں میں سیلابی نقصانات کا جائزہ اور آبادیوں کے سروے کیے گئے۔",
+            "حادثات اور سیلاب کے خطرات کم کرنے کے لیے مقامی آبادیوں کے تعاون سے موسمی برساتی نالوں کے پشتے مضبوط کیے گئے۔",
+            "دو سال کے دوران ہنگامی امداد، نالوں کی صفائی، نہری پشتوں کی مضبوطی اور مقامی آبادی کی فوری ضروریات پر 2.4 ملین سے زائد پاکستانی روپے خرچ کیے گئے۔"
+          ]
+        },
+        {
+          "heading": "2026–27 کا ہدف",
+          "body": [
+            "5 ملین پاکستانی روپے کے بجٹ سے ہنگامی امداد اور ریلیف کا دائرہ وسیع کرنا۔"
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 2.4M+",
+        "label": "اخراجات"
+      },
+      "previousSlug": "interest-free-loans",
+      "nextSlug": null,
+      "supportHref": "/donate"
+    }
+  ],
+  "team": {
+    "title": "ہماری ٹیم",
+    "subtitle": "خوشی ٹرسٹ — رابطہ کونسل",
+    "intro": "مقامی آبادی اور خوشی ٹرسٹ (قاری خوشی محمد الازہری ویلفیئر ٹرسٹ) کے فلاحی اقدامات کے درمیان رابطہ مضبوط بنانے کے لیے ایک مخصوص رابطہ کونسل قائم کی گئی ہے۔ یہ کونسل ٹرسٹ کی معاون ذیلی شاخ کے طور پر کام کرتی ہے اور سرگرمیوں کو منظم کرنے، کمیٹیوں کی نگرانی اور معاشرتی فلاح کے پروگراموں میں سہولت فراہم کرنے میں مدد دیتی ہے۔",
+    "leadershipTitle": "مشاورتی و مرکزی قیادت",
+    "leadership": [
+      {
+        "role": "قانونی مشیر",
+        "name": "رائے اعجاز الحق",
+        "note": "ایڈووکیٹ ہائی کورٹ"
+      },
+      {
+        "role": "چیئرمین — رابطہ کونسل",
+        "name": "محمد منشا رائے",
+        "note": ""
+      },
+      {
+        "role": "جنرل سیکرٹری — رابطہ کونسل",
+        "name": "محسن ایڈووکیٹ",
+        "note": ""
+      },
+      {
+        "role": "سیکرٹری مالیات و ذرائع ابلاغ — خوشی ٹرسٹ",
+        "name": "اظہر بشیر",
+        "note": ""
+      }
+    ],
+    "committeesTitle": "رابطہ کونسل کی کمیٹیاں",
+    "committees": [
+      {
+        "name": "کمیٹی برائے صحت",
+        "chair": "حافظ غلام مصطفیٰ",
+        "members": [
+          "اصغر جہانگیر",
+          "مظہر ذوالفقار"
+        ],
+        "description": "کمیٹی برائے صحت طبی معاونت کی فراہمی میں سہولت اور صحت سے متعلق فلاحی اقدامات میں رابطہ کاری کے لیے ٹرسٹ کی مدد کرتی ہے۔"
+      },
+      {
+        "name": "کمیٹی برائے کھیل",
+        "chair": "مظہر ذوالفقار",
+        "members": [
+          "تمام کھیلوں کی ٹیموں کے کپتان"
+        ],
+        "description": "یہ کمیٹی نوجوانوں میں صحت مند سرگرمیوں کو فروغ دیتی ہے اور مقامی سطح پر کھیلوں کے مقابلوں کے انعقاد اور کھیلوں کی سہولتوں کے انتظام میں معاونت کرتی ہے۔"
+      },
+      {
+        "name": "خوشی آسان نکاح پروگرام",
+        "chair": "ذوالفقار علی نمبردار",
+        "members": [
+          "ذوالفقار محمد علی",
+          "حافظ غلام مصطفیٰ",
+          "اظہر بشیر"
+        ],
+        "description": "آسان نکاح پروگرام سادہ اور باوقار شادیوں کی حوصلہ افزائی کرتا ہے اور ضرورت مند خاندانوں کو معاونت فراہم کرتا ہے۔"
+      },
+      {
+        "name": "کمیٹی برائے تعلیم",
+        "chair": "ماسٹر مشتاق",
+        "members": [
+          "تمام مقامی اسکولوں کے سربراہان"
+        ],
+        "description": "کمیٹی برائے تعلیم مقامی آبادی میں حصولِ علم کے مواقع اور تعلیمی معاونت کو فروغ دیتی ہے۔"
+      },
+      {
+        "name": "کمیٹی برائے نگہداشتِ قبرستان",
+        "chair": "مظہر ذوالفقار",
+        "members": [
+          "چوہدری عبدالجبار",
+          "حافظ علی مصطفیٰ",
+          "صفدر جہانگیر"
+        ],
+        "description": "یہ کمیٹی مقامی قبرستان کی دیکھ بھال، صفائی اور باوقار انتظام کی نگرانی کرتی ہے۔"
+      },
+      {
+        "name": "خوشی بلاسود قرض کمیٹی",
+        "chair": "قاری مظہر اقبال عابد",
+        "members": [
+          "ذوالفقار محمد علی",
+          "صفدر جہانگیر"
+        ],
+        "description": "یہ کمیٹی مالی ضرورت کا سامنا کرنے والے افراد کی معاونت اور انہیں خودکفیل بنانے کے لیے بلاسود قرض پروگرام کا انتظام کرتی ہے۔"
+      },
+      {
+        "name": "خوشی غذائی امداد پروگرام",
+        "chair": "ماسٹر لیاقت علی",
+        "members": [
+          "حافظ یعقوب",
+          "ماسٹر غلام محمد",
+          "جاوید حامد"
+        ],
+        "description": "خوشی غذائی امداد پروگرام کا مقصد مستحق خاندانوں کو غذائی معاونت فراہم کرنا اور معاشرتی فلاح کے اقدامات میں تعاون کرنا ہے۔"
+      }
+    ],
+    "closing": "رابطہ کونسل اور اس کی کمیٹیوں کے ذریعے خوشی ٹرسٹ منظم معاشرتی خدمت کا اپنا مشن جاری رکھے ہوئے ہے، تاکہ فلاحی سرگرمیاں شفافیت، ذمہ داری اور اجتماعی شرکت کے ساتھ انجام پائیں۔"
+  },
+  "articles": [
+    {
+      "slug": "qari-khushi-urdu",
+      "title": "قاری خوشی محمد الازہری کی حیات",
+      "subtitle": "ایک روحانی رہنما اور فلاحی تحریک کے بانی",
+      "excerpt": "قاری خوشی محمد الازہری کی سوانح عمری، قرآنِ کریم کے لیے ان کی خدمات اور خوشی ٹرسٹ کے آغاز کا احوال۔",
+      "image": "qari-khushi-2.png",
+      "inlineImages": [
+        {
+          "filename": "qari-khushi-2.png",
+          "afterHeading": "مٹی سے وابستگی: 16 جی ڈی مدوکا میں ابتدائی زندگی",
+          "alt": "قاری خوشی محمد الازہری"
+        }
+      ],
+      "date": null,
+      "originalLang": "ur",
+      "body": [
+        {
+          "type": "h2",
+          "text": "آسمانی آواز: قاری خوشی محمد الازہری (1943–1998) کی حیات اور علمی و ملی وراثت"
+        },
+        {
+          "type": "p",
+          "text": "پاکستان کی روحانی اور ثقافتی تاریخ کئی عظیم آوازوں سے مزین ہے، لیکن بہت کم آوازیں ایسی ہیں جنہیں قاری خوشی محمد الازہری جیسی پاکیزگی، رعب اور دوام حاصل ہوا۔ پی ٹی وی کے شہرہ آفاق پروگرام \"اقراء\" کے ذریعے وہ ہر گھر کا حصہ بن گئے۔ وہ صرف ایک قاری نہیں تھے، بلکہ پنجاب کے گمنام کھیتوں اور مصر کی عظیم درسگاہ \"جامعہ الازہر\" کے درمیان ایک علمی و روحانی پل تھے۔"
+        },
+        {
+          "type": "h2",
+          "text": "مٹی سے وابستگی: 16 جی ڈی مدوکا میں ابتدائی زندگی"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد صاحب 1943 میں اوکاڑہ کے گاؤں 16 جی ڈی (مدوکا) میں پیدا ہوئے۔ آپ کا تعلق کھرل راجپوت قبیلے کے ایک معزز گھرانے سے تھا۔ دنیا نے انہیں ان کے نظم و ضبط اور خداداد صلاحیتوں سے پہچانا، لیکن ان کا بچپن ایک زندہ دل دیہاتی لڑکے جیسا تھا۔"
+        },
+        {
+          "type": "p",
+          "text": "ان کے چھوٹے بھائی حاجی محمد علی کے مطابق، قاری صاحب بچپن ہی سے انتہائی ذہین تھے لیکن انہیں کھیلوں، بالخصوص والی بال سے بے حد لگاؤ تھا۔ ان کی اس سرگرمی پر کبھی کبھار ان کے والد ناراض بھی ہوتے تھے، کیونکہ وہ اپنے بیٹے کو خالصتاً علمی اور دینی راہ پر گامزن دیکھنا چاہتے تھے۔"
+        },
+        {
+          "type": "h2",
+          "text": "استاد کی پیش گوئی"
+        },
+        {
+          "type": "p",
+          "text": "آپ کی زندگی میں ایک بڑا موڑ اس وقت آیا جب آپ کے پہلے استاد سید جماعت علی شاہ صاحب (مدوکا) نے ایک اہم مداخلت کی۔ جب انہیں معلوم ہوا کہ قاری صاحب کے والد کھیل کود کی وجہ سے ان پر سختی کرتے ہیں، تو انہوں نے والد کو بلا کر ایک بصیرت افروز تنبیہ کی:"
+        },
+        {
+          "type": "quote",
+          "text": "\"ان پر دوبارہ کبھی ہاتھ نہ اٹھانا۔ تم نہیں جانتے کہ تم کسے مار رہے ہو یا کس سے ناراض ہو رہے ہو۔\""
+        },
+        {
+          "type": "p",
+          "text": "شاہ صاحب نے اس بچے کی پیشانی میں وہ \"نور\" دیکھ لیا تھا جس نے مستقبل میں قرآنِ کریم کی عالمی خدمت کرنی تھی۔ اس دن کے بعد سے ان کی منزل کا تعین ہو گیا۔"
+        },
+        {
+          "type": "h2",
+          "text": "حصولِ علم اور جامعہ الازہر کا سفر"
+        },
+        {
+          "type": "p",
+          "text": "آپ کے فنی سفر کا باقاعدہ آغاز کراچی کے مشہور ادارے جامعہ قاسمیہ سے ہوا۔ تاہم، علم کی پیاس انہیں عالمِ اسلام کی عظیم ترین درسگاہ جامعہ الازہر (مصر) لے گئی۔ وہاں سے واپسی پر آپ کے نام کے ساتھ \"الازہری\" کا لقب جڑ گیا، جو اس بات کی علامت تھا کہ آپ اس دور کے ان چند پاکستانیوں میں سے تھے جنہوں نے فنِ قرأت کے مصری اسلوب پر مکمل دسترس حاصل کی تھی۔"
+        },
+        {
+          "type": "h2",
+          "text": "ریاست کی آواز: تاریخی اعزازات"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد صاحب کی بے پناہ صلاحیتوں کو حکومتی سطح پر فوری طور پر تسلیم کیا گیا، جس کے نتیجے میں انہیں کئی \"پہلے\" اعزازات حاصل ہوئے:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "اقوامِ متحدہ: آپ کو یہ منفرد اعزاز حاصل ہے کہ آپ اقوامِ متحدہ کی کانفرنس میں تلاوت کرنے والے پہلے قاری تھے، جہاں آپ اس وقت کے صدر پاکستان جنرل ضیاء الحق کے ہمراہ موجود تھے۔",
+            "ایوانِ بالا (سینیٹ): صدر ایوب خان کے دور میں آپ کو سینیٹ آف پاکستان کا پہلا باقاعدہ قاری مقرر کیا گیا۔",
+            "ایوانِ صدر: آپ نے طویل عرصے تک ایوانِ صدر پاکستان میں امام اور قاری کے فرائض سرانجام دیے۔",
+            "قومی استاد: پی ٹی وی کے پروگرام \"اقراء\" کے ذریعے آپ نے پاکستانیوں کی ایک پوری نسل کو تجوید و قرأت کی تعلیم دی۔"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "عالمی اعزازات اور مناصب"
+        },
+        {
+          "type": "p",
+          "text": "قرآنِ کریم کی خدمت کے صلے میں انہیں ملکی و غیر ملکی سطح پر بے شمار اعزازات سے نوازا گیا:"
+        },
+        {
+          "type": "h2",
+          "text": "نمایاں ایوارڈز:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "تمغہ امتیاز (پاکستان)",
+            "نشانِ امتیاز (مصر)",
+            "گولڈ میڈلسٹ (مراکش)",
+            "گولڈ کراؤن (داتا دربار، لاہور کی جانب سے سونے کا تاج)",
+            "بہترین نشریاتی خدمات پر 5 مرتبہ پی ٹی وی ایوارڈز۔"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "عالمی مناصب:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "چیئرمین: عالمی حلقہ القرآن (سعودی عرب)۔",
+            "چیئرمین: پاکستان قرأت بورڈ (ریڈیو و ٹی وی)۔",
+            "منتخب چیئرمین: انٹرنیشنل اسلامک یونین آف قرآء و حفاظ۔",
+            "بانی و چیئرمین: انٹرنیشنل قرآن اکیڈمی، راولپنڈی۔",
+            "او آئی سی (OIC) سربراہی اجلاسوں میں پاکستان کی نمائندگی۔"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "خدمتِ خلق اور وراثت: خوشی ٹرسٹ"
+        },
+        {
+          "type": "p",
+          "text": "ان کی اصل وراثت صرف اعزازات تک محدود نہیں بلکہ ان کے قائم کردہ ادارے انٹرنیشنل قرأت اکیڈمی اور قرآنی تعلیمات ٹرسٹ (راولپنڈی) کی صورت میں آج بھی زندہ ہے۔ ان کے فرزندان، قاری نجم مصطفیٰ اور محمد محمود، ان کے مشن کو پوری تندہی سے آگے بڑھا رہے ہیں۔"
+        },
+        {
+          "type": "p",
+          "text": "انہی کے نام سے منسوب خوشی ٹرسٹ اس فلسفے پر عمل پیرا ہے کہ \"خدمتِ خلق عبادت ہے\"۔ یہ ٹرسٹ دکھی انسانیت کے لیے عملی طور پر کام کر رہا ہے تاکہ ان کی روحانی وراثت کو سماجی خدمت کے سانچے میں ڈھالا جا سکے۔"
+        },
+        {
+          "type": "h2",
+          "text": "حاصلِ کلام"
+        },
+        {
+          "type": "p",
+          "text": "عالمی شہرت اور \"الازہری\" جیسی بڑی نسبتوں کے باوجود، قاری صاحب ایک نہایت مخلص اور اپنی جڑوں سے جڑے ہوئے انسان تھے۔ اپنے بھائی حاجی محمد علی کی یادوں میں وہ آج بھی کھرل قبیلے کے وہی وفادار بیٹے ہیں جو اپنی مٹی (16 جی ڈی) کو کبھی نہیں بھولے۔"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد الازہری 1998 میں اس دارِ فانی سے کوچ کر گئے، لیکن ان کی سحر انگیز آواز آج بھی قرآن سے محبت کرنے والوں کے دلوں میں زندہ ہے۔ اوکاڑہ کے ایک چھوٹے سے گاؤں سے قاہرہ کے میناروں اور اقوامِ متحدہ کے ہالز تک کا یہ سفر اس بات کی دلیل ہے کہ جب فطری ذہانت کو خلوصِ نیت اور استاد کی دعائیں میسر آ جائیں، تو انسان بلندیوں کے افق کو چھو لیتا ہے۔"
+        },
+        {
+          "type": "p",
+          "text": "(تحقیق و پیشکش: راۓ محمد یاسین / یوٹیوب چینل: فانی رائے)"
+        }
+      ]
+    },
+    {
+      "slug": "qari-khushi-english",
+      "title": "قاری خوشی محمد الازہری رحمۃ اللہ علیہ — سوانح عمری",
+      "excerpt": "قاری خوشی محمد الازہری (1943–1998) کی حیات اور وراثت؛ 16 جی ڈی مدوکا سے جامعہ الازہر تک کا سفر، ان کی قومی و بین الاقوامی خدمات اور ان کے نام سے جاری انسانی فلاح کا کام۔",
+      "image": "qari-khushi-2.png",
+      "inlineImages": [
+        {
+          "filename": "qari-khushi-2.png",
+          "afterHeading": "مٹی سے وابستگی: 16 جی ڈی مدوکا میں ابتدائی برس",
+          "alt": "قاری خوشی محمد الازہری رحمۃ اللہ علیہ"
+        }
+      ],
+      "date": null,
+      "originalLang": "en",
+      "body": [
+        {
+          "type": "h2",
+          "text": "آسمانی آواز: قاری خوشی محمد الازہری (1943–1998) کی حیات اور وراثت"
+        },
+        {
+          "type": "p",
+          "text": "پاکستان کی روحانی تاریخ بہت سی عظیم آوازوں سے مزین ہے، مگر قاری خوشی محمد الازہری جیسی پاکیزگی، رعب اور دائمی تاثیر بہت کم آوازوں کو نصیب ہوئی۔ ملک بھر میں گھر گھر پہچانے جانے والے قاری صاحب محض فنِ قرأت کے ماہر نہیں تھے؛ وہ پنجاب کے سادہ کھیتوں اور قاہرہ کی تاریخی و باوقار درسگاہ جامعہ الازہر کے درمیان ایک ثقافتی اور روحانی پل بھی تھے۔"
+        },
+        {
+          "type": "h2",
+          "text": "مٹی سے وابستگی: 16 جی ڈی مدوکا میں ابتدائی برس"
+        },
+        {
+          "type": "p",
+          "text": "خوشی محمد 1943 میں اوکاڑہ کے گاؤں 16 جی ڈی (مدوکا) میں پیدا ہوئے اور معزز کھرل راجپوت قبیلے کے چشم و چراغ تھے۔ اگرچہ دنیا نے بعد میں انہیں پختہ نظم و ضبط اور خداداد صلاحیت کے باعث پہچانا، لیکن بچپن میں وہ ایک زندہ دل اور پُرجوش دیہاتی لڑکے تھے۔"
+        },
+        {
+          "type": "h2",
+          "text": "استاد کی پیش گوئی"
+        },
+        {
+          "type": "p",
+          "text": "ان کی زندگی کا ایک فیصلہ کن لمحہ 16 جی ڈی میں ان کے پہلے استاد سید جماعت علی شاہ صاحب کی نگرانی میں آیا۔ جب استاد کو معلوم ہوا کہ خوشی محمد کے والد نے کھیل کود کی وجہ سے ان کے ساتھ سختی کی ہے، تو انہوں نے والد کو بلایا اور گہری بصیرت پر مبنی تنبیہ کی:"
+        },
+        {
+          "type": "quote",
+          "text": "ان پر دوبارہ کبھی ہاتھ نہ اٹھانا۔ تم نہیں جانتے کہ تم کسے مار رہے ہو یا کس سے ناراض ہو رہے ہو۔"
+        },
+        {
+          "type": "p",
+          "text": "سید جماعت علی شاہ صاحب نے اس بچے میں ایک منفرد نور پہچان لیا تھا۔ انہیں اندازہ ہو گیا تھا کہ مستقبل میں یہ بچہ دنیا بھر میں قرآنِ کریم کی خدمت کرے گا، جبکہ باقی دنیا ابھی اس حقیقت سے بے خبر تھی۔ اس دن کے بعد ان کی عظمت کی راہ میں حوصلہ افزائی اور تقدیر کی موافقت شامل ہو گئی۔"
+        },
+        {
+          "type": "h2",
+          "text": "علمی کمال اور جامعہ الازہر کا سفر"
+        },
+        {
+          "type": "p",
+          "text": "فنِ قرأت میں ان کی باقاعدہ تعلیم کا آغاز کراچی کی جامعہ قاسمیہ سے ہوا۔ تاہم اس فن میں کمال حاصل کرنے کی جستجو انہیں مصر لے گئی، جہاں عالمِ اسلام کی نہایت باوقار درسگاہ جامعہ الازہر واقع ہے۔"
+        },
+        {
+          "type": "h2",
+          "text": "ریاست کی آواز: تاریخی اوّلیت کے اعزازات"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد کی غیر معمولی صلاحیت کو حکومتِ پاکستان کی اعلیٰ ترین سطحوں پر جلد تسلیم کر لیا گیا، جس کے نتیجے میں انہیں کئی تاریخی اعزازات حاصل ہوئے:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "اقوامِ متحدہ: انہیں اقوامِ متحدہ کی ایک کانفرنس میں قرآنِ کریم کی تلاوت کرنے والے پہلے قاری ہونے کا ممتاز اعزاز حاصل تھا، جہاں وہ اس وقت کے صدر جنرل ضیاء الحق کے ہمراہ شریک ہوئے۔",
+            "سینیٹ آف پاکستان: صدر ایوب خان کے دور میں انہیں سینیٹ کا پہلا باقاعدہ قاری مقرر کیا گیا۔",
+            "ایوانِ صدر: انہوں نے اسلام آباد میں ایوانِ صدر کے باقاعدہ امام اور قاری کی حیثیت سے خدمات انجام دیں۔",
+            "قومی استاد: پی ٹی وی کے معروف پروگرام \"اقراء\" کے ذریعے وہ پاکستانیوں کی ایک پوری نسل کے لیے تجوید، یعنی درست ادائیگی کے قواعد، کے بنیادی استاد بن گئے۔"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "بین الاقوامی اعزازات اور عالمی قیادت"
+        },
+        {
+          "type": "p",
+          "text": "قرآنِ کریم اور ریاست کے لیے ان کی خدمات کے اعتراف میں انہیں غیر معمولی اعزازات اور اہم ذمہ داریاں عطا کی گئیں:"
+        },
+        {
+          "type": "h2",
+          "text": "ممتاز اعزازات"
+        },
+        {
+          "type": "list",
+          "items": [
+            "تمغۂ امتیاز (پاکستان)",
+            "نشانِ امتیاز (مصر)",
+            "طلائی تمغہ (مراکش)",
+            "داتا دربار، لاہور میں پیش کیا جانے والا سونے کا تاج",
+            "نشریاتی خدمات میں اعلیٰ کارکردگی پر پانچ مرتبہ پی ٹی وی ایوارڈ"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "قائدانہ اور سرکاری مناصب"
+        },
+        {
+          "type": "list",
+          "items": [
+            "چیئرمین: عالمی حلقہ القرآن (سعودی عرب)۔",
+            "چیئرمین: پاکستان قرأت بورڈ (ریڈیو و ٹی وی)۔",
+            "منتخب چیئرمین: انٹرنیشنل اسلامک یونین آف قراء و حفاظ۔",
+            "بانی و چیئرمین: انٹرنیشنل قرآن اکیڈمی، راولپنڈی۔"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "خدمت کی وراثت: خوشی ٹرسٹ"
+        },
+        {
+          "type": "p",
+          "text": "ان کی حقیقی وراثت اعزازات اور القابات سے بڑھ کر ان اداروں میں موجود ہے جو وہ اپنے پیچھے چھوڑ گئے۔ آج ان کے فرزندان، قاری نجم مصطفیٰ اور محمد محمود، راولپنڈی میں انٹرنیشنل قرأت اکیڈمی اور قرآنی تعلیمات ٹرسٹ کے ذریعے ان کے مشن کو آگے بڑھا رہے ہیں۔"
+        },
+        {
+          "type": "p",
+          "text": "ان کے نام سے منسوب خوشی ٹرسٹ ایک گہرے روحانی فلسفے پر عمل پیرا ہے: \"خدمتِ خلق عبادت ہے۔\" ٹرسٹ دکھی انسانیت کی عملی امداد اور مشکلات کے ازالے کے لیے مسلسل کوشاں ہے، تاکہ ان کی روحانی وراثت کو عملی انسانی خدمت کی صورت دی جا سکے۔"
+        },
+        {
+          "type": "h2",
+          "text": "حاصلِ کلام"
+        },
+        {
+          "type": "p",
+          "text": "عالمی شہرت اور \"الازہری\" کے لقب کے باوجود، ان کے قریبی لوگ انہیں بے حد وفادار انسان کے طور پر یاد کرتے ہیں۔ وہ کھرل قبیلے کے قابلِ فخر فرزند رہے اور اپنی پرورش کرنے والے گاؤں 16 جی ڈی سے ان کا تعلق کبھی منقطع نہ ہوا۔"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد الازہری 1998 میں اس دنیا سے رخصت ہوئے، مگر ان کی آواز آج بھی لاکھوں دلوں میں زندہ ہے۔ اوکاڑہ کے چھوٹے کھیتوں سے قاہرہ کے بلند میناروں اور اقوامِ متحدہ کے ایوانوں تک ان کی زندگی اس بات کی گواہی ہے کہ فطری صلاحیت کو خلوصِ دل اور صاحبِ بصیرت استاد کی دعاؤں کی رہنمائی مل جائے تو کیا کچھ ممکن ہو سکتا ہے۔"
+        },
+        {
+          "type": "h2",
+          "text": "ماخذِ تحقیق"
+        },
+        {
+          "type": "p",
+          "text": "رائے محمد یاسین (یوٹیوب چینل: فانی رائے)"
+        }
+      ]
+    },
+    {
+      "slug": "the-kushi-trust-introduction",
+      "title": "خوشی ٹرسٹ — تعارف",
+      "excerpt": "پاکستان میں فلاحی اداروں کی اہمیت اور قاری خوشی محمد الازہری ویلفیئر ٹرسٹ کا تعارف۔",
+      "image": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+      "inlineImages": [
+        {
+          "filename": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+          "afterHeading": "شخصیت اور خدمات",
+          "alt": "خوشی ٹرسٹ کا تعارف"
+        }
+      ],
+      "date": null,
+      "originalLang": "ur",
+      "body": [
+        {
+          "type": "h2",
+          "text": "تعارف"
+        },
+        {
+          "type": "p",
+          "text": "پاکستان میں ایسی لاتعداد این جی اوز ہیں جو دکھی انسانیت کی خدمت اور ملک سے غربت کے خاتمے کیلئے اپنے اپنے دائرہ کار میں کام کر رہی ہیں۔ فلاحی ادارے معاشرے میں ریڑھ کی ہڈی بنتے ہیں۔ یہ فلاحی تنظیمیں معاشرے کا حسن ہوتی ہیں۔"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد الازہری ویلفیئر ٹرسٹ (خوشی ٹرسٹ) بھی ایک خوبصورت اضافہ ہے۔ جو بین الاقوامی شہرت یافتہ قاری قرآن تمغہ امتیاز، شیخ عرب و عجم \"جناب قاری خوشی محمد الازہری رحمہ اللہ\" کے نام پر قائم کیا گیا ہے۔"
+        },
+        {
+          "type": "h2",
+          "text": "شخصیت اور خدمات"
+        },
+        {
+          "type": "p",
+          "text": "بزرگ اور نیک صالح لوگوں کی لڑی میں ایک درخشندہ نام قاری خوشی محمد الازہری کا بھی ہے۔ یہ نام کسی تعارف کا محتاج نہیں ہے۔ وہ قرآن پاک کے سچے خادم ہونے کی وجہ سے راولپنڈی میں ایک ممتاز حیثیت رکھتے ہیں اور پنڈی کی وجہ شہرت کا باعث بھی ہیں۔"
+        },
+        {
+          "type": "p",
+          "text": "ان کی دلکش آواز آج بھی ملک کی ایک نسل کی یادوں میں ہمیشہ کیلئے نقش ہو چکی ہے۔ انہوں نے پی ٹی وی کے پروگرام \"اقرا\" میں حروف تہجی سے لے کر قرآن پاک کی مکمل تجوید بچوں کو سکھائی، اور ان کا قصیدہ بردہ آج تک لوگوں کی زبان پر عام ہے۔"
+        },
+        {
+          "type": "p",
+          "text": "محسن و مربی، مشفق و مہربان، استاذ مکرم، بین الاقوامی شہرت یافتہ قاری پاکستان، ترنم کی دنیا کے بے تاج بادشاہ، سابق خطیب ایوان صدر اسلام آباد، ریڈیو پاکستان اور پی ٹی وی کے نامور قاری، سابق صدر جنرل محمد ضیاء الحق اور لاکھوں عاشقان مصطفیٰ کے منظور نظر اور پسندیدہ ترین قاری، قرات کی دنیا کا ایک بہت بڑا نام، بیشمار ملکی و غیر ملکی ایوارڈز اور تمغہ جات کے حامل، صدارتی ایوارڈ یافتہ قاری تمغہ برائے حسن کارکردگی حکومت پاکستان، منفرد لب و لہجہ، مسحور کن لہجہ، پردرد پرسوز، سوز و گداز اور لحن داؤدی سے مزین خوبصورت دلنشین آواز، سفیر اسلام، سفیر پاکستان، ملت اسلامیہ کے بطل جلیل، دلکش، پرکشش، حسین و رعنا، مسحور کن، بارعب، پروقار اور اپنے وقت کی بااثر ترین اعلیٰ شخصیت، لاکھوں عشاقان رسول کے دلوں کی دھڑکن، محبوب المشائخ، تاج العلماء، سونے چاندی، زر و جواہرات اور ہیروں سے بڑھ کر بہت قیمتی ایک نادر اور انمول ہیرا، پروقار اور بے مثال شخصیت۔"
+        },
+        {
+          "type": "p",
+          "text": "فضیلت الشیخ، مقبول عرب و عجم، ملت اسلامیہ کے عظیم فرزند، مکرم و محترم، قاری اعظم پاکستان قاری خوشی محمد صاحب الازہری رحمۃ اللہ علیہ ایک نابغہ روزگار اور شہرہ آفاق شخصیت ہیں۔"
+        },
+        {
+          "type": "h2",
+          "text": "ابتدائی زندگی اور تعلیم"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد 24 فروری 1943 بمطابق 19 صفر المظفر 1362 ھ بروز بدھ کو اوکاڑہ کے ایک گاؤں چک نمبر 16 جی۔ڈی میں پیدا ہوئے۔ وہ جنگ جو قبیلے کھرل راجپوت سے تعلق رکھتے تھے۔"
+        },
+        {
+          "type": "p",
+          "text": "انہوں نے ابتدائی تعلیم اوکاڑہ سے حاصل کی، بعد ازاں کراچی کی جامعہ قاسمیہ میں تین سال کا تجوید اور قرآن کا کورس مکمل کیا۔ مگر قرآن سے ایسا قلبی اور روحانی رشتہ استوار ہوا کہ کبھی تسکین نہ ہوئی، اور جامعہ الازہر مصر سے علم کی پیاس بجھانے چلے گئے، جہاں سے انہوں نے گریجویشن مکمل کی۔"
+        },
+        {
+          "type": "p",
+          "text": "قاری خوشی محمد کا واحد تعارف قرآن پاک ہے، اور اس تعارف کے بعد کسی اور تعارف کی ضرورت نہیں رہتی۔"
+        },
+        {
+          "type": "h2",
+          "text": "روحانیت اور طرزِ زندگی"
+        },
+        {
+          "type": "p",
+          "text": "انہوں نے اپنی زندگی کا ہر لمحہ قرآن پاک کیلئے وقف کر دیا۔ دن رات صرف چھ گھنٹے آرام کرتے، کبھی پیٹ بھر کر کھانا نہ کھاتے اور دن میں صرف ایک مرتبہ کھاتے تھے۔"
+        },
+        {
+          "type": "p",
+          "text": "تمام درویشانہ صفات ان کی شخصیت میں موجود تھیں۔ انہیں ہمیشہ یہی فکر رہتی تھی کہ زندگی بہت مختصر ہے اور قرآن کی خدمت کا حق ادا نہیں ہو سکا۔ ان کی زندگی کا مقصد صرف اللہ کی خوشنودی اور اسوہ حسنہ ﷺ کی پیروی تھا۔"
+        },
+        {
+          "type": "h2",
+          "text": "وفات اور عالمی خدمات"
+        },
+        {
+          "type": "p",
+          "text": "قاری صاحب کو اللہ تعالیٰ نے مختصر زندگی عطا کی۔ 11 اگست 1998ء بمطابق 18 ربیع الثانی 1413 ھ بروز منگل کو صرف 56 سال کی عمر میں ان کا وصال ہو گیا۔"
+        },
+        {
+          "type": "p",
+          "text": "اس مختصر عرصے میں اللہ تعالیٰ نے انہیں بے شمار اعزازات سے نوازا۔ پاکستان کے علاوہ سعودی عرب، کویت، بحرین، قطر، متحدہ عرب امارات اور مراکش میں بھی ان کی آواز میں قرآن پاک کی تلاوت ریکارڈ کی گئی۔"
+        },
+        {
+          "type": "p",
+          "text": "انہیں مکہ مکرمہ اور مدینہ منورہ میں تلاوت کا شرف حاصل ہوا۔ انہوں نے سپین میں 32 گھنٹوں میں مکمل قرآن پاک کی تلاوت کر کے منفرد اعزاز حاصل کیا۔ سعودی ٹی وی اور ریڈیو پاکستان پر بھی ان کی قرات نشر کی گئی۔"
+        },
+        {
+          "type": "p",
+          "text": "ابوظہبی میں انہوں نے 85 گھنٹوں میں مکمل قرآن پاک کی تلاوت کی ریکارڈنگ کروائی۔ ان کی آواز کا یہ اثر تھا کہ 25 غیر مسلم ان کی تلاوت سن کر اسلام قبول کر گئے۔"
+        },
+        {
+          "type": "h2",
+          "text": "اعزازات اور ورثہ"
+        },
+        {
+          "type": "p",
+          "text": "بھٹو دور میں انہیں ایوان صدر کا امام مقرر کیا گیا، جبکہ جنرل ایوب خان کے دور میں ایوان بالا کے پہلے قاری کی حیثیت سے تعینات کیا گیا۔"
+        },
+        {
+          "type": "p",
+          "text": "1980 میں انہیں تمغہ امتیاز سے نوازا گیا۔ ان کے دو بیٹوں قاری نجم مصطفیٰ (2007) اور محمد محمود (2015) کو بھی تمغہ امتیاز سے نوازا گیا۔"
+        },
+        {
+          "type": "p",
+          "text": "یہ پاکستان کا واحد خاندان ہے جس میں تین تمغہ امتیاز موجود ہیں، جو اس خاندان کی پاکستان سے محبت اور اپنی اپنی خدمات میں اعلیٰ کارکردگی کا منہ بولتا ثبوت ہے۔"
+        }
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "where": "site.founderName; articles.qari-khushi-urdu.subtitle",
+      "issue": "The requested founder field refers to the person in whose memory the Trust was established. The source does not identify the Trust's legal founder. The Urdu article's subtitle calls him a founder of a welfare movement, but the institutional pages describe the Trust as established in his memory. Preserve this distinction."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 158+ Students Supported. This differs from 250 students supported in 2023–24 on the education page and 250+ Total Students on the impact page; no reporting period is supplied for the home number. Removed from the home counters and replaced with a neutral educational-support highlight."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 126+ Women Trained. The women-empowerment page separately reports 150 already trained women working from home and 50+ women trained in 2024–25. The periods and overlap are not explained. Removed from the home counters and replaced with a neutral skills-development highlight; the detailed program figures are retained without adding them together."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 475+ Ration Bags Distributed. The food-assistance and impact pages report 750+ and list 200, 250, and 300 bags for 2023–24, 2024–25, and 2025–26. Removed from the home counters and replaced with neutral food-assistance copy."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 633+ Trees Planted. The tree-plantation and impact pages report 1,000+ trees planted, while the detailed achievement states 1,000 native trees. Removed from the home counters and replaced with neutral tree-plantation copy. Confirm reporting periods and whether the total is exact or a lower bound."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 4+ Healthcare Funds Spent. The number has no currency, scale, or reporting period and conflicts with the PKR 6.8M+ total on the healthcare and impact pages. Removed and replaced with neutral medical-assistance copy."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 633+ Families with Clean Water. The clean-water and impact pages report 1,000+ households served; the detailed achievement says 1,000 household beneficiaries. Removed from the home counters and replaced with neutral water-filtration copy. Confirm the reporting period and household/family terminology."
+    },
+    {
+      "where": "home.cta.badges",
+      "issue": "The source displays '100% Transparent' and 'Direct Impact' without explaining a measurement or an administrative-cost policy. Replaced with the source commitments 'Transparency in fund utilization' and 'Community-driven solutions'; do not interpret the original badge as a zero-overhead claim."
+    },
+    {
+      "where": "home.secondaryCta",
+      "issue": "The source says 'Join Thousands' without documenting a supporter or volunteer count. Replaced with the existing site phrase 'Join Our Mission'."
+    },
+    {
+      "where": "home.intro.link",
+      "issue": "The source 'Learn More' link beneath the organizational introduction points to /donate. It now points to /about to match the surrounding content."
+    },
+    {
+      "where": "articles.qari-khushi-english.excerpt; home.articles; pages.articlesIndex",
+      "issue": "Removed the mismatched demo excerpt: 'A brief look at how volunteers and local partners come together to support families in need. (Demo text — replace with your story.)' Replaced with a biography excerpt drawn from the actual article."
+    },
+    {
+      "where": "assets.imageMap; pages.*.heroImage; programs",
+      "issue": "The same Unsplash photo-1532629345422-7515f3d16bb6 is repeated as the hero on About, Contact, Donate, Impact, Programs, all 12 program-detail pages, all three article pages, Qari Khushi, Team, and Volunteer. It is mapped once in the asset inventory. Rebuilt text-led pages omit the repetitive hero; biographies use the supplied portrait, the introduction uses its supplied article image, and programs use their relevant local images."
+    },
+    {
+      "where": "assets.imageMap; home; pages.articlesIndex",
+      "issue": "All five supplied Unsplash files are stock images. Their original references are mapped to downloaded filenames, but they must not be represented as evidence of specific Trust projects or beneficiaries."
+    },
+    {
+      "where": "programs.education-support.image; assets.imageMap",
+      "issue": "The source Education Support page references '/images/programs/women-empowerment.jpg  g', which is malformed and has no matching downloaded file. Used the available girls-school.jpeg as a fallback. Do not invent a women-empowerment.jpg download."
+    },
+    {
+      "where": "programs.women-empowerment.image",
+      "issue": "The Women Empowerment page references /images/programs/education-support.jpg, which maps to education-support.jpg. Retained that actual source mapping rather than guessing that filenames should be swapped. Review the image visually before publication."
+    },
+    {
+      "where": "home.visionMissionImage; pages.about; articles.*.image; articles.*.inlineImages",
+      "issue": "The source intentionally reuses girls-school.jpeg for vision/mission and qari-khushi-2.png for the same biographical subject, including article cards and inline portraits. Use one canonical downloaded asset for each, not duplicate files. Avoid rendering an identical hero and inline portrait twice in the same article layout."
+    },
+    {
+      "where": "pages.about.sections.where-we-serve; pages.contact.sections.find-us",
+      "issue": "The map link is https://www.google.com/maps/undefined. Scraped map tiles include placeholder-like data and an exposed API key, and 'BESbswy' is a rendering artifact. Omitted tile requests and the artifact. Publish the real textual address until a verified map destination is supplied."
+    },
+    {
+      "where": "pages.donate; donate.suggestedAmounts",
+      "issue": "The original amount selector offers PKR 1,000, PKR 5,000, PKR 10,000, and a custom PKR field, followed by 'Note: This is a UI preview. Please use bank transfer details below to complete your donation.' Preserve the amounts only as suggestions, not a functioning checkout. Bank transfer is the only completion method supplied."
+    },
+    {
+      "where": "pages.contact.form; pages.volunteer.form",
+      "issue": "The scrape supplies form fields and submit labels but no submission endpoints or confirmed delivery behavior. No successful-submission promises or invented processing details have been added."
+    },
+    {
+      "where": "programs.tree-plantation.sections.Key Achievements",
+      "issue": "The source gives both 'Over 50% matured, creating shaded walkways and greener villages' and '50% plant survival rate in a harsh and challenging environment.' Maturity and survival are different measures, and the denominators and assessment dates are absent. Retained the exact disputed statements here and replaced the public percentage claims with the neutral source-supported statement that trees have matured to create shaded walkways and greener villages."
+    },
+    {
+      "where": "programs.healthcare.sections.Key Achievements",
+      "issue": "'Easy Shifa Medicine' is capitalized as a possible proper name in the source, but its meaning is unclear. Retained it exactly rather than guessing whether it names a facility, service, or product."
+    },
+    {
+      "where": "pages.impact.sections.fund-utilization",
+      "issue": "The original 'Program-wise Fund Utilization' section mixes spending totals, income potential, and beneficiary/output counts. All entries are retained, but PKR 30,000/month income potential, households served, trees planted, and ration bags distributed are not fund-utilization amounts. Do not sum these entries."
+    },
+    {
+      "where": "programs; pages.impact",
+      "issue": "Totals marked '+' sometimes match exact amounts in the detailed achievements: sports components total PKR 6 million; marriage components total PKR 1.1 million; loans detail PKR 3 million; ration rows total 750 bags. Source display totals and detailed entries are both retained without inventing additional spending or output."
+    },
+    {
+      "where": "pages.impact; programs",
+      "issue": "The 2026–27 figures are targets, not completed results. Financial and beneficiary figures have been carried over from the source and are not independently audited or verified by this content pack."
+    },
+    {
+      "where": "site.contact.people; team.leadership",
+      "issue": "The contact page names 'Mansha Rai'; the team page names 'Muhammad Mansha Rai'. Azhar Bashir is 'Secretary Finance' on Contact and 'Finance & Media Secretary – Khushi Trust' on Team. Both source forms are preserved exactly; confirm preferred public naming and role labels."
+    },
+    {
+      "where": "articles.*.date",
+      "issue": "No publication dates are supplied for any article. Dates are null; neither image filenames nor biographical dates have been used as publication dates."
+    },
+    {
+      "where": "pages.qariKhushi",
+      "issue": "The Qari Khushi page repeats the full Urdu biography article body. It is explicitly linked to the complete translated article body and original sourceText to prevent inconsistent duplicate editing. Its page title is retained separately, and the article-only subtitle is not rendered."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.slug",
+      "issue": "The original URL spells the path 'the-kushi-trust-introduction'. Retained this slug for URL continuity while correcting the visible title to 'The Khushi Trust — Introduction'."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Death and International Services",
+      "issue": "The source states: '11 August 1998, corresponding to 18 Rabi al-Thani 1413 AH, Tuesday, at only 56 years of age.' The stated age conflicts with the article's birth date of 24 February 1943, and the Gregorian/Hijri death-date pairing requires correction. The public translation retains the Gregorian date and weekday but omits the disputed Hijri date and age. All original details remain verbatim in sourceText; no replacement age or Hijri date has been invented."
+    },
+    {
+      "where": "pages.about.sections.inspiration; articles.the-kushi-trust-introduction.body.Honors and Legacy",
+      "issue": "The About page identifies Presidential Pride of Performance (1980) separately from Tamgha-e-Imtiaz. The introduction article instead says he received Tamgha-e-Imtiaz in 1980. Its original statement is preserved in sourceText; the translated closing paragraph uses 'a national civil honor in 1980' pending documentary confirmation."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Honors and Legacy",
+      "issue": "The source claims this is Pakistan's only family with three Tamgha-e-Imtiaz awards, naming Qari Khushi Muhammad and his sons Qari Najam Mustafa (2007) and Muhammad Mahmood (2015). The uniqueness claim is unsupported and the father's award identification conflicts with About. Replaced the exclusivity statement with neutral copy about the three honors and service, while preserving the full original claim in sourceText."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Death and International Services",
+      "issue": "The source claims a complete recitation in Spain in 32 hours, an Abu Dhabi recording in 85 hours, and 25 non-Muslims embracing Islam after hearing his recitation. These figures are preserved, with the conversion statement attributed to the account. Obtain supporting biographical references before presenting them as independently verified facts."
+    },
+    {
+      "where": "articles.qari-khushi-english; articles.qari-khushi-urdu; pages.qariKhushi; articles.the-kushi-trust-introduction",
+      "issue": "Historical firsts and appointments, including a first Senate Qari appointment during President Ayub Khan's era, the UN conference first, and President House roles, are source claims requiring documentary verification. They have not been silently reconciled or expanded with invented dates."
+    },
+    {
+      "where": "articles.qari-khushi-english; articles.qari-khushi-urdu; articles.the-kushi-trust-introduction",
+      "issue": "The source alternates between 'International Quran Academy' and 'International Qira'at Academy'. Both names are retained in their original contexts rather than assumed to be the same legal institution."
+    },
+    {
+      "where": "articles.qari-khushi-urdu.sourceText; articles.the-kushi-trust-introduction.sourceText",
+      "issue": "Original Urdu prose, headings, paragraph-internal line breaks, and escaped source list markers are preserved in sourceText. Image markup is represented separately through mapped inlineImages rather than treated as an Urdu prose paragraph."
+    }
+  ]
+}

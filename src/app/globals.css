@@ -1,26 +1,92 @@
 @import "tailwindcss";
 
+/* Palette from the place, not the cliché: kashi-tile indigo of Punjab's Mughal mosques,
+   Okara village brick, limewash and plaster. No green-and-gold. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --kashi-950: #121a2b;
+  --kashi-900: #1a2540;
+  --kashi-800: #22325a;
+  --kashi-700: #2e4677;
+  --kashi-500: #4a6aa6;
+  --ivory: #f6f3ee;
+  --plaster: #ece6dc;
+  --mortar: #dcd2c3;
+  --brick: #a8462b;
+  --brick-deep: #8a3620;
+  --clay: #e0a084;
+  --ink: #1b1f27;
+  --muted: #5d6170;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-kashi-950: var(--kashi-950);
+  --color-kashi-900: var(--kashi-900);
+  --color-kashi-800: var(--kashi-800);
+  --color-kashi-700: var(--kashi-700);
+  --color-kashi-500: var(--kashi-500);
+  --color-ivory: var(--ivory);
+  --color-plaster: var(--plaster);
+  --color-mortar: var(--mortar);
+  --color-brick: var(--brick);
+  --color-clay: var(--clay);
+  --color-brick-deep: var(--brick-deep);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --font-display: var(--font-cormorant), Georgia, serif;
+  --font-sans: var(--font-source), system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--ivory);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
 }
-
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+::selection { background: var(--clay); color: var(--kashi-950); }
+
+.font-display { font-family: var(--font-display); font-weight: 600; letter-spacing: -0.01em; font-variant-numeric: lining-nums; }
+
+/* ---------- Arabic: Naskh body, Amiri display ---------- */
+html[lang="ar"] body { font-family: var(--font-naskh), "Noto Naskh Arabic", serif; line-height: 1.95; }
+html[lang="ar"] .font-display { font-family: var(--font-amiri), "Amiri", serif; font-weight: 700; letter-spacing: 0; line-height: 1.5; }
+
+/* ---------- Urdu: Nastaliq everywhere, generous leading, no tracking ---------- */
+html[lang="ur"] body {
+  font-family: var(--font-nastaliq), "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", "Mehr Nastaliq", serif;
+  font-size: 1.05rem;
+  line-height: 2.1;
+}
+html[lang="ur"] .font-display {
+  font-family: var(--font-nastaliq), "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.85;
+}
+html[lang="ur"] *, html[lang="ar"] * { letter-spacing: 0 !important; }
+html[lang="ur"] .tracking-label, html[lang="ar"] .tracking-label { text-transform: none; font-size: 1.05rem; }
+/* Tailwind text-* utilities set their own line-height; Nastaliq needs more room so dots and descenders never collide */
+html[lang="ur"] p, html[lang="ur"] li, html[lang="ur"] td, html[lang="ur"] blockquote, html[lang="ur"] label { line-height: 2.35 !important; }
+html[lang="ur"] h1, html[lang="ur"] h2, html[lang="ur"] h3 { line-height: 1.9 !important; }
+html[lang="ar"] p, html[lang="ar"] li, html[lang="ar"] td { line-height: 2 !important; }
+.star-bullet { margin-top: 0.62em; }
+html[lang="ur"] .star-bullet { margin-top: 1.05em; }
+h1, h2, h3 { text-wrap: balance; }
+p { text-wrap: pretty; }
+/* Latin runs inside Urdu/Arabic (numbers, emails) sit optically smaller */
+html[lang="ur"] bdi, html[lang="ar"] bdi { font-family: var(--font-source), sans-serif; font-size: 0.9em; }
+
+/* Flip directional icons in RTL */
+[dir="rtl"] .flip-rtl { transform: scaleX(-1); }
+
+.tracking-label { font-size: 1.05rem; font-weight: 600; }
+
+/* Mihrab arch mask used to frame photographs (defined once in <ArchDefs/>) */
+.arch { clip-path: url(#arch-clip); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }

@@ -1,0 +1,2204 @@
+{
+  "site": {
+    "name": "The Khushi Trust",
+    "shortName": "Khushi Trust",
+    "legalName": "Qari Khushi Muhammad Al-Azhari Welfare Trust",
+    "tagline": "Compassion in Action",
+    "description": "A registered humanitarian organization serving the most vulnerable — inspired by the legacy of Qari Khushi Muhammad Al-Azhari (RA).",
+    "founderName": "Qari Khushi Muhammad Al-Azhari",
+    "founderHonorific": "(RA)",
+    "founderDisplayName": "Qari Khushi Muhammad Al-Azhari (RA)",
+    "founderRelationship": "The Trust was established in his memory; the supplied website does not identify the person who legally founded the Trust.",
+    "logo": "logo.png",
+    "registration": [
+      {
+        "act": "Trust Act 2020",
+        "number": "044/46/TRUST/DLR"
+      },
+      {
+        "act": "Charity Act 2018",
+        "number": "PB-6590311132347324"
+      }
+    ],
+    "registrationAuthority": "Government of Punjab",
+    "legalStatement": "Legally authorized to receive donations and funds.",
+    "contact": {
+      "address": "Chak 16 GD, Okara, Punjab, Pakistan",
+      "email": "thekhushitrust@gmail.com",
+      "phone": "+92 306 5352149",
+      "whatsapp": "+92 306 5352149",
+      "whatsappUrl": "https://wa.me/923065352149",
+      "whatsappCtaUrl": "https://wa.me/923065352149?text=Hello!%20I%27m%20interested%20in%20learning%20more%20about%20The%20Khushi%20Trust%20and%20how%20I%20can%20help.",
+      "whatsappMessage": "Hello! I'm interested in learning more about The Khushi Trust and how I can help.",
+      "people": [
+        {
+          "name": "Mansha Rai",
+          "role": "Chairman, Khushi Rabta Council",
+          "phone": "+92 300 7952838"
+        },
+        {
+          "name": "Azhar Bashir",
+          "role": "Secretary Finance",
+          "phone": "+92 306 5352149"
+        }
+      ],
+      "mapUrl": null
+    },
+    "social": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/share/1CgoNVLLaG/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/khushitrust16?igsh=YTI3Nm4xbjg3cDN5"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/923065352149"
+      }
+    ],
+    "footer": {
+      "copyrightYear": 2026,
+      "copyright": "© 2026 The Khushi Trust. All rights reserved.",
+      "registrationText": "Registered under Trust Act 2020 — Reg No: 044/46/TRUST/DLR | Charity Act 2018 — Reg No: PB-6590311132347324",
+      "quickLinkKeys": [
+        "home",
+        "about",
+        "qariKhushi",
+        "programs",
+        "team",
+        "impact",
+        "donate",
+        "contact"
+      ],
+      "featuredProgramSlugs": [
+        "education-support",
+        "women-empowerment",
+        "healthcare",
+        "clean-water",
+        "sports",
+        "tree-plantation"
+      ]
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "impact": "Impact",
+    "team": "Team",
+    "articles": "Articles",
+    "contact": "Contact",
+    "donate": "Donate",
+    "volunteer": "Volunteer",
+    "qariKhushi": "Qari Khushi Sahib",
+    "menu": "Menu",
+    "language": "Language",
+    "english": "English",
+    "urdu": "Urdu"
+  },
+  "ui": {
+    "donateNow": "Donate Now",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "seeAllPrograms": "See All Programs",
+    "backToPrograms": "Back to Programs",
+    "allPrograms": "All Programs",
+    "quickLinks": "Quick Links",
+    "ourPrograms": "Our Programs",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved.",
+    "whatsappCta": "Contact us on WhatsApp",
+    "send": "Send Message",
+    "name": "Name",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "subject": "Subject",
+    "city": "City",
+    "areaOfInterest": "Area of Interest",
+    "selectArea": "Select an area",
+    "submitApplication": "Submit Application",
+    "required": "Required",
+    "location": "Location",
+    "registration": "Registration",
+    "findUs": "Find Us",
+    "ourTeam": "Our Team",
+    "contactInformation": "Contact Information",
+    "sendUsMessage": "Send Us a Message",
+    "programOverview": "Program Overview",
+    "keyAchievement": "Key Achievement",
+    "keyAchievements": "Key Achievements",
+    "target2026": "2026–27 Target",
+    "targets2026": "2026–27 Targets",
+    "supportProgram": "Support This Program",
+    "sponsorCause": "Sponsor a Cause",
+    "sponsorThis": "Sponsor This",
+    "bankTransferDetails": "Bank Transfer Details",
+    "accountTitle": "Account Title",
+    "accountNumber": "Account Number",
+    "iban": "IBAN",
+    "branchCode": "Branch Code",
+    "bank": "Bank",
+    "donationAmount": "Donation Amount",
+    "customAmount": "Custom Amount",
+    "currency": "PKR",
+    "chairman": "Chairman",
+    "members": "Members",
+    "latestArticles": "Latest Articles",
+    "year": "Year",
+    "rationBags": "Ration Bags",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu",
+    "backToArticles": "Back to Articles",
+    "volunteer": "Volunteer",
+    "viewImpact": "View Impact"
+  },
+  "assets": {
+    "imageMap": [
+      {
+        "source": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+        "filename": "unsplash_photo-1488521787991-ed7bbaae773c.jpg",
+        "alt": "Community service and humanitarian work",
+        "usage": "Home hero; illustrative stock photography"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=1920&q=80",
+        "filename": "unsplash_photo-1509099836639-18ba1795216d.jpg",
+        "alt": "Community impact and support",
+        "usage": "Home support call to action; illustrative stock photography"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&q=80",
+        "filename": "unsplash_photo-1511632765486-a01980e01a18.jpg",
+        "alt": "Community impact",
+        "usage": "Home secondary call to action; illustrative stock photography"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1600&q=80",
+        "filename": "unsplash_photo-1515378791036-0648a3ef77b2.jpg",
+        "alt": "Blog",
+        "usage": "Articles index; illustrative stock photography"
+      },
+      {
+        "source": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80",
+        "filename": "unsplash_photo-1532629345422-7515f3d16bb6.jpg",
+        "alt": "Illustrative humanitarian image",
+        "usage": "Repeated generic hero in the source; retained in the asset inventory, not repeated across rebuilt page heroes"
+      },
+      {
+        "source": "/images/logo.png",
+        "filename": "logo.png",
+        "alt": "The Khushi Trust"
+      },
+      {
+        "source": "/images/qari-khushi-2.png",
+        "filename": "qari-khushi-2.png",
+        "alt": "Qari Khushi Muhammad Al-Azhari (RA)"
+      },
+      {
+        "source": "/images/girls-school.jpeg",
+        "filename": "girls-school.jpeg",
+        "alt": "Vision and mission — community service and uplifting humanity"
+      },
+      {
+        "source": "/images/WhatsApp Image 2026-03-15 at 9.36.22 PM.jpeg",
+        "filename": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+        "alt": "The Khushi Trust Introduction"
+      },
+      {
+        "source": "/images/programs/clean-water.jpg",
+        "filename": "clean-water.jpg",
+        "alt": "Clean Water Program"
+      },
+      {
+        "source": "/images/programs/easy-marriage.jpg",
+        "filename": "easy-marriage.jpg",
+        "alt": "Easy Marriage Program"
+      },
+      {
+        "source": "/images/programs/education-support.jpg",
+        "filename": "education-support.jpg",
+        "alt": "Women Empowerment",
+        "usage": "Used on the Women Empowerment page in the source; subject and filename require review"
+      },
+      {
+        "source": "/images/programs/women-empowerment.jpg  g",
+        "filename": null,
+        "replacementFilename": "girls-school.jpeg",
+        "usage": "Malformed image reference on the Education Support page; no women-empowerment.jpg file was supplied"
+      },
+      {
+        "source": "/images/programs/emergency-relief.jpg",
+        "filename": "emergency-relief.jpg",
+        "alt": "Emergency & Relief Assistance"
+      },
+      {
+        "source": "/images/programs/food-assistance.jpg",
+        "filename": "food-assistance.jpg",
+        "alt": "Food Assistance Program"
+      },
+      {
+        "source": "/images/programs/funeral-support.jpg",
+        "filename": "funeral-support.jpg",
+        "alt": "Funeral Support"
+      },
+      {
+        "source": "/images/programs/healthcare.jpg",
+        "filename": "healthcare.jpg",
+        "alt": "Healthcare Assistance"
+      },
+      {
+        "source": "/images/programs/infrastructure.jpg",
+        "filename": "infrastructure.jpg",
+        "alt": "Infrastructure Rehabilitation"
+      },
+      {
+        "source": "/images/programs/interest-free-loans.jpg",
+        "filename": "interest-free-loans.jpg",
+        "alt": "Interest-Free Loan Program"
+      },
+      {
+        "source": "/images/programs/sports.jpg",
+        "filename": "sports.jpg",
+        "alt": "Sports and Playgrounds"
+      },
+      {
+        "source": "/images/programs/tree-plantation.jpg",
+        "filename": "tree-plantation.jpg",
+        "alt": "Tree Plantation Drive"
+      }
+    ],
+    "stockPhotographyNotice": "Stock photographs are illustrative and should not be presented as documentary photographs of the Trust's beneficiaries or projects.",
+    "sharedContent": {
+      "programCards": "Use programs[].title, summary and slug for the identical program listings on the home and programs pages.",
+      "articleCards": "Use articles[].title, excerpt, image and slug for the article listings on the home and articles pages.",
+      "qariKhushiPage": "Use the complete translated body of the qari-khushi-urdu article for pages.qariKhushi. The source page repeats that biography without the article's introductory subtitle."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Changing Lives, One Act of Service at a Time",
+      "title": "Compassion in Action",
+      "subtitle": "A registered humanitarian organization serving the most vulnerable, inspired by the legacy of Qari Khushi Muhammad Al-Azhari (RA).",
+      "image": "unsplash_photo-1488521787991-ed7bbaae773c.jpg",
+      "primaryCta": {
+        "label": "Donate Now",
+        "href": "/donate"
+      },
+      "secondaryCta": {
+        "label": "Our Programs",
+        "href": "/programs"
+      }
+    },
+    "stats": [],
+    "serviceHighlights": [
+      {
+        "label": "Students Supported",
+        "text": "Uniforms, books, and stationery for deserving students.",
+        "programSlug": "education-support"
+      },
+      {
+        "label": "Women Trained",
+        "text": "Skills development in sewing, embroidery, and handcrafts.",
+        "programSlug": "women-empowerment"
+      },
+      {
+        "label": "Food Assistance",
+        "text": "Ration bags for vulnerable families.",
+        "programSlug": "food-assistance"
+      },
+      {
+        "label": "Tree Plantation",
+        "text": "Native trees across schools, graveyards, and roadsides.",
+        "programSlug": "tree-plantation"
+      },
+      {
+        "label": "Healthcare Assistance",
+        "text": "Medical assistance and essential medicines.",
+        "programSlug": "healthcare"
+      },
+      {
+        "label": "Clean Water",
+        "text": "Water filtration plants for communities.",
+        "programSlug": "clean-water"
+      }
+    ],
+    "intro": {
+      "title": "The Khushi Trust",
+      "body": [
+        "Established in memory of Qari Khushi Muhammad Al-Azhari (RA), Khushi Trust is a registered humanitarian organization. Our mission is to serve the most vulnerable, inspired by the humility, love, and empathy that defined his life.",
+        "Driven by a dedicated team of volunteers full of empathy, passion, and commitment, Khushi Trust has, within a short span, achieved significant milestones. Still in its early stages, the Trust holds high goals and an unwavering commitment to doing much more in the future."
+      ],
+      "image": "logo.png",
+      "link": {
+        "label": "Learn More",
+        "href": "/about"
+      }
+    },
+    "pillars": {
+      "title": "12 Pillars of Service",
+      "subtitle": "At Khushi Trust, we believe in building lives from the ground up. Our service is built on 12 pillars, each addressing a vital need.",
+      "programSlugs": [
+        "education-support",
+        "women-empowerment",
+        "healthcare",
+        "clean-water",
+        "sports",
+        "tree-plantation",
+        "funeral-support",
+        "easy-marriage",
+        "infrastructure",
+        "food-assistance",
+        "interest-free-loans",
+        "emergency-relief"
+      ]
+    },
+    "visionMissionImage": "girls-school.jpeg",
+    "vision": {
+      "title": "Our Vision",
+      "body": "A society where dignity, opportunity, and compassion are accessible to all."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "body": "To honor the legacy of Qari Khushi Muhammad Al-Azhari (RA) by uplifting humanity through practical acts of kindness, compassion, and community service."
+    },
+    "cta": {
+      "eyebrow": "Join Our Mission",
+      "title": "Your Support Changes Lives",
+      "body": "Every contribution creates a ripple effect of positive change. Together, we can transform communities and uplift lives.",
+      "badges": [
+        "Transparency in fund utilization",
+        "Community-driven solutions"
+      ],
+      "image": "unsplash_photo-1509099836639-18ba1795216d.jpg",
+      "links": [
+        {
+          "label": "Donate Now",
+          "href": "/donate"
+        },
+        {
+          "label": "Volunteer",
+          "href": "/volunteer"
+        }
+      ]
+    },
+    "secondaryCta": {
+      "eyebrow": "Join Our Mission",
+      "title": "Making a Difference",
+      "body": "Your support helps us reach more communities and create lasting positive change.",
+      "image": "unsplash_photo-1511632765486-a01980e01a18.jpg"
+    },
+    "articles": {
+      "title": "Latest Articles",
+      "subtitle": "Stories and updates from Khushi Trust. More articles will be added soon.",
+      "articleSlugs": [
+        "qari-khushi-urdu",
+        "qari-khushi-english",
+        "the-kushi-trust-introduction"
+      ]
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "About Us",
+      "subtitle": "Established in memory of Qari Khushi Muhammad Al-Azhari (RA), serving the most vulnerable with compassion and dedication.",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "inspiration",
+          "heading": "Our Inspiration",
+          "image": "qari-khushi-2.png",
+          "body": [
+            "Qari Khushi Muhammad Al-Azhari (RA) was a voice that moved nations — a soul devoted entirely to the Qur'an, whose recitations softened hearts, awakened faith, and bridged worlds. Born in Okara, Pakistan, he rose to global renown, captivating millions with his unmatched mastery of Tajweed and his spirit of humility.",
+            "Honored with:",
+            "He remained, until his final breath, a true servant of Allah and humanity."
+          ],
+          "bullets": [
+            "Presidential Pride of Performance (1980)",
+            "Tamgha-e-Imtiaz",
+            "International Award from Egypt"
+          ],
+          "renderOrder": [
+            "body.0",
+            "body.1",
+            "bullets",
+            "body.2"
+          ]
+        },
+        {
+          "id": "who-we-are",
+          "heading": "Who We Are",
+          "body": [
+            "Established in memory of Qari Khushi Muhammad Al-Azhari (RA), Khushi Trust is a registered humanitarian organization. Driven by a dedicated team of volunteers — full of empathy, passion, and commitment — Khushi Trust has, within a short span, achieved significant milestones. Still in its early stages, the Trust holds high goals and an unwavering commitment to doing much more in the future."
+          ]
+        },
+        {
+          "id": "commitments",
+          "heading": "We Are Committed To",
+          "body": [],
+          "bullets": [
+            "Empathy and compassion in all our actions",
+            "Transparency in fund utilization",
+            "Dignity and respect for all beneficiaries",
+            "Community-driven solutions",
+            "Sustainable impact through long-term programs",
+            "Education as a pathway to empowerment",
+            "Healthcare accessibility for all",
+            "Environmental stewardship through tree plantation",
+            "Emergency response and disaster relief",
+            "Women empowerment and skills development",
+            "Infrastructure development for better communities",
+            "Interest-free financial support for families"
+          ]
+        },
+        {
+          "id": "vision",
+          "heading": "Our Vision",
+          "image": "girls-school.jpeg",
+          "body": [
+            "A society where dignity, opportunity, and compassion are accessible to all."
+          ]
+        },
+        {
+          "id": "mission",
+          "heading": "Our Mission",
+          "body": [
+            "To honor the legacy of Qari Khushi Muhammad Al-Azhari (RA) by uplifting humanity through practical acts of kindness, compassion, and community service."
+          ]
+        },
+        {
+          "id": "where-we-serve",
+          "heading": "Where We Serve",
+          "body": [
+            "Starting from Chak No. 16-GD, Okara — the birthplace of Qari Khushi Muhammad — Khushi Trust is expanding its work to neighboring villages, with a long-term goal to impact communities across the district and province.",
+            "Chak No. 16-GD is a remote village comprising poor farm families, located approximately 130 kilometers from Lahore, the capital of Punjab province. It represents the humble beginnings of our mission."
+          ],
+          "mapUrl": null
+        },
+        {
+          "id": "legal-status",
+          "heading": "Legal Status",
+          "body": [
+            "Khushi Trust is a legally registered body with the Government of Punjab under:",
+            "Legally authorized to receive donations and funds."
+          ],
+          "items": [
+            {
+              "title": "Trust Act 2020",
+              "text": "Reg No: 044/46/TRUST/DLR"
+            },
+            {
+              "title": "Charity Act 2018",
+              "text": "Reg No: PB-6590311132347324"
+            }
+          ],
+          "renderOrder": [
+            "body.0",
+            "items",
+            "body.1"
+          ]
+        }
+      ]
+    },
+    "impact": {
+      "title": "Funds Generated & Utilized",
+      "subtitle": "",
+      "heroImage": null,
+      "stats": [
+        {
+          "value": 12,
+          "suffix": "",
+          "label": "Total Programs Active"
+        },
+        {
+          "value": 250,
+          "suffix": "+",
+          "label": "Total Students"
+        },
+        {
+          "value": 6.8,
+          "prefix": "PKR ",
+          "suffix": "M+",
+          "label": "Total Healthcare Funds"
+        }
+      ],
+      "sections": [
+        {
+          "id": "ration-distribution",
+          "heading": "Year-wise Ration Bags Distribution",
+          "body": [],
+          "table": {
+            "columns": [
+              "Year",
+              "Ration Bags (PKR 10,000 each)"
+            ],
+            "rows": [
+              [
+                "2023–24",
+                "200 bags"
+              ],
+              [
+                "2024–25",
+                "250 bags"
+              ],
+              [
+                "2025–26",
+                "300 bags"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "fund-utilization",
+          "heading": "Program-wise Fund Utilization",
+          "body": [],
+          "items": [
+            {
+              "title": "Education Support",
+              "text": "PKR 300,000 invested (2023–24)",
+              "programSlug": "education-support"
+            },
+            {
+              "title": "Women Empowerment",
+              "text": "PKR 30,000/month income potential",
+              "programSlug": "women-empowerment"
+            },
+            {
+              "title": "Healthcare Assistance",
+              "text": "PKR 6.8M+ total healthcare funds spent",
+              "programSlug": "healthcare"
+            },
+            {
+              "title": "Clean Water Program",
+              "text": "1,000+ households served",
+              "programSlug": "clean-water"
+            },
+            {
+              "title": "Sports and Playgrounds",
+              "text": "PKR 6M+ total investment",
+              "programSlug": "sports"
+            },
+            {
+              "title": "Tree Plantation Drive",
+              "text": "1,000+ trees planted",
+              "programSlug": "tree-plantation"
+            },
+            {
+              "title": "Funeral Support",
+              "text": "PKR 483,000+ total spent",
+              "programSlug": "funeral-support"
+            },
+            {
+              "title": "Easy Marriage Program",
+              "text": "PKR 1.1M+ total spent",
+              "programSlug": "easy-marriage"
+            },
+            {
+              "title": "Infrastructure Rehabilitation",
+              "text": "PKR 500,000 invested",
+              "programSlug": "infrastructure"
+            },
+            {
+              "title": "Food Assistance Program",
+              "text": "750+ ration bags distributed",
+              "programSlug": "food-assistance"
+            },
+            {
+              "title": "Interest-Free Loan Program",
+              "text": "PKR 3M+ disbursed",
+              "programSlug": "interest-free-loans"
+            },
+            {
+              "title": "Emergency & Relief Assistance",
+              "text": "PKR 2.4M+ spent",
+              "programSlug": "emergency-relief"
+            }
+          ]
+        },
+        {
+          "id": "targets",
+          "heading": "2026–27 Targets",
+          "body": [],
+          "items": [
+            {
+              "title": "Education Support",
+              "text": "Support 300 deserving students.",
+              "programSlug": "education-support"
+            },
+            {
+              "title": "Women Empowerment",
+              "text": "Expand training to neighboring villages and increase overall outreach; train 50+ more women.",
+              "programSlug": "women-empowerment"
+            },
+            {
+              "title": "Healthcare Assistance",
+              "text": "Expand healthcare assistance with a budget goal of PKR 5 million.",
+              "programSlug": "healthcare"
+            },
+            {
+              "title": "Clean Water Program",
+              "text": "Expand clean water access to 5,000 households and neighboring rural settlements.",
+              "programSlug": "clean-water"
+            },
+            {
+              "title": "Sports and Playgrounds",
+              "text": "Continue promoting youth sports and install floodlights for cricket and football grounds.",
+              "programSlug": "sports"
+            },
+            {
+              "title": "Tree Plantation Drive",
+              "text": "Plant 1,000 shade and eco-friendly trees; expand along main roads and pathways.",
+              "programSlug": "tree-plantation"
+            },
+            {
+              "title": "Funeral Support",
+              "text": "Expand funeral support to larger and underserved communities.",
+              "programSlug": "funeral-support"
+            },
+            {
+              "title": "Easy Marriage Program",
+              "text": "Extend support of PKR 0.5 million to orphans and girls from thoroughly vetted, highly deserving families.",
+              "programSlug": "easy-marriage"
+            },
+            {
+              "title": "Infrastructure Rehabilitation",
+              "text": "Continue upgrading village infrastructure for safer and healthier communities.",
+              "programSlug": "infrastructure"
+            },
+            {
+              "title": "Food Assistance Program",
+              "text": "Distribute 300 ration bags to enhance food assistance for vulnerable families.",
+              "programSlug": "food-assistance"
+            },
+            {
+              "title": "Interest-Free Loan Program",
+              "text": "Expand with a budget of PKR 5 million.",
+              "programSlug": "interest-free-loans"
+            },
+            {
+              "title": "Emergency & Relief Assistance",
+              "text": "Expand emergency and relief assistance with a budget of PKR 5 million.",
+              "programSlug": "emergency-relief"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "team-contacts",
+          "heading": "Our Team",
+          "body": [],
+          "items": [
+            {
+              "title": "Mansha Rai",
+              "text": "Chairman, Khushi Rabta Council",
+              "phone": "+92 300 7952838"
+            },
+            {
+              "title": "Azhar Bashir",
+              "text": "Secretary Finance",
+              "phone": "+92 306 5352149"
+            }
+          ]
+        },
+        {
+          "id": "contact-information",
+          "heading": "Contact Information",
+          "body": [],
+          "items": [
+            {
+              "title": "Location",
+              "text": "Chak 16 GD, Okara, Punjab, Pakistan"
+            },
+            {
+              "title": "Email",
+              "text": "thekhushitrust@gmail.com",
+              "href": "mailto:thekhushitrust@gmail.com"
+            },
+            {
+              "title": "Registration",
+              "text": "044/46/TRUST/DLR"
+            }
+          ]
+        },
+        {
+          "id": "find-us",
+          "heading": "Find Us",
+          "body": [
+            "Chak 16 GD, Okara, Punjab, Pakistan"
+          ],
+          "mapUrl": null
+        },
+        {
+          "id": "message",
+          "heading": "Send Us a Message",
+          "body": []
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "name",
+            "label": "Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "Email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "Phone",
+            "type": "tel",
+            "required": false
+          },
+          {
+            "name": "message",
+            "label": "Message",
+            "type": "textarea",
+            "required": true
+          }
+        ],
+        "submitLabel": "Send Message",
+        "submissionEndpoint": null
+      }
+    },
+    "donate": {
+      "title": "Donate with Confidence",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "why-donate",
+          "heading": "Why Donate",
+          "body": [],
+          "items": [
+            {
+              "title": "Education",
+              "text": "Support students with uniforms, books, and stationery."
+            },
+            {
+              "title": "Healthcare",
+              "text": "Provide medical assistance and essential medicines."
+            },
+            {
+              "title": "Clean Water",
+              "text": "Install water filtration plants for communities."
+            },
+            {
+              "title": "Food Assistance",
+              "text": "Provide ration bags to vulnerable families."
+            }
+          ]
+        },
+        {
+          "id": "donation-method",
+          "heading": "Bank Transfer Details",
+          "body": [
+            "Please use the bank transfer details to complete your donation.",
+            "After making a transfer, please contact us at thekhushitrust@gmail.com or call us to confirm your donation."
+          ],
+          "accountsRef": "donate.accounts"
+        },
+        {
+          "id": "sponsor-a-cause",
+          "heading": "Sponsor a Cause",
+          "body": [],
+          "items": [
+            {
+              "title": "Education Support",
+              "text": "Education is the first step towards empowerment. We make sure no child is left behind.",
+              "programSlug": "education-support",
+              "cta": "Sponsor This",
+              "href": "/donate"
+            },
+            {
+              "title": "Women Empowerment",
+              "text": "Empowered women bring prosperity, dignity, and lasting change to their families and communities.",
+              "programSlug": "women-empowerment",
+              "cta": "Sponsor This",
+              "href": "/donate"
+            },
+            {
+              "title": "Healthcare Assistance",
+              "text": "We support families battling illness with dignity, empathy, and commitment — ensuring that critical medical help is never out of reach.",
+              "programSlug": "healthcare",
+              "cta": "Sponsor This",
+              "href": "/donate"
+            },
+            {
+              "title": "Clean Water Program",
+              "text": "Clean water saves lives — every glass brings health, hope, and life.",
+              "programSlug": "clean-water",
+              "cta": "Sponsor This",
+              "href": "/donate"
+            },
+            {
+              "title": "Sports and Playgrounds",
+              "text": "Sports teach discipline, unity, and confidence. We invest in the champions of tomorrow.",
+              "programSlug": "sports",
+              "cta": "Sponsor This",
+              "href": "/donate"
+            },
+            {
+              "title": "Tree Plantation Drive",
+              "text": "Every tree planted is an act of hope for the future.",
+              "programSlug": "tree-plantation",
+              "cta": "Sponsor This",
+              "href": "/donate"
+            }
+          ]
+        },
+        {
+          "id": "confidence",
+          "heading": "Donate with Confidence",
+          "body": [
+            "Khushi Trust is legally registered under the Trust Act 2020 (Reg: 044/46/TRUST/DLR) and the Charity Act 2018 (Reg: PB-6590311132347324), legally authorized to receive donations and funds.",
+            "All donations are utilized transparently for the programs outlined on our Impact page. We maintain detailed records and provide receipts upon request."
+          ],
+          "quote": "In every life we touch, every prayer we answer, and every smile we inspire — we honor the enduring legacy of Qari Khushi Muhammad Al-Azhari (RA)."
+        }
+      ]
+    },
+    "volunteer": {
+      "title": "Join Our Mission",
+      "subtitle": "",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "why-volunteer",
+          "heading": "Why Volunteer",
+          "body": [],
+          "items": [
+            {
+              "title": "Make a Real Impact",
+              "text": "Contribute directly to improving lives in rural communities."
+            },
+            {
+              "title": "Develop Skills",
+              "text": "Gain valuable experience in community service and leadership."
+            },
+            {
+              "title": "Join a Community",
+              "text": "Connect with like-minded individuals committed to positive change."
+            }
+          ]
+        },
+        {
+          "id": "application",
+          "heading": "Volunteer Application Form",
+          "body": []
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "fullName",
+            "label": "Full Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "Email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "Phone",
+            "type": "tel",
+            "required": true
+          },
+          {
+            "name": "city",
+            "label": "City",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "areaOfInterest",
+            "label": "Area of Interest",
+            "type": "select",
+            "required": true,
+            "placeholder": "Select an area",
+            "options": [
+              "Education",
+              "Healthcare",
+              "Community Development",
+              "Administration",
+              "Other"
+            ]
+          },
+          {
+            "name": "message",
+            "label": "Message",
+            "type": "textarea",
+            "required": false
+          }
+        ],
+        "submitLabel": "Submit Application",
+        "submissionEndpoint": null
+      }
+    },
+    "qariKhushi": {
+      "title": "Introduction of Qari Khushi Muhammad Al-Azhari (RA)",
+      "subtitle": "",
+      "heroImage": "qari-khushi-2.png",
+      "originalLang": "ur",
+      "sections": [],
+      "bodyArticleSlug": "qari-khushi-urdu",
+      "bodyField": "body",
+      "sourceTextArticleSlug": "qari-khushi-urdu",
+      "sourceTextField": "sourceText",
+      "renderArticleSubtitle": false,
+      "contentNote": "The full page body is identical to the biography stored in the qari-khushi-urdu article, beginning with its first h2. Render that complete body here without shortening it."
+    },
+    "programsIndex": {
+      "title": "12 Pillars of Service",
+      "subtitle": "At Khushi Trust, we believe in building lives from the ground up. Our service is built on 12 pillars, each addressing a vital need.",
+      "heroImage": null,
+      "sections": [
+        {
+          "id": "programs",
+          "heading": "12 Pillars of Service",
+          "body": [],
+          "programSlugs": [
+            "education-support",
+            "women-empowerment",
+            "healthcare",
+            "clean-water",
+            "sports",
+            "tree-plantation",
+            "funeral-support",
+            "easy-marriage",
+            "infrastructure",
+            "food-assistance",
+            "interest-free-loans",
+            "emergency-relief"
+          ]
+        }
+      ]
+    },
+    "articlesIndex": {
+      "title": "Blog",
+      "subtitle": "Stories, updates, and community impact from Khushi Trust.",
+      "heroImage": "unsplash_photo-1515378791036-0648a3ef77b2.jpg",
+      "sections": [
+        {
+          "id": "latest-articles",
+          "heading": "Latest Articles",
+          "body": [
+            "Stories and updates from Khushi Trust. More articles will be added soon."
+          ],
+          "articleSlugs": [
+            "qari-khushi-urdu",
+            "qari-khushi-english",
+            "the-kushi-trust-introduction"
+          ]
+        }
+      ]
+    },
+    "team": {
+      "title": "Team",
+      "subtitle": "Khushi Trust – Rabta Council",
+      "heroImage": null,
+      "sections": [],
+      "contentRef": "team"
+    }
+  },
+  "donate": {
+    "accounts": [
+      {
+        "bank": "The Bank of Punjab",
+        "title": "Qari Khushi Muhammad Al-Azhari Welfare Trust — The Khushi Trust",
+        "accountNo": "5010 3650 3890 0011",
+        "iban": "PK16 BPUN 5010 3650 3890 0011",
+        "branch": "Main Branch, Benazir Road, Okara",
+        "branchCode": "0018",
+        "bankDisplay": "The Bank of Punjab, Main Branch, Benazir Road, Okara"
+      }
+    ],
+    "methods": [
+      {
+        "id": "bank-transfer",
+        "title": "Bank Transfer",
+        "text": "Please use the bank transfer details to complete your donation.",
+        "confirmation": "After making a transfer, please contact us at thekhushitrust@gmail.com or call us to confirm your donation.",
+        "email": "thekhushitrust@gmail.com",
+        "phone": "+92 306 5352149"
+      }
+    ],
+    "currency": "PKR",
+    "suggestedAmounts": [
+      1000,
+      5000,
+      10000
+    ],
+    "suggestedAmountsHeading": "Donation Amount",
+    "onlinePaymentsAvailable": false,
+    "amountSelectionNote": "Please use the bank transfer details to complete your donation.",
+    "receipts": "We maintain detailed records and provide receipts upon request."
+  },
+  "programs": [
+    {
+      "slug": "education-support",
+      "title": "Education Support",
+      "summary": "Education is the first step towards empowerment. We make sure no child is left behind.",
+      "image": "girls-school.jpeg",
+      "icon": "GraduationCap",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We believe that education is the foundation of empowerment. Our Education Support program ensures that no child is left behind, providing essential educational resources to deserving students."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "2023–24: 250 students supported with uniforms, books, and stationery — PKR 300,000 invested."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Support 300 deserving students."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 300,000",
+        "label": "Invested (2023–24)"
+      },
+      "previousSlug": null,
+      "nextSlug": "women-empowerment",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "women-empowerment",
+      "title": "Women Empowerment",
+      "summary": "Empowered women bring prosperity, dignity, and lasting change to their families and communities.",
+      "image": "education-support.jpg",
+      "icon": "Scissors",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "Our Women Empowerment program focuses on skills development, training women in sewing, embroidery, and handcrafts to generate sustainable income for their families."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Skills development program launched — training women in sewing, embroidery, and handcrafts.",
+            "150 already trained women are working from home, generating income for their families.",
+            "50+ women trained in 2024–25 through hands-on sessions and mentorship.",
+            "Local women now earn up to PKR 30,000 per month through sustainable skill-based livelihoods."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Expand training to neighboring villages and increase overall outreach; train 50+ more women."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 30,000/month",
+        "label": "Income potential"
+      },
+      "previousSlug": "education-support",
+      "nextSlug": "healthcare",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "healthcare",
+      "title": "Healthcare Assistance",
+      "summary": "We support families battling illness with dignity, empathy, and commitment — ensuring that critical medical help is never out of reach.",
+      "image": "healthcare.jpg",
+      "icon": "HeartPulse",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We provide critical medical support to families in need, ensuring that healthcare is accessible and affordable for the most vulnerable members of our community."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "PKR 120,000 spent on emergency patient aid, medication, and transport during 2023–24.",
+            "PKR 6.7 million spent providing Easy Shifa Medicine, ultrasound equipment, and essential medicines during 2024–25.",
+            "Health support expanded to include preventive healthcare initiatives and awareness drives."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Expand healthcare assistance with a budget goal of PKR 5 million."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 6.8M+",
+        "label": "Total healthcare funds spent"
+      },
+      "previousSlug": "women-empowerment",
+      "nextSlug": "clean-water",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "clean-water",
+      "title": "Clean Water Program",
+      "summary": "Clean water saves lives — every glass brings health, hope, and life.",
+      "image": "clean-water.jpg",
+      "icon": "Droplets",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "Access to clean water is a fundamental human right. Our Clean Water Program installs filtration plants to provide safe drinking water to communities."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Installed water filtration plants serving 1,000 household beneficiaries.",
+            "Surveys already completed for 10 new water filtration plants."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Expand clean water access to 5,000 households and neighboring rural settlements."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "1,000+",
+        "label": "Households served"
+      },
+      "previousSlug": "healthcare",
+      "nextSlug": "sports",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "sports",
+      "title": "Sports and Playgrounds",
+      "summary": "Sports teach discipline, unity, and confidence. We invest in the champions of tomorrow.",
+      "image": "sports.jpg",
+      "icon": "Trophy",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We invest in youth development through sports infrastructure and support, building character and community spirit."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Developed the Chak 16-GD Sports Complex — PKR 2.5 million in capital investment.",
+            "PKR 0.5 million spent on sports gear and uniforms in 2023–24.",
+            "PKR 3 million in support provided to volleyball, cricket, football, and badminton players during 2024–25."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Continue promoting youth sports and install floodlights for cricket and football grounds."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 6M+",
+        "label": "Total investment"
+      },
+      "previousSlug": "clean-water",
+      "nextSlug": "tree-plantation",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "tree-plantation",
+      "title": "Tree Plantation Drive",
+      "summary": "Every tree planted is an act of hope for the future.",
+      "image": "tree-plantation.jpg",
+      "icon": "TreePine",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "Our Tree Plantation Drive creates a greener, healthier environment for future generations while combating climate change."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "1,000 native trees planted across schools, graveyards, and roadsides.",
+            "Trees have matured to create shaded walkways and greener villages."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Plant 1,000 shade and eco-friendly trees; expand along main roads and pathways."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "1,000+",
+        "label": "Trees planted"
+      },
+      "previousSlug": "sports",
+      "nextSlug": "funeral-support",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "funeral-support",
+      "title": "Funeral Support",
+      "summary": "Every soul deserves respect — we stand with grieving families to ease their burden.",
+      "image": "funeral-support.jpg",
+      "icon": "HandHeart",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We provide compassionate support to families during their most difficult times, ensuring dignified funeral services for those in need."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Supported funeral costs for 20 needy individuals.",
+            "PKR 200,000+ spent during 2023–24.",
+            "PKR 283,000 spent during 2024–25."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Expand funeral support to larger and underserved communities."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 483,000+",
+        "label": "Total spent"
+      },
+      "previousSlug": "tree-plantation",
+      "nextSlug": "easy-marriage",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "easy-marriage",
+      "title": "Easy Marriage Program",
+      "summary": "We celebrate the Sunnah by making marriages dignified and accessible.",
+      "image": "easy-marriage.jpg",
+      "icon": "HeartHandshake",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We support marriages for deserving families, making this important milestone accessible and dignified."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "8 marriages supported at a cost of PKR 0.6 million during 2023–24.",
+            "PKR 0.5 million spent during 2024–25."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Extend support of PKR 0.5 million to orphans and girls from thoroughly vetted, highly deserving families."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 1.1M+",
+        "label": "Total spent"
+      },
+      "previousSlug": "funeral-support",
+      "nextSlug": "infrastructure",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "infrastructure",
+      "title": "Infrastructure Rehabilitation",
+      "summary": "Stronger infrastructure builds stronger communities.",
+      "image": "infrastructure.jpg",
+      "icon": "Construction",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We improve community infrastructure, including roads, sanitation, and public spaces, to create safer and healthier living environments."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Repaired village roads and restored connecting link roads.",
+            "Implemented a community-wide sanitation system.",
+            "Developed a model graveyard with orderly graves, a children's section, and 100+ shade trees.",
+            "Improved public spaces, including pathways, drainage, and tree plantation.",
+            "PKR 500,000 invested to date."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Continue upgrading village infrastructure for safer and healthier communities."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 500,000",
+        "label": "Invested"
+      },
+      "previousSlug": "easy-marriage",
+      "nextSlug": "food-assistance",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "food-assistance",
+      "title": "Food Assistance Program",
+      "summary": "Providing immediate access to life-sustaining staples for vulnerable families.",
+      "image": "food-assistance.jpg",
+      "icon": "ShoppingBasket",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We provide essential food items to vulnerable families, ensuring they have access to nutritious meals and reducing household expenses."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Provides rice, flour, oil, sugar, and pulses to vulnerable families.",
+            "Combats malnutrition by ensuring a consistent supply of balanced essential food groups.",
+            "Reduces household expenses, allowing families to allocate funds toward healthcare and education.",
+            "Ration bags distributed, each worth PKR 10,000: 2023–24: 200 bags; 2024–25: 250 bags; 2025–26: 300 bags."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Distribute 300 ration bags to enhance food assistance for vulnerable families."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "750+",
+        "label": "Ration bags distributed"
+      },
+      "previousSlug": "infrastructure",
+      "nextSlug": "interest-free-loans",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "interest-free-loans",
+      "title": "Interest-Free Loan Program",
+      "summary": "We support families by providing interest-free loans on easy installments to make a decent livelihood possible.",
+      "image": "interest-free-loans.jpg",
+      "icon": "Wallet",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We provide interest-free loans to help families rebuild and improve their livelihoods without the burden of interest."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "PKR 3 million spent to help families repair homes damaged by floods and rains."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Expand with a budget of PKR 5 million."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 3M+",
+        "label": "Disbursed"
+      },
+      "previousSlug": "food-assistance",
+      "nextSlug": "emergency-relief",
+      "supportHref": "/donate"
+    },
+    {
+      "slug": "emergency-relief",
+      "title": "Emergency & Relief Assistance",
+      "summary": "Ready when disaster strikes.",
+      "image": "emergency-relief.jpg",
+      "icon": "Siren",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": [
+            "We provide rapid response and relief assistance during emergencies and natural disasters, ensuring communities receive immediate support."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Key Achievements",
+          "body": [],
+          "bullets": [
+            "Conducted flood damage assessments and community surveys across affected areas of District Okara.",
+            "Strengthened embankments of seasonal rainwater drains in collaboration with local communities to mitigate accidents and flood risks.",
+            "Over PKR 2.4 million spent over two years on emergency response, drainage cleaning, canal embankment reinforcement, and urgent community needs."
+          ]
+        },
+        {
+          "heading": "2026–27 Target",
+          "body": [
+            "Expand emergency and relief assistance with a budget of PKR 5 million."
+          ],
+          "bullets": []
+        }
+      ],
+      "stat": {
+        "value": "PKR 2.4M+",
+        "label": "Spent"
+      },
+      "previousSlug": "interest-free-loans",
+      "nextSlug": null,
+      "supportHref": "/donate"
+    }
+  ],
+  "team": {
+    "title": "Team",
+    "subtitle": "Khushi Trust – Rabta Council",
+    "intro": "To strengthen coordination between the community and the welfare initiatives of Khushi Trust (Qari Khushi Muhammad Al-Azhari Welfare Trust), a dedicated Rabta Council has been established. The council functions as a supportive sub-branch of the Trust, helping organize activities, supervise committees, and facilitate community welfare programs.",
+    "leadershipTitle": "Advisory & Core Leadership",
+    "leadership": [
+      {
+        "role": "Legal Advisor",
+        "name": "Rai Ejaz-ul-Haq",
+        "note": "Advocate, High Court"
+      },
+      {
+        "role": "Chairman – Rabta Council",
+        "name": "Muhammad Mansha Rai",
+        "note": ""
+      },
+      {
+        "role": "General Secretary – Rabta Council",
+        "name": "Mohsin Advocate",
+        "note": ""
+      },
+      {
+        "role": "Finance & Media Secretary – Khushi Trust",
+        "name": "Azhar Bashir",
+        "note": ""
+      }
+    ],
+    "committeesTitle": "Rabta Council Committees",
+    "committees": [
+      {
+        "name": "Health Committee",
+        "chair": "Hafiz Ghulam Mustafa",
+        "members": [
+          "Asghar Jahangir",
+          "Mazhar Zulfiqar"
+        ],
+        "description": "The Health Committee assists the Trust in facilitating healthcare support and coordinating health-related welfare initiatives."
+      },
+      {
+        "name": "Sports Committee",
+        "chair": "Mazhar Zulfiqar",
+        "members": [
+          "Captains of all sports teams"
+        ],
+        "description": "This committee promotes healthy activities among youth and supports the organization of sports events and sports facilities within the community."
+      },
+      {
+        "name": "Khushi Aasan Nikah Program",
+        "chair": "Zulfiqar Ali Numberdar",
+        "members": [
+          "Zulfiqar Muhammad Ali",
+          "Hafiz Ghulam Mustafa",
+          "Azhar Bashir"
+        ],
+        "description": "The Aasan Nikah Program supports simple, dignified marriages and provides assistance to families in need."
+      },
+      {
+        "name": "Education Committee",
+        "chair": "Master Mushtaq",
+        "members": [
+          "Heads of all local schools"
+        ],
+        "description": "The Education Committee promotes learning opportunities and educational support within the community."
+      },
+      {
+        "name": "Graveyard Care Committee",
+        "chair": "Mazhar Zulfiqar",
+        "members": [
+          "Chaudhry Abdul Jabbar",
+          "Hafiz Ali Mustafa",
+          "Safdar Jahangir"
+        ],
+        "description": "This committee supervises the maintenance, cleanliness, and respectful management of the local cemetery."
+      },
+      {
+        "name": "Khushi Interest-Free Loan Committee",
+        "chair": "Qari Mazhar Iqbal Abid",
+        "members": [
+          "Zulfiqar Muhammad Ali",
+          "Safdar Jahangir"
+        ],
+        "description": "This committee manages the interest-free loan program to support individuals in financial need and help them become self-reliant."
+      },
+      {
+        "name": "Khushi Food Program",
+        "chair": "Master Liaqat Ali",
+        "members": [
+          "Hafiz Yaqoob",
+          "Master Ghulam Muhammad",
+          "Javeed Hamid"
+        ],
+        "description": "The Khushi Food Program aims to provide food assistance to deserving families and support community welfare initiatives."
+      }
+    ],
+    "closing": "Through the Rabta Council and its committees, Khushi Trust continues its mission of organized community service, ensuring that welfare activities are carried out with transparency, responsibility, and collective participation."
+  },
+  "articles": [
+    {
+      "slug": "qari-khushi-urdu",
+      "title": "The Life of Qari Khushi Muhammad Al-Azhari",
+      "subtitle": "A spiritual guide and founder of a welfare movement",
+      "excerpt": "The biography of Qari Khushi Muhammad Al-Azhari, his services to the Qur'an, and the beginnings of Khushi Trust.",
+      "image": "qari-khushi-2.png",
+      "inlineImages": [
+        {
+          "filename": "qari-khushi-2.png",
+          "afterHeading": "Roots in the Soil: Early Life in 16 G.D. Maddoka",
+          "alt": "Qari Khushi Muhammad Al-Azhari"
+        }
+      ],
+      "date": null,
+      "originalLang": "ur",
+      "body": [
+        {
+          "type": "h2",
+          "text": "The Heavenly Voice: The Life and Scholarly and National Legacy of Qari Khushi Muhammad Al-Azhari (1943–1998)"
+        },
+        {
+          "type": "p",
+          "text": "Pakistan's spiritual and cultural history is adorned with many great voices, but few have possessed the purity, authority, and enduring presence of Qari Khushi Muhammad Al-Azhari. Through PTV's celebrated program \"Iqra,\" he became a presence in every home. He was not merely a reciter, but a scholarly and spiritual bridge between the little-known fields of Punjab and Egypt's great institution of learning, Al-Azhar University."
+        },
+        {
+          "type": "h2",
+          "text": "Roots in the Soil: Early Life in 16 G.D. Maddoka"
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad Sahib was born in 1943 in the village of 16 G.D. (Maddoka), Okara. He belonged to a respected family of the Kharal Rajput tribe. The world came to know him for his discipline and God-given abilities, but as a child he was a lively village boy."
+        },
+        {
+          "type": "p",
+          "text": "According to his younger brother, Haji Muhammad Ali, Qari Sahib was exceptionally intelligent from childhood, but he also had a deep love of sports, particularly volleyball. His father would sometimes be displeased with these activities because he wanted his son to devote himself entirely to learning and religion."
+        },
+        {
+          "type": "h2",
+          "text": "The Teacher's Prophecy"
+        },
+        {
+          "type": "p",
+          "text": "A major turning point in his life came when his first teacher, Syed Jamat Ali Shah Sahib of Maddoka, intervened. When he learned that Qari Sahib's father was treating him harshly because of his playfulness, he called the father and offered a perceptive warning:"
+        },
+        {
+          "type": "quote",
+          "text": "Never raise your hand against him again. You do not know whom you are beating or with whom you are angry."
+        },
+        {
+          "type": "p",
+          "text": "Shah Sahib had seen in the child's brow the \"Noor,\" or divine light, that would one day serve the Holy Qur'an throughout the world. From that day onward, his destination was set."
+        },
+        {
+          "type": "h2",
+          "text": "The Pursuit of Knowledge and the Journey to Al-Azhar"
+        },
+        {
+          "type": "p",
+          "text": "His formal training began at Karachi's renowned Jamia Qasmia. His thirst for knowledge, however, took him to Al-Azhar University in Egypt, one of the Islamic world's greatest institutions of learning. On his return, the title \"Al-Azhari\" became part of his name, signifying that he was among the few Pakistanis of that era who had fully mastered the Egyptian style of Qur'anic recitation."
+        },
+        {
+          "type": "h2",
+          "text": "The Voice of the State: Historic Honors"
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad Sahib's remarkable abilities were quickly recognized at government level, bringing him several historic \"firsts\":"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The United Nations: He had the distinction of being the first Qari to recite at a United Nations conference, where he accompanied the then-President of Pakistan, General Zia-ul-Haq.",
+            "The Upper House (Senate): During President Ayub Khan's tenure, he was appointed the first regular Qari of the Senate of Pakistan.",
+            "The Presidency: He served for a long period as Imam and Qari at Pakistan's President House.",
+            "A National Teacher: Through PTV's program \"Iqra,\" he taught Tajweed and Qur'anic recitation to an entire generation of Pakistanis."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "International Honors and Positions"
+        },
+        {
+          "type": "p",
+          "text": "For his service to the Holy Qur'an, he received numerous honors in Pakistan and abroad."
+        },
+        {
+          "type": "h2",
+          "text": "Notable Awards"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tamgha-e-Imtiaz (Pakistan)",
+            "Nishan-e-Imtiaz (Egypt)",
+            "Gold medalist (Morocco)",
+            "Gold Crown, presented by Data Darbar, Lahore",
+            "PTV Awards on 5 occasions for outstanding broadcasting services"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "International Positions"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Chairman: Global Quran Circle, Saudi Arabia.",
+            "Chairman: Pakistan Qira'at Board, Radio and TV.",
+            "Elected Chairman: International Islamic Union of Qura & Huffaz.",
+            "Founder and Chairman: International Quran Academy, Rawalpindi.",
+            "Represented Pakistan at OIC summit conferences."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Service to Humanity and Legacy: Khushi Trust"
+        },
+        {
+          "type": "p",
+          "text": "His true legacy is not confined to his honors. It remains alive through the institutions he established: the International Qira'at Academy and Qurani Taleemat Trust in Rawalpindi. His sons, Qari Najam Mustafa and Muhammad Mahmood, are carrying his mission forward with dedication."
+        },
+        {
+          "type": "p",
+          "text": "Khushi Trust, named in his honor, follows the philosophy that \"service to humanity is worship.\" The Trust works practically for suffering humanity so that his spiritual legacy may take the form of social service."
+        },
+        {
+          "type": "h2",
+          "text": "Conclusion"
+        },
+        {
+          "type": "p",
+          "text": "Despite his international fame and the distinction of the title \"Al-Azhari,\" Qari Sahib was a deeply sincere man who remained connected to his roots. In the memories of his brother Haji Muhammad Ali, he is still the same loyal son of the Kharal tribe who never forgot his native soil, 16 G.D."
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad Al-Azhari departed this world in 1998, but his captivating voice remains alive in the hearts of those who love the Qur'an. His journey from a small village in Okara to Cairo's minarets and the halls of the United Nations demonstrates that when natural intelligence is joined by sincere intention and a teacher's prayers, a person can reach the highest horizons."
+        },
+        {
+          "type": "p",
+          "text": "Research and presentation: Rai Muhammad Yaseen / YouTube channel: Fani Rai."
+        }
+      ],
+      "sourceText": [
+        "ایک روحانی رہنما اور فلاحی تحریک کے بانی",
+        "## آسمانی آواز: قاری خوشی محمد الازہری (1943–1998) کی حیات اور علمی و ملی وراثت",
+        "پاکستان کی روحانی اور ثقافتی تاریخ کئی عظیم آوازوں سے مزین ہے، لیکن بہت کم آوازیں ایسی ہیں جنہیں قاری خوشی محمد الازہری جیسی پاکیزگی، رعب اور دوام حاصل ہوا۔ پی ٹی وی کے شہرہ آفاق پروگرام \"اقراء\" کے ذریعے وہ ہر گھر کا حصہ بن گئے۔ وہ صرف ایک قاری نہیں تھے، بلکہ پنجاب کے گمنام کھیتوں اور مصر کی عظیم درسگاہ \"جامعہ الازہر\" کے درمیان ایک علمی و روحانی پل تھے۔",
+        "## مٹی سے وابستگی: 16 جی ڈی مدوکا میں ابتدائی زندگی",
+        "قاری خوشی محمد صاحب 1943 میں اوکاڑہ کے گاؤں 16 جی ڈی (مدوکا) میں پیدا ہوئے۔ آپ کا تعلق کھرل راجپوت قبیلے کے ایک معزز گھرانے سے تھا۔ دنیا نے انہیں ان کے نظم و ضبط اور خداداد صلاحیتوں سے پہچانا، لیکن ان کا بچپن ایک زندہ دل دیہاتی لڑکے جیسا تھا۔\nان کے چھوٹے بھائی حاجی محمد علی کے مطابق، قاری صاحب بچپن ہی سے انتہائی ذہین تھے لیکن انہیں کھیلوں، بالخصوص والی بال سے بے حد لگاؤ تھا۔ ان کی اس سرگرمی پر کبھی کبھار ان کے والد ناراض بھی ہوتے تھے، کیونکہ وہ اپنے بیٹے کو خالصتاً علمی اور دینی راہ پر گامزن دیکھنا چاہتے تھے۔",
+        "## استاد کی پیش گوئی",
+        "آپ کی زندگی میں ایک بڑا موڑ اس وقت آیا جب آپ کے پہلے استاد سید جماعت علی شاہ صاحب (مدوکا) نے ایک اہم مداخلت کی۔ جب انہیں معلوم ہوا کہ قاری صاحب کے والد کھیل کود کی وجہ سے ان پر سختی کرتے ہیں، تو انہوں نے والد کو بلا کر ایک بصیرت افروز تنبیہ کی:\n\"ان پر دوبارہ کبھی ہاتھ نہ اٹھانا۔ تم نہیں جانتے کہ تم کسے مار رہے ہو یا کس سے ناراض ہو رہے ہو۔\"",
+        "شاہ صاحب نے اس بچے کی پیشانی میں وہ \"نور\" دیکھ لیا تھا جس نے مستقبل میں قرآنِ کریم کی عالمی خدمت کرنی تھی۔ اس دن کے بعد سے ان کی منزل کا تعین ہو گیا۔",
+        "## حصولِ علم اور جامعہ الازہر کا سفر",
+        "آپ کے فنی سفر کا باقاعدہ آغاز کراچی کے مشہور ادارے جامعہ قاسمیہ سے ہوا۔ تاہم، علم کی پیاس انہیں عالمِ اسلام کی عظیم ترین درسگاہ جامعہ الازہر (مصر) لے گئی۔ وہاں سے واپسی پر آپ کے نام کے ساتھ \"الازہری\" کا لقب جڑ گیا، جو اس بات کی علامت تھا کہ آپ اس دور کے ان چند پاکستانیوں میں سے تھے جنہوں نے فنِ قرأت کے مصری اسلوب پر مکمل دسترس حاصل کی تھی۔",
+        "## ریاست کی آواز: تاریخی اعزازات",
+        "قاری خوشی محمد صاحب کی بے پناہ صلاحیتوں کو حکومتی سطح پر فوری طور پر تسلیم کیا گیا، جس کے نتیجے میں انہیں کئی \"پہلے\" اعزازات حاصل ہوئے:\n\\\\* اقوامِ متحدہ: آپ کو یہ منفرد اعزاز حاصل ہے کہ آپ اقوامِ متحدہ کی کانفرنس میں تلاوت کرنے والے پہلے قاری تھے، جہاں آپ اس وقت کے صدر پاکستان جنرل ضیاء الحق کے ہمراہ موجود تھے۔\n\\\\* ایوانِ بالا (سینیٹ): صدر ایوب خان کے دور میں آپ کو سینیٹ آف پاکستان کا پہلا باقاعدہ قاری مقرر کیا گیا۔\n\\\\* ایوانِ صدر: آپ نے طویل عرصے تک ایوانِ صدر پاکستان میں امام اور قاری کے فرائض سرانجام دیے۔\n\\\\* قومی استاد: پی ٹی وی کے پروگرام \"اقراء\" کے ذریعے آپ نے پاکستانیوں کی ایک پوری نسل کو تجوید و قرأت کی تعلیم دی۔",
+        "## عالمی اعزازات اور مناصب",
+        "قرآنِ کریم کی خدمت کے صلے میں انہیں ملکی و غیر ملکی سطح پر بے شمار اعزازات سے نوازا گیا:\nنمایاں ایوارڈز:\n\\\\* تمغہ امتیاز (پاکستان)\n\\\\* نشانِ امتیاز (مصر)\n\\\\* گولڈ میڈلسٹ (مراکش)\n\\\\* گولڈ کراؤن (داتا دربار، لاہور کی جانب سے سونے کا تاج)\n\\\\* بہترین نشریاتی خدمات پر 5 مرتبہ پی ٹی وی ایوارڈز۔\nعالمی مناصب:\n\\\\* چیئرمین: عالمی حلقہ القرآن (سعودی عرب)۔\n\\\\* چیئرمین: پاکستان قرأت بورڈ (ریڈیو و ٹی وی)۔\n\\\\* منتخب چیئرمین: انٹرنیشنل اسلامک یونین آف قرآء و حفاظ۔\n\\\\* بانی و چیئرمین: انٹرنیشنل قرآن اکیڈمی، راولپنڈی۔\n\\\\* او آئی سی (OIC) سربراہی اجلاسوں میں پاکستان کی نمائندگی۔",
+        "## خدمتِ خلق اور وراثت: خوشی ٹرسٹ",
+        "ان کی اصل وراثت صرف اعزازات تک محدود نہیں بلکہ ان کے قائم کردہ ادارے انٹرنیشنل قرأت اکیڈمی اور قرآنی تعلیمات ٹرسٹ (راولپنڈی) کی صورت میں آج بھی زندہ ہے۔ ان کے فرزندان، قاری نجم مصطفیٰ اور محمد محمود، ان کے مشن کو پوری تندہی سے آگے بڑھا رہے ہیں۔\nانہی کے نام سے منسوب خوشی ٹرسٹ اس فلسفے پر عمل پیرا ہے کہ \"خدمتِ خلق عبادت ہے\"۔ یہ ٹرسٹ دکھی انسانیت کے لیے عملی طور پر کام کر رہا ہے تاکہ ان کی روحانی وراثت کو سماجی خدمت کے سانچے میں ڈھالا جا سکے۔",
+        "## حاصلِ کلام",
+        "عالمی شہرت اور \"الازہری\" جیسی بڑی نسبتوں کے باوجود، قاری صاحب ایک نہایت مخلص اور اپنی جڑوں سے جڑے ہوئے انسان تھے۔ اپنے بھائی حاجی محمد علی کی یادوں میں وہ آج بھی کھرل قبیلے کے وہی وفادار بیٹے ہیں جو اپنی مٹی (16 جی ڈی) کو کبھی نہیں بھولے۔\nقاری خوشی محمد الازہری 1998 میں اس دارِ فانی سے کوچ کر گئے، لیکن ان کی سحر انگیز آواز آج بھی قرآن سے محبت کرنے والوں کے دلوں میں زندہ ہے۔ اوکاڑہ کے ایک چھوٹے سے گاؤں سے قاہرہ کے میناروں اور اقوامِ متحدہ کے ہالز تک کا یہ سفر اس بات کی دلیل ہے کہ جب فطری ذہانت کو خلوصِ نیت اور استاد کی دعائیں میسر آ جائیں، تو انسان بلندیوں کے افق کو چھو لیتا ہے۔\n(تحقیق و پیشکش: راۓ محمد یاسین / یوٹیوب چینل: فانی رائے)"
+      ]
+    },
+    {
+      "slug": "qari-khushi-english",
+      "title": "Qari Khushi Muhammad Al-Azhari (RA) — Biography",
+      "excerpt": "The life and legacy of Qari Khushi Muhammad Al-Azhari (1943–1998), from 16 G.D. Maddoka to Al-Azhar, his national and international service, and the humanitarian work carried forward in his honor.",
+      "image": "qari-khushi-2.png",
+      "inlineImages": [
+        {
+          "filename": "qari-khushi-2.png",
+          "afterHeading": "Roots in the Soil: The Early Years in 16 G.D. Maddoka",
+          "alt": "Qari Khushi Muhammad Al-Azhari (RA)"
+        }
+      ],
+      "date": null,
+      "originalLang": "en",
+      "body": [
+        {
+          "type": "h2",
+          "text": "The Voice of the Heavens: The Life and Legacy of Qari Khushi Muhammad Al-Azhari (1943–1998)"
+        },
+        {
+          "type": "p",
+          "text": "The spiritual history of Pakistan is adorned with many voices, but few have resonated with the purity, authority, and enduring grace of Qari Khushi Muhammad Al-Azhari. A household name across the nation, he was more than just a master of recitation; he served as a cultural and spiritual bridge between the humble fields of Punjab and the prestigious, historic halls of Al-Azhar in Cairo."
+        },
+        {
+          "type": "h2",
+          "text": "Roots in the Soil: The Early Years in 16 G.D. Maddoka"
+        },
+        {
+          "type": "p",
+          "text": "Born in 1943 in the village of 16 G.D. (Maddoka), Okara, Khushi Muhammad was a scion of the noble Kharal Rajput tribe. While the world would eventually come to know him for his rigid discipline and divine gift, his childhood was that of a vibrant, spirited village boy."
+        },
+        {
+          "type": "h2",
+          "text": "The Teacher's Prophecy"
+        },
+        {
+          "type": "p",
+          "text": "A defining moment in his life occurred under his first mentor in 16 G.D., Syed Jamat Ali Shah Sahib. Upon learning that Khushi's father had been stern with the boy regarding his playfulness, the teacher summoned the father and delivered a profound, prophetic warning:"
+        },
+        {
+          "type": "quote",
+          "text": "Never beat him again. You do not know who you are beating or who you are angry with."
+        },
+        {
+          "type": "p",
+          "text": "Syed Jamat Ali Shah recognized a unique Noor (divine light) in the boy, sensing a future of global service to the Holy Quran that the rest of the world had yet to see. From that day forward, his path toward greatness was paved with support and destiny."
+        },
+        {
+          "type": "h2",
+          "text": "Academic Excellence and the Al-Azhar Journey"
+        },
+        {
+          "type": "p",
+          "text": "His formal journey into the art of Qira'at (recitation) began at Jamia Qasmia in Karachi. However, his thirst for mastery led him to Egypt, home to Al-Azhar University, the world's most prestigious Islamic institution."
+        },
+        {
+          "type": "h2",
+          "text": "A Voice for the State: Historic “Firsts”"
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad's extraordinary talent was quickly recognized by the highest levels of the Pakistani government, leading to several historic milestones:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The United Nations: He held the distinguished honor of being the first Qari to recite the Holy Quran at a UN conference, appearing alongside the then-President, General Zia-ul-Haq.",
+            "The Senate of Pakistan: During the era of President Ayub Khan, he was appointed as the first official Qari of the Senate.",
+            "The Presidency: He served as the official Imam and Qari for the President House (Aiwan-e-Sadr) in Islamabad.",
+            "A National Teacher: Through the iconic PTV program \"Iqra,\" he became the primary teacher of Tajweed (the rules of pronunciation) for an entire generation of Pakistanis."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "International Honors and Global Leadership"
+        },
+        {
+          "type": "p",
+          "text": "His services to the Quran and the state earned him a legendary collection of accolades and responsibilities:"
+        },
+        {
+          "type": "h2",
+          "text": "Prestigious Awards"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tamgha-e-Imtiaz (Pakistan)",
+            "Nishan-e-Imtiaz (Egypt)",
+            "Gold Medalist (Morocco)",
+            "Gold Crown, presented at Data Darbar, Lahore",
+            "Five-time PTV Award winner for excellence in broadcasting"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Leadership & Official Roles"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Chairman: Global Quran Circle (Saudi Arabia).",
+            "Chairman: Pakistan Qira'at Board (Radio & TV).",
+            "Elected Chairman: International Islamic Union of Qura & Huffaz.",
+            "Founder & Chairman: International Quran Academy, Rawalpindi."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "A Legacy of Service: The Khushi Trust"
+        },
+        {
+          "type": "p",
+          "text": "Beyond the trophies and titles, his true legacy is found in the institutions he left behind. Today, his mission is carried forward by his sons, Qari Najam Mustafa and Muhammad Mahmood, through the International Qira'at Academy and the Qurani Taleemat Trust in Rawalpindi."
+        },
+        {
+          "type": "p",
+          "text": "The Khushi Trust, named in his honor, operates on a profound spiritual philosophy: \"Service to humanity is an act of worship.\" The Trust works tirelessly to provide practical relief and alleviate the hardships of the suffering, turning his spiritual legacy into tangible humanitarian action."
+        },
+        {
+          "type": "h2",
+          "text": "Conclusion"
+        },
+        {
+          "type": "p",
+          "text": "Despite his global fame and the \"Al-Azhari\" title, those closest to him remember a man of immense loyalty. He remained a proud son of the Kharal tribe and never lost his connection to the village of 16 G.D. that nurtured him."
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad Al-Azhari passed away in 1998, but his voice remains a permanent fixture in the hearts of millions. From the small fields of Okara to the grand minarets of Cairo and the halls of the UN, his life stands as a testament to what is possible when natural brilliance is guided by sincere devotion and the prayers of a visionary teacher."
+        },
+        {
+          "type": "h2",
+          "text": "Based on the Research of"
+        },
+        {
+          "type": "p",
+          "text": "Rai Muhammad Yaseen (YouTube Channel: Fani Rai)"
+        }
+      ]
+    },
+    {
+      "slug": "the-kushi-trust-introduction",
+      "title": "The Khushi Trust — Introduction",
+      "excerpt": "The importance of welfare organizations in Pakistan and an introduction to Qari Khushi Muhammad Al-Azhari Welfare Trust.",
+      "image": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+      "inlineImages": [
+        {
+          "filename": "WhatsApp_Image_2026-03-15_at_9.36.22_PM.jpeg",
+          "afterHeading": "Personality and Services",
+          "alt": "The Khushi Trust Introduction"
+        }
+      ],
+      "date": null,
+      "originalLang": "ur",
+      "body": [
+        {
+          "type": "h2",
+          "text": "Introduction"
+        },
+        {
+          "type": "p",
+          "text": "Countless NGOs in Pakistan work within their respective fields to serve suffering humanity and eliminate poverty from the country. Welfare institutions form the backbone of society. These charitable organizations are an adornment to society."
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad Al-Azhari Welfare Trust (Khushi Trust) is another welcome addition. It was established in the name of the internationally renowned reciter of the Qur'an, recipient of the Tamgha-e-Imtiaz and a sheikh esteemed in the Arab and non-Arab worlds, \"Janab Qari Khushi Muhammad Al-Azhari (RA).\""
+        },
+        {
+          "type": "h2",
+          "text": "Personality and Services"
+        },
+        {
+          "type": "p",
+          "text": "Among the ranks of venerable and righteous people, Qari Khushi Muhammad Al-Azhari is a shining name. His name needs no introduction. As a true servant of the Holy Qur'an, he holds a distinguished place in Rawalpindi and is himself one of the reasons for the city's renown."
+        },
+        {
+          "type": "p",
+          "text": "His beautiful voice remains permanently etched in the memories of a generation in Pakistan. On PTV's program \"Iqra,\" he taught children everything from the alphabet to the complete Tajweed of the Holy Qur'an, and his rendition of Qasida Burda remains widely recited and remembered."
+        },
+        {
+          "type": "p",
+          "text": "A benefactor and mentor, affectionate and kind, a revered teacher, Pakistan's internationally renowned Qari, the uncrowned king of the world of melodic recitation, former khateeb of the President House in Islamabad, a celebrated reciter of Radio Pakistan and PTV, the favored and most beloved reciter of former President General Muhammad Zia-ul-Haq and millions of devotees of the Prophet: he was a towering name in the world of recitation. He held countless national and international awards and medals, including a presidential award and the Government of Pakistan's Pride of Performance. His distinctive expression and mesmerizing delivery, filled with feeling, tenderness, and a beautiful, captivating, David-like voice, made him an ambassador of Islam and Pakistan and a great champion of the Muslim community. Appealing, captivating, handsome and graceful, commanding and dignified, he was among the most influential and distinguished personalities of his time: the heartbeat of millions of lovers of the Prophet, beloved of the spiritual masters, a crown among scholars, and a rare and priceless jewel more precious than gold, silver, gems, and diamonds — a dignified and incomparable personality."
+        },
+        {
+          "type": "p",
+          "text": "The esteemed sheikh, admired in the Arab and non-Arab worlds, a great son of the Muslim community, honored and respected, Pakistan's great reciter Qari Khushi Muhammad Sahib Al-Azhari (RA), was an exceptional figure of his age and a personality of worldwide renown."
+        },
+        {
+          "type": "h2",
+          "text": "Early Life and Education"
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad was born on Wednesday, 24 February 1943, corresponding to 19 Safar al-Muzaffar 1362 AH, in Chak No. 16 G.D., a village in Okara. He belonged to the martial Kharal Rajput tribe."
+        },
+        {
+          "type": "p",
+          "text": "He received his early education in Okara and later completed a three-year course in Tajweed and the Qur'an at Jamia Qasmia in Karachi. His heartfelt and spiritual bond with the Qur'an was so deep that his thirst was never satisfied, and he went to Al-Azhar University in Egypt to pursue further knowledge, completing his graduation there."
+        },
+        {
+          "type": "p",
+          "text": "Qari Khushi Muhammad's sole introduction is the Holy Qur'an; after that introduction, no other is needed."
+        },
+        {
+          "type": "h2",
+          "text": "Spirituality and Way of Life"
+        },
+        {
+          "type": "p",
+          "text": "He devoted every moment of his life to the Holy Qur'an. He rested for only six hours in each day and night, never ate his fill, and ate only once a day."
+        },
+        {
+          "type": "p",
+          "text": "His personality embodied all the qualities of a dervish. He remained concerned that life was very short and that he had not yet fulfilled the duty of service to the Qur'an. His sole purpose in life was to seek Allah's pleasure and follow the exemplary life of the Prophet Muhammad, peace and blessings be upon him."
+        },
+        {
+          "type": "h2",
+          "text": "Death and International Services"
+        },
+        {
+          "type": "p",
+          "text": "Allah granted Qari Sahib a short life. He passed away on Tuesday, 11 August 1998."
+        },
+        {
+          "type": "p",
+          "text": "Within that short period, Allah bestowed countless honors upon him. In addition to Pakistan, recordings of his recitation of the Holy Qur'an were made in Saudi Arabia, Kuwait, Bahrain, Qatar, the United Arab Emirates, and Morocco."
+        },
+        {
+          "type": "p",
+          "text": "He had the honor of reciting in Makkah and Madinah. In Spain, he achieved the distinction of reciting the complete Holy Qur'an in 32 hours. His recitation was also broadcast on Saudi television and Radio Pakistan."
+        },
+        {
+          "type": "p",
+          "text": "In Abu Dhabi, he recorded a complete recitation of the Holy Qur'an in 85 hours. The account describes the effect of his voice by stating that 25 non-Muslims embraced Islam after hearing his recitation."
+        },
+        {
+          "type": "h2",
+          "text": "Honors and Legacy"
+        },
+        {
+          "type": "p",
+          "text": "He was appointed Imam of the President House during Bhutto's era, while during General Ayub Khan's tenure he was appointed the first Qari of the Upper House."
+        },
+        {
+          "type": "p",
+          "text": "The source credits him with a national civil honor in 1980. It also records that his two sons, Qari Najam Mustafa in 2007 and Muhammad Mahmood in 2015, received the Tamgha-e-Imtiaz."
+        },
+        {
+          "type": "p",
+          "text": "The article presents these three national honors as testimony to the family's love for Pakistan and outstanding performance in their respective fields of service."
+        }
+      ],
+      "sourceText": [
+        "## تعارف",
+        "پاکستان میں ایسی لاتعداد این جی اوز ہیں جو دکھی انسانیت کی خدمت اور ملک سے غربت کے خاتمے کیلئے اپنے اپنے دائرہ کار میں کام کر رہی ہیں۔ فلاحی ادارے معاشرے میں ریڑھ کی ہڈی بنتے ہیں۔ یہ فلاحی تنظیمیں معاشرے کا حسن ہوتی ہیں۔",
+        "قاری خوشی محمد الازہری ویلفیئر ٹرسٹ (خوشی ٹرسٹ) بھی ایک خوبصورت اضافہ ہے۔ جو بین الاقوامی شہرت یافتہ قاری قرآن تمغہ امتیاز، شیخ عرب و عجم \"جناب قاری خوشی محمد الازہری رحمہ اللہ\" کے نام پر قائم کیا گیا ہے۔",
+        "## شخصیت اور خدمات",
+        "بزرگ اور نیک صالح لوگوں کی لڑی میں ایک درخشندہ نام قاری خوشی محمد الازہری کا بھی ہے۔ یہ نام کسی تعارف کا محتاج نہیں ہے۔ وہ قرآن پاک کے سچے خادم ہونے کی وجہ سے راولپنڈی میں ایک ممتاز حیثیت رکھتے ہیں اور پنڈی کی وجہ شہرت کا باعث بھی ہیں۔",
+        "ان کی دلکش آواز آج بھی ملک کی ایک نسل کی یادوں میں ہمیشہ کیلئے نقش ہو چکی ہے۔ انہوں نے پی ٹی وی کے پروگرام \"اقرا\" میں حروف تہجی سے لے کر قرآن پاک کی مکمل تجوید بچوں کو سکھائی، اور ان کا قصیدہ بردہ آج تک لوگوں کی زبان پر عام ہے۔",
+        "محسن و مربی، مشفق و مہربان، استاذ مکرم، بین الاقوامی شہرت یافتہ قاری پاکستان، ترنم کی دنیا کے بے تاج بادشاہ، سابق خطیب ایوان صدر اسلام آباد، ریڈیو پاکستان اور پی ٹی وی کے نامور قاری، سابق صدر جنرل محمد ضیاء الحق اور لاکھوں عاشقان مصطفیٰ کے منظور نظر اور پسندیدہ ترین قاری، قرات کی دنیا کا ایک بہت بڑا نام، بیشمار ملکی و غیر ملکی ایوارڈز اور تمغہ جات کے حامل، صدارتی ایوارڈ یافتہ قاری تمغہ برائے حسن کارکردگی حکومت پاکستان، منفرد لب و لہجہ، مسحور کن لہجہ، پردرد پرسوز، سوز و گداز اور لحن داؤدی سے مزین خوبصورت دلنشین آواز، سفیر اسلام، سفیر پاکستان، ملت اسلامیہ کے بطل جلیل، دلکش، پرکشش، حسین و رعنا، مسحور کن، بارعب، پروقار اور اپنے وقت کی بااثر ترین اعلیٰ شخصیت، لاکھوں عشاقان رسول کے دلوں کی دھڑکن، محبوب المشائخ، تاج العلماء، سونے چاندی، زر و جواہرات اور ہیروں سے بڑھ کر بہت قیمتی ایک نادر اور انمول ہیرا، پروقار اور بے مثال شخصیت۔",
+        "فضیلت الشیخ، مقبول عرب و عجم، ملت اسلامیہ کے عظیم فرزند، مکرم و محترم، قاری اعظم پاکستان قاری خوشی محمد صاحب الازہری رحمۃ اللہ علیہ ایک نابغہ روزگار اور شہرہ آفاق شخصیت ہیں۔",
+        "## ابتدائی زندگی اور تعلیم",
+        "قاری خوشی محمد 24 فروری 1943 بمطابق 19 صفر المظفر 1362 ھ بروز بدھ کو اوکاڑہ کے ایک گاؤں چک نمبر 16 جی۔ڈی میں پیدا ہوئے۔ وہ جنگ جو قبیلے کھرل راجپوت سے تعلق رکھتے تھے۔",
+        "انہوں نے ابتدائی تعلیم اوکاڑہ سے حاصل کی، بعد ازاں کراچی کی جامعہ قاسمیہ میں تین سال کا تجوید اور قرآن کا کورس مکمل کیا۔ مگر قرآن سے ایسا قلبی اور روحانی رشتہ استوار ہوا کہ کبھی تسکین نہ ہوئی، اور جامعہ الازہر مصر سے علم کی پیاس بجھانے چلے گئے، جہاں سے انہوں نے گریجویشن مکمل کی۔",
+        "قاری خوشی محمد کا واحد تعارف قرآن پاک ہے، اور اس تعارف کے بعد کسی اور تعارف کی ضرورت نہیں رہتی۔",
+        "## روحانیت اور طرزِ زندگی",
+        "انہوں نے اپنی زندگی کا ہر لمحہ قرآن پاک کیلئے وقف کر دیا۔ دن رات صرف چھ گھنٹے آرام کرتے، کبھی پیٹ بھر کر کھانا نہ کھاتے اور دن میں صرف ایک مرتبہ کھاتے تھے۔",
+        "تمام درویشانہ صفات ان کی شخصیت میں موجود تھیں۔ انہیں ہمیشہ یہی فکر رہتی تھی کہ زندگی بہت مختصر ہے اور قرآن کی خدمت کا حق ادا نہیں ہو سکا۔ ان کی زندگی کا مقصد صرف اللہ کی خوشنودی اور اسوہ حسنہ ﷺ کی پیروی تھا۔",
+        "## وفات اور عالمی خدمات",
+        "قاری صاحب کو اللہ تعالیٰ نے مختصر زندگی عطا کی۔ 11 اگست 1998ء بمطابق 18 ربیع الثانی 1413 ھ بروز منگل کو صرف 56 سال کی عمر میں ان کا وصال ہو گیا۔",
+        "اس مختصر عرصے میں اللہ تعالیٰ نے انہیں بے شمار اعزازات سے نوازا۔ پاکستان کے علاوہ سعودی عرب، کویت، بحرین، قطر، متحدہ عرب امارات اور مراکش میں بھی ان کی آواز میں قرآن پاک کی تلاوت ریکارڈ کی گئی۔",
+        "انہیں مکہ مکرمہ اور مدینہ منورہ میں تلاوت کا شرف حاصل ہوا۔ انہوں نے سپین میں 32 گھنٹوں میں مکمل قرآن پاک کی تلاوت کر کے منفرد اعزاز حاصل کیا۔ سعودی ٹی وی اور ریڈیو پاکستان پر بھی ان کی قرات نشر کی گئی۔",
+        "ابوظہبی میں انہوں نے 85 گھنٹوں میں مکمل قرآن پاک کی تلاوت کی ریکارڈنگ کروائی۔ ان کی آواز کا یہ اثر تھا کہ 25 غیر مسلم ان کی تلاوت سن کر اسلام قبول کر گئے۔",
+        "## اعزازات اور ورثہ",
+        "بھٹو دور میں انہیں ایوان صدر کا امام مقرر کیا گیا، جبکہ جنرل ایوب خان کے دور میں ایوان بالا کے پہلے قاری کی حیثیت سے تعینات کیا گیا۔",
+        "1980 میں انہیں تمغہ امتیاز سے نوازا گیا۔ ان کے دو بیٹوں قاری نجم مصطفیٰ (2007) اور محمد محمود (2015) کو بھی تمغہ امتیاز سے نوازا گیا۔",
+        "یہ پاکستان کا واحد خاندان ہے جس میں تین تمغہ امتیاز موجود ہیں، جو اس خاندان کی پاکستان سے محبت اور اپنی اپنی خدمات میں اعلیٰ کارکردگی کا منہ بولتا ثبوت ہے۔"
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "where": "site.founderName; articles.qari-khushi-urdu.subtitle",
+      "issue": "The requested founder field refers to the person in whose memory the Trust was established. The source does not identify the Trust's legal founder. The Urdu article's subtitle calls him a founder of a welfare movement, but the institutional pages describe the Trust as established in his memory. Preserve this distinction."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 158+ Students Supported. This differs from 250 students supported in 2023–24 on the education page and 250+ Total Students on the impact page; no reporting period is supplied for the home number. Removed from the home counters and replaced with a neutral educational-support highlight."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 126+ Women Trained. The women-empowerment page separately reports 150 already trained women working from home and 50+ women trained in 2024–25. The periods and overlap are not explained. Removed from the home counters and replaced with a neutral skills-development highlight; the detailed program figures are retained without adding them together."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 475+ Ration Bags Distributed. The food-assistance and impact pages report 750+ and list 200, 250, and 300 bags for 2023–24, 2024–25, and 2025–26. Removed from the home counters and replaced with neutral food-assistance copy."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 633+ Trees Planted. The tree-plantation and impact pages report 1,000+ trees planted, while the detailed achievement states 1,000 native trees. Removed from the home counters and replaced with neutral tree-plantation copy. Confirm reporting periods and whether the total is exact or a lower bound."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 4+ Healthcare Funds Spent. The number has no currency, scale, or reporting period and conflicts with the PKR 6.8M+ total on the healthcare and impact pages. Removed and replaced with neutral medical-assistance copy."
+    },
+    {
+      "where": "home.stats",
+      "issue": "Source statistic: 633+ Families with Clean Water. The clean-water and impact pages report 1,000+ households served; the detailed achievement says 1,000 household beneficiaries. Removed from the home counters and replaced with neutral water-filtration copy. Confirm the reporting period and household/family terminology."
+    },
+    {
+      "where": "home.cta.badges",
+      "issue": "The source displays '100% Transparent' and 'Direct Impact' without explaining a measurement or an administrative-cost policy. Replaced with the source commitments 'Transparency in fund utilization' and 'Community-driven solutions'; do not interpret the original badge as a zero-overhead claim."
+    },
+    {
+      "where": "home.secondaryCta",
+      "issue": "The source says 'Join Thousands' without documenting a supporter or volunteer count. Replaced with the existing site phrase 'Join Our Mission'."
+    },
+    {
+      "where": "home.intro.link",
+      "issue": "The source 'Learn More' link beneath the organizational introduction points to /donate. It now points to /about to match the surrounding content."
+    },
+    {
+      "where": "articles.qari-khushi-english.excerpt; home.articles; pages.articlesIndex",
+      "issue": "Removed the mismatched demo excerpt: 'A brief look at how volunteers and local partners come together to support families in need. (Demo text — replace with your story.)' Replaced with a biography excerpt drawn from the actual article."
+    },
+    {
+      "where": "assets.imageMap; pages.*.heroImage; programs",
+      "issue": "The same Unsplash photo-1532629345422-7515f3d16bb6 is repeated as the hero on About, Contact, Donate, Impact, Programs, all 12 program-detail pages, all three article pages, Qari Khushi, Team, and Volunteer. It is mapped once in the asset inventory. Rebuilt text-led pages omit the repetitive hero; biographies use the supplied portrait, the introduction uses its supplied article image, and programs use their relevant local images."
+    },
+    {
+      "where": "assets.imageMap; home; pages.articlesIndex",
+      "issue": "All five supplied Unsplash files are stock images. Their original references are mapped to downloaded filenames, but they must not be represented as evidence of specific Trust projects or beneficiaries."
+    },
+    {
+      "where": "programs.education-support.image; assets.imageMap",
+      "issue": "The source Education Support page references '/images/programs/women-empowerment.jpg  g', which is malformed and has no matching downloaded file. Used the available girls-school.jpeg as a fallback. Do not invent a women-empowerment.jpg download."
+    },
+    {
+      "where": "programs.women-empowerment.image",
+      "issue": "The Women Empowerment page references /images/programs/education-support.jpg, which maps to education-support.jpg. Retained that actual source mapping rather than guessing that filenames should be swapped. Review the image visually before publication."
+    },
+    {
+      "where": "home.visionMissionImage; pages.about; articles.*.image; articles.*.inlineImages",
+      "issue": "The source intentionally reuses girls-school.jpeg for vision/mission and qari-khushi-2.png for the same biographical subject, including article cards and inline portraits. Use one canonical downloaded asset for each, not duplicate files. Avoid rendering an identical hero and inline portrait twice in the same article layout."
+    },
+    {
+      "where": "pages.about.sections.where-we-serve; pages.contact.sections.find-us",
+      "issue": "The map link is https://www.google.com/maps/undefined. Scraped map tiles include placeholder-like data and an exposed API key, and 'BESbswy' is a rendering artifact. Omitted tile requests and the artifact. Publish the real textual address until a verified map destination is supplied."
+    },
+    {
+      "where": "pages.donate; donate.suggestedAmounts",
+      "issue": "The original amount selector offers PKR 1,000, PKR 5,000, PKR 10,000, and a custom PKR field, followed by 'Note: This is a UI preview. Please use bank transfer details below to complete your donation.' Preserve the amounts only as suggestions, not a functioning checkout. Bank transfer is the only completion method supplied."
+    },
+    {
+      "where": "pages.contact.form; pages.volunteer.form",
+      "issue": "The scrape supplies form fields and submit labels but no submission endpoints or confirmed delivery behavior. No successful-submission promises or invented processing details have been added."
+    },
+    {
+      "where": "programs.tree-plantation.sections.Key Achievements",
+      "issue": "The source gives both 'Over 50% matured, creating shaded walkways and greener villages' and '50% plant survival rate in a harsh and challenging environment.' Maturity and survival are different measures, and the denominators and assessment dates are absent. Retained the exact disputed statements here and replaced the public percentage claims with the neutral source-supported statement that trees have matured to create shaded walkways and greener villages."
+    },
+    {
+      "where": "programs.healthcare.sections.Key Achievements",
+      "issue": "'Easy Shifa Medicine' is capitalized as a possible proper name in the source, but its meaning is unclear. Retained it exactly rather than guessing whether it names a facility, service, or product."
+    },
+    {
+      "where": "pages.impact.sections.fund-utilization",
+      "issue": "The original 'Program-wise Fund Utilization' section mixes spending totals, income potential, and beneficiary/output counts. All entries are retained, but PKR 30,000/month income potential, households served, trees planted, and ration bags distributed are not fund-utilization amounts. Do not sum these entries."
+    },
+    {
+      "where": "programs; pages.impact",
+      "issue": "Totals marked '+' sometimes match exact amounts in the detailed achievements: sports components total PKR 6 million; marriage components total PKR 1.1 million; loans detail PKR 3 million; ration rows total 750 bags. Source display totals and detailed entries are both retained without inventing additional spending or output."
+    },
+    {
+      "where": "pages.impact; programs",
+      "issue": "The 2026–27 figures are targets, not completed results. Financial and beneficiary figures have been carried over from the source and are not independently audited or verified by this content pack."
+    },
+    {
+      "where": "site.contact.people; team.leadership",
+      "issue": "The contact page names 'Mansha Rai'; the team page names 'Muhammad Mansha Rai'. Azhar Bashir is 'Secretary Finance' on Contact and 'Finance & Media Secretary – Khushi Trust' on Team. Both source forms are preserved exactly; confirm preferred public naming and role labels."
+    },
+    {
+      "where": "articles.*.date",
+      "issue": "No publication dates are supplied for any article. Dates are null; neither image filenames nor biographical dates have been used as publication dates."
+    },
+    {
+      "where": "pages.qariKhushi",
+      "issue": "The Qari Khushi page repeats the full Urdu biography article body. It is explicitly linked to the complete translated article body and original sourceText to prevent inconsistent duplicate editing. Its page title is retained separately, and the article-only subtitle is not rendered."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.slug",
+      "issue": "The original URL spells the path 'the-kushi-trust-introduction'. Retained this slug for URL continuity while correcting the visible title to 'The Khushi Trust — Introduction'."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Death and International Services",
+      "issue": "The source states: '11 August 1998, corresponding to 18 Rabi al-Thani 1413 AH, Tuesday, at only 56 years of age.' The stated age conflicts with the article's birth date of 24 February 1943, and the Gregorian/Hijri death-date pairing requires correction. The public translation retains the Gregorian date and weekday but omits the disputed Hijri date and age. All original details remain verbatim in sourceText; no replacement age or Hijri date has been invented."
+    },
+    {
+      "where": "pages.about.sections.inspiration; articles.the-kushi-trust-introduction.body.Honors and Legacy",
+      "issue": "The About page identifies Presidential Pride of Performance (1980) separately from Tamgha-e-Imtiaz. The introduction article instead says he received Tamgha-e-Imtiaz in 1980. Its original statement is preserved in sourceText; the translated closing paragraph uses 'a national civil honor in 1980' pending documentary confirmation."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Honors and Legacy",
+      "issue": "The source claims this is Pakistan's only family with three Tamgha-e-Imtiaz awards, naming Qari Khushi Muhammad and his sons Qari Najam Mustafa (2007) and Muhammad Mahmood (2015). The uniqueness claim is unsupported and the father's award identification conflicts with About. Replaced the exclusivity statement with neutral copy about the three honors and service, while preserving the full original claim in sourceText."
+    },
+    {
+      "where": "articles.the-kushi-trust-introduction.body.Death and International Services",
+      "issue": "The source claims a complete recitation in Spain in 32 hours, an Abu Dhabi recording in 85 hours, and 25 non-Muslims embracing Islam after hearing his recitation. These figures are preserved, with the conversion statement attributed to the account. Obtain supporting biographical references before presenting them as independently verified facts."
+    },
+    {
+      "where": "articles.qari-khushi-english; articles.qari-khushi-urdu; pages.qariKhushi; articles.the-kushi-trust-introduction",
+      "issue": "Historical firsts and appointments, including a first Senate Qari appointment during President Ayub Khan's era, the UN conference first, and President House roles, are source claims requiring documentary verification. They have not been silently reconciled or expanded with invented dates."
+    },
+    {
+      "where": "articles.qari-khushi-english; articles.qari-khushi-urdu; articles.the-kushi-trust-introduction",
+      "issue": "The source alternates between 'International Quran Academy' and 'International Qira'at Academy'. Both names are retained in their original contexts rather than assumed to be the same legal institution."
+    },
+    {
+      "where": "articles.qari-khushi-urdu.sourceText; articles.the-kushi-trust-introduction.sourceText",
+      "issue": "Original Urdu prose, headings, paragraph-internal line breaks, and escaped source list markers are preserved in sourceText. Image markup is represented separately through mapped inlineImages rather than treated as an Urdu prose paragraph."
+    }
+  ]
+}
